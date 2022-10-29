@@ -23,3 +23,11 @@ where <em>n</em><sub><em>i</em></sub> = number of dates in the older bin, <em>n<
 7. calculate 95% confidence interval of correlation
 8. plot reconstructed population growth curves per temporal bin (± 95% confidence limits)
 9. plot taphonomically corrected number of dates per temporal bin ((± 95% confidence limits)
+
+## Required R packages
+
+- <code>ggplot2</code>
+- <code>stratigraphr</code>
+- <code>DescTools</code>
+- <code>rcarbon</code>
+- <code>stringr</code>
