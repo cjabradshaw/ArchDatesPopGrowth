@@ -1,5 +1,6 @@
 # Sahul-wide human population growth
 <img align="right" src="www/popgr.png" alt="population growth icon" width="200" style="margin-top: 20px">
+<a href="https://doi.org/10.5281/zenodo.7263285"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.7263285.svg" alt="DOI"></a>
 
 Sahul-wide human population growth estimates from temporal distribution of archaeological dates between 40 ka and 5 ka
 
