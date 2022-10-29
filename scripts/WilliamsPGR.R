@@ -15,7 +15,6 @@ library(rcarbon)
 library(stringr)
 
 # import raw radiometric dates
-setwd("~/Documents/Papers/Palaeo/Sahul/Aus hum N trajectories/data/Williams' data")
 RCdates <- read.csv("radiometricdates.csv")
 head(RCdates)
 
@@ -181,14 +180,12 @@ factor(RCnotmarine$matClass)
 dim(RCnotmarine)
 table(RCnotmarine$matClass)
 CALnotmarine <- calibrate(x=RCnotmarine$RCage, errors=RCnotmarine$RCerr, ids=RCnotmarine$labcode, calCurves="shcal20")
-#multiplot(CALnotmarine, decreasing=T, rescale=T, HPD=T)
 CALnotmarine.summ <- summary(CALnotmarine)
 
 RCmarine <- subset(RCsortlim, matClass=="marine" | matClass=='otolith')
 dim(RCmarine)
 table(RCmarine$matClass)
 CALmarine <- calibrate(x=RCmarine$RCage, errors=RCmarine$RCerr, ids=RCmarine$labcode, calCurves="marine20", verbose=T)
-#length(which.CalDates(CALmarine, BP<=50000&BP>=4000, p=0.5))
 CALmarine.summ <- summary(CALmarine)
 dim(CALmarine.summ)
 head(CALnotmarine.summ)
@@ -277,8 +274,6 @@ for (i in 1:iter) {
   # Williams' approach
   # apply df=25 smoothing spline to time series
   num.dates.ss <- smooth.spline(x=intMDvec, y=num.dates, df=25)
-  #plot(intMDvec, num.dates, type="l", xlab="calendear years BP", ylab="number of radiocarbon dates")
-  #lines(intMDvec, num.dates.ss$y, lwd=2, col="red")
   
   # taphonomic correction
   #num.dates.taphc <- num.dates.ss$y / rnorm(length(taph.corr.interp$t), taph.corr.interp$corr, taph.corr.interp$sd)
@@ -286,7 +281,6 @@ for (i in 1:iter) {
     
   # mean annual growth rate
   GRann.mat[i,2:(length(intMDvec))] <- (diff(nDatesCorr.mat[i,])*0.5)/nDatesCorr.mat[i,][1:(length(nDatesCorr.mat[i,])-1)]
-  #plot(intMDvec[-length(intMDvec)], GRann, type="l",ylim=c(-0.2,1))
   
   # instantaneous exponential rate of increase
   r.mat[i,2:(length(intMDvec))] <- log(nDatesCorr.mat[i,][2:length(nDatesCorr.mat[i,])] / nDatesCorr.mat[i,][1:(length(nDatesCorr.mat[i,])-1)])
