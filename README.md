@@ -13,6 +13,7 @@ This R code recalculates Sahul-wide human population growth values originally pr
 5. calculate Williams' (2013) mean annual population growth (GRann) and instantaneous rate of exponential growth (<em>r</em>) for each resampled, corrected series: 
 
 GRann = 0.5(<em>n</em><sub><em>i</em>-1</sub>-<em>n</em><sub><em>i</em></sub>)/<em>n</em><sub><em>i</em></sub>
+
 <em>r</em> = log(<em>n</em><sub><em>i</em></sub>/<em>n</em><sub><em>i</em>-1</sub>)
 
 where <em>n</em><sub><em>i</em></sub> = number of dates in the older bin, <em>n</em><sub><em>i</em>-1</sub> = number of dates in the younger bin
