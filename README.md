@@ -20,7 +20,7 @@ GRann = 0.5(<em>n</em><sub><em>i</em>-1</sub>-<em>n</em><sub><em>i</em></sub>)/<
 where <em>n</em><sub><em>i</em></sub> = number of dates in the older bin, <em>n</em><sub><em>i</em>-1</sub> = number of dates in the younger bin
 
 
-6. correlate Grann & <em>r</em> for each iteration
+6. correlate GRann & <em>r</em> for each iteration
 7. calculate 95% confidence interval of correlation
 8. plot reconstructed population growth curves per temporal bin (± 95% confidence limits)
 9. plot taphonomically corrected number of dates per temporal bin ((± 95% confidence limits)
