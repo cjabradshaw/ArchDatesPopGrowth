@@ -3,7 +3,7 @@
 
 Sahul-wide human population growth estimates from temporal distribution of archaeological dates between 40 ka and 5 ka
 
-This R code recalculates Sahul-wide human population growth values originally presented in Williams, A.N., 2013. <a href="https://royalsocietypublishing.org/doi/full/10.1098/rspb.2013.0486">A new population curve for prehistoric Australia</a>. <em>Proc. R. Soc. Lond. B</em> 280, 20130486
+This R code recalculates Sahul-wide human population growth using a resampling approach (values originally presented in Williams, A.N., 2013. <a href="https://royalsocietypublishing.org/doi/full/10.1098/rspb.2013.0486">A new population curve for prehistoric Australia</a>. <em>Proc. R. Soc. Lond. B</em> 280, 20130486)
 
 ## General approach
 
