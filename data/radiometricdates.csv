@@ -1,0 +1,1899 @@
+IBRA,lon,lat,sitetype,labcode,RCage,RCerr,RClo,RCup,occup,calc,material
+Australian Alps,148.92,-36.01,rockshelter,ANU-1049,1600,60,1540,1660,Y,0,charcoal
+Australian Alps,148.31,-36.51,open site,ANU-6866,950,150,800,1100,U,0,charcoal
+Australian Alps,148.31,-36.51,open site,ANU-6867,4390,80,4310,4470,U,0,charcoal
+Australian Alps,148.31,-36.51,open site,ANU-6868,2460,120,2340,2580,U,0,charcoal
+Australian Alps,148.35,-37.36,rockshelter,SUA-2217,4660,110,4550,4770,Y,0,charcoal
+Australian Alps,148.35,-37.36,rockshelter,SUA-2218,9500,750,8800,10300,Y,1,charcoal
+Australian Alps,148.35,-37.36,rockshelter,GaK-9012,9850,2800,7050,12650,Y,0,charcoal
+Australian Alps,148.35,-37.36,rockshelter,GaK-9013,9940,270,9670,10210,Y,0,charcoal
+Australian Alps,148.35,-37.36,rockshelter,SUA-2221,14600,944,13000,16700,Y,1,charcoal
+Australian Alps,148.35,-37.36,rockshelter,SUA-2222,21000,434,20200,21900,Y,1,charcoal
+Australian Alps,148.95,-35.72,rockshelter,ANU-1048,550,60,490,610,Y,0,charcoal
+Australian Alps,148.95,-35.72,rockshelter,ANU-1051,770,140,630,910,Y,0,charcoal
+Brigalow Belt South ,149.84,-29.46,burial,GX-2669,2285,125,2160,2410,Y,0,charcoal
+Broken Hill Complex,142.34,-31.95,rockshelter,ANU 704,1850,240,1610,2090,Y,0,charcoal
+Broken Hill Complex,140.4,-31.11,rock engraving,Beta-13803,10250,170,10080,10420,N,0,calcium carbonate
+Broken Hill Complex,140.4,-31.11,rock engraving,Beta-13804,10410,170,10240,10580,N,0,calcium carbonate
+Broken Hill Complex,140.4,-31.11,rock engraving,SUA-2099,2680,380,2300,3060,N,0,soil carbonate
+Broken Hill Complex,140.4,-31.11,rock engraving,SUA-2100,3530,210,3320,3740,N,0,soil carbonate
+Broken Hill Complex,142.3,-31.28,open site,NSW-1,285,80,205,365,U,0,charcoal
+Broken Hill Complex,140.4,-31.11,rock engraving,SUA-2011,7090,310,6780,7400,N,0,soil carbonate
+Cobar Peneplain,145.6,-31.51,rockshelter,V-49,200,65,135,265,Y,0,charcoal
+Cobar Peneplain,145.83,-31.36,rockshelter,V-50,310,75,235,385,Y,0,charcoal
+Esperance Plains,122.27,-33.52,rockshelter,GX-6606,410,120,290,530,Y,0,carbon
+Esperance Plains,122.27,-33.52,rockshelter,GX-6604,12845,310,12535,13155,Y,0,wood fragment
+Esperance Plains,122.27,-33.52,rockshelter,GX-6605,13245,315,12930,13560,Y,0,carbon
+Esperance Plains,118.41,-34.9,midden,SUA-1808,500,70,430,570,U,0,marine shell (Nerita atramentosa)
+Esperance Plains,123.7,-34.65,midden,Wk-3334,450,45,405,495,U,0,marine
+Esperance Plains,123.3,-33.95,midden,SUA-1914,420,80,340,500,Y,0,marine shell (Nerita atramentosa)
+Esperance Plains,119.54,-34.38,midden,SUA-1810,390,80,310,470,Y,0,marine shell (Nerita atramentosa)
+Flinders,148.29,-41.04,stone arrangement ,ANU-2297,750,100,650,850,U,0,charcoal
+Flinders,147.88,-40.31,rockshelter,ANU-8130,8700,125,8575,8825,Y,0,marine shell
+Flinders,147.78,-39.85,midden,ANU-7406,6250,97,6153,6347,Y,0,marine (Cellana sp.)
+Flinders,147.88,-40.01,midden,ANU-7404,5560,97,5463,5657,Y,0,marine (Cellana sp.)
+Flinders,147.75,-40.08,rockshelter,SUA-2895,7960,170,7790,8130,,0,charcoal
+Flinders,147.75,-40.08,rockshelter,SUA-2802,8250,230,8020,8480,,0,charcoal
+Flinders,147.75,-40.08,rockshelter,ANU-8996,9100,130,8970,9230,Y,0,charcoal
+Flinders,147.75,-40.08,rockshelter,SUA-2894,14300,1050,13300,15400,,1,charcoal
+Flinders,147.75,-40.08,rockshelter,NZA-972,14900,160,14740,15060,,0,charcoal
+Flinders,147.75,-40.08,rockshelter,NZA-973,15820,220,15600,16040,,0,charcoal
+Flinders,147.75,-40.08,rockshelter,Beta-28071/ETH-4954,16690,210,16480,16900,Y,0,charcoal
+Flinders,147.75,-40.08,rockshelter,ANU-8997,17650,350,17300,18000,Y,0,charcoal
+Flinders,147.75,-40.08,rockshelter,SUA-2898,18300,600,17700,18900,,0,charcoal
+Flinders,147.75,-40.08,rockshelter,SUA-2897,18400,200,18200,18600,,0,charcoal
+Flinders,147.75,-40.08,rockshelter,SUA-2893,18650,350,18300,19000,Y,0,charcoal
+Flinders,147.75,-40.08,rockshelter,NZA-974,20560,290,20270,20850,,0,charcoal
+Flinders,147.75,-40.08,rockshelter,ANU-8999,21890,340,21550,22230,Y,0,charcoal
+Flinders,147.83,-39.83,midden,ANU-7405,5070,87,4983,5157,Y,0,marine (Cellana sp.)
+Flinders,147.89,-39.76,midden,ANU-7400,4730,78,4652,4808,Y,0,marine (Cellana sp.)
+Flinders,147.9,-39.76,open site,SUA-642,6520,130,6390,6650,U,0,charcoal
+Flinders,147.9,-39.76,open site,SUA-641,7150,135,7015,7285,Y,0,charcoal
+Flinders,147.9,-39.76,open site,SUA-640,9890,175,9715,10065,N,0,charcoal
+Flinders,148.28,-40.86,hearth,Beta-8190,8300,80,8220,8380,Y,0,charcoal
+Flinders,147.8,-39.88,midden,ANU-7402,5920,87,5833,6007,Y,0,marine (Cellana sp.)
+Flinders Lofty Block,138.08,-32.1,hearth,ANU-656,170,60,110,230,Y,0,charcoal
+Flinders Lofty Block,138.08,-32.1,hearth,ANU-658,900,90,810,990,Y,0,charcoal
+Flinders Lofty Block,138.08,-32.1,hearth,ANU-657,940,350,590,1290,Y,0,charcoal
+Gawler,138.72,-34.62,hearth,ANU-204,235,75,160,310,Y,0,charcoal
+Jarrah Forest,122.53,-33.9,rockshelter,ARL-248,1930,100,1830,2030,U,0,marine
+Jarrah Forest,122.53,-33.9,rockshelter,ARL-237,2080,100,1980,2180,U,0,marine
+Jarrah Forest,118.89,-32.45,rockshelter,Wk-24311,326,89,237,415,U,0,charcoal
+Jarrah Forest,118.89,-32.45,rockshelter,Not given,420,50,370,470,N,0,charcoal
+Jarrah Forest,118.89,-32.45,rockshelter,Wk-24309,1340,94,1246,1434,U,0,charcoal
+Jarrah Forest,118.89,-32.45,rockshelter,Wk-24864,1541,30,1511,1571,U,0,charcoal
+Jarrah Forest,118.89,-32.45,rockshelter,Wk-24310,5093,30,5063,5123,U,0,charcoal
+Kanmantoo,136.71,-36.05,rockshelter,CS-610,6810,80,6730,6890,Y,0,charcoal
+Kanmantoo,136.71,-36.05,rockshelter,CS-495,7320,100,7220,7420,Y,0,charcoal
+Kanmantoo,136.71,-36.05,rockshelter,CS-496,7450,100,7350,7550,Y,0,charcoal
+Kanmantoo,137.08,-35.92,rockshelter,ANU-925,10940,160,10780,11100,Y,0,charcoal
+Kanmantoo,137.08,-35.92,rockshelter,ANU-1221,16100,1000,15100,17100,Y,0,charcoal
+King,144.67,-41.05,midden,V-19,1560,70,1490,1630,Y,0,charcoal
+King,144.67,-41.05,midden,ANU-2493,4050,240,3810,4290,Y,0,charcoal
+King,143.86,-40.06,quarry,ANU-7420,10180,240,9940,10420,Y,0,charcoal
+King,143.86,-40.06,midden,ANU-7422,1980,69,1911,2049,Y,0,marine (Subninella undulata)
+King,144.45,-40.34,rockshelter,ANU-1616,990,90,900,1080,U,0,charcoal
+King,144.45,-40.34,rockshelter,ANU-1362,2580,70,2510,2650,Y,0,charcoal
+King,144.45,-40.34,rockshelter,ANU-1615,3330,100,3230,3430,Y,0,charcoal
+King,144.45,-40.34,rockshelter,ANU-1614,3960,110,3850,4070,Y,0,charcoal
+King,144.45,-40.34,rockshelter,ANU-1773,6600,90,6510,6690,Y,0,charcoal
+King,144.45,-40.34,rockshelter,ANU-1797,6640,100,6540,6740,Y,0,charcoal
+King,144.45,-40.34,rockshelter,ANU-1552,7180,90,7090,7270,Y,0,charcoal
+King,144.45,-40.34,rockshelter,ANU-1852,14760,390,14370,15150,Y,0,charcoal
+King,144.45,-40.34,rockshelter,ANU-1772,14850,190,14660,15040,Y,0,charcoal
+King,144.45,-40.34,rockshelter,ANU-1613,15400,330,15070,15730,Y,0,charcoal
+King,144.45,-40.34,rockshelter,ANU-1361,18550,600,17950,19150,Y,0,scattered charcoal
+King,144.45,-40.34,rockshelter,ANU-1774,19250,300,18950,19550,Y,0,charcoal
+King,144.45,-40.34,rockshelter,ANU-1612,20850,290,20560,21140,Y,0,charcoal
+King,144.45,-40.34,rockshelter,ANU-1498,22750,420,22330,23170,Y,0,charcoal
+King,143.9,-40.1,burial,ANU-7039,14270,640,13630,14910,Y,0,charcoal
+King,144.69,-40.73,midden,I-317,1500,150,1350,1650,Y,0,wood charcoal
+King,145.1,-40.8,midden,ANU-1618,900,90,810,990,Y,0,charcoal
+King,145.1,-40.8,midden,ANU-1778,1000,60,940,1060,Y,0,charcoal
+King,144.63,-40.95,midden,GXO-420,2600,120,2480,2720,Y,0,wood charcoal
+King,144.63,-40.95,midden,I-322,2350,150,2200,2500,Y,0,wood charcoal
+King,144.71,-40.86,midden,ANU-337,840,100,740,940,Y,0,charcoal
+King,144.71,-40.86,midden,ANU-340,840,100,740,940,U,0,charcoal
+King,144.71,-40.86,midden,ANU-341,1070,110,960,1180,Y,0,charcoal
+King,144.71,-40.86,midden,ANU-338,1230,80,1150,1310,Y,0,charcoal
+King,144.71,-40.86,midden,ANU-339,1350,200,1150,1550,Y,0,charcoal
+King,144.72,-40.87,burial,ANU-1136,4260,360,3900,4620,Y,0,charcoal
+King,144.73,-40.33,midden,ANU-1621,420,70,350,490,Y,0,charcoal
+King,144.73,-40.33,midden,ANU-1363,1610,160,1450,1770,Y,0,charcoal
+King,143.91,-39.68,midden,ANU-7058,1100,78,1022,1178,Y,0,marine
+King,144.73,-40.33,rockshelter with midden deposits,ANU-1698,870,70,800,940,Y,0,charcoal
+King,144.73,-40.33,rockshelter with midden deposits,ANU-1699,1370,70,1300,1440,Y,0,charcoal
+King,144.73,-40.33,rockshelter with midden deposits,ANU-1617,4620,360,4260,4980,Y,0,charcoal
+King,145.72,-40.95,rockshelter with midden deposits,NSW-17,6050,88,5962,6138,Y,0,charcoal
+King,144.76,-40.52,midden,ANU-1620,760,70,690,830,Y,0,charcoal
+King,143.88,-40.1,open site,ANU-2189,7670,150,7520,7820,U,0,charcoal
+King,144.63,-40.95,midden,V-66,1330,80,1250,1410,y,0,charcoal
+King,144.63,-40.95,midden,V-69,1850,80,1770,1930,Y,0,charcoal
+Mulga Lands,147.2,-30.2,open site,Beta-81385,1470,70,1400,1540,U,0,charcoal
+Mulga Lands,147.2,-30.2,open site,Beta-81375,5590,60,5530,5650,U,0,charcoal
+Mulga Lands,147.2,-30.2,open site,Beta-81376,14820,70,14750,14890,U,0,charcoal
+Mulga Lands,147.2,-30.2,open site,Beta-44374,19270,230,19040,19500,Y,0,charcoal
+Mulga Lands,147.2,-30.2,open site,Beta-46170,28310,200,28110,28510,Y,0,charcoal
+Mulga Lands,147.2,-30.2,open site,ANUA-13012,28590,480,28110,29070,U,0,charcoal
+Mulga Lands,147.2,-30.2,open site,ANUA-10011,28740,340,28400,29080,U,0,charcoal
+Mulga Lands,147.2,-30.2,open site,Beta-81377,28770,300,28470,29070,U,0,charcoal
+Mulga Lands,147.2,-30.2,open site,ANUA-10012,28780,350,28430,29130,U,0,charcoal
+Mulga Lands,147.2,-30.2,open site,Beta-81384,29170,360,28810,29530,U,0,charcoal
+Mulga Lands,147.2,-30.2,open site,Beta-46171,29570,280,29290,29850,Y,0,charcoal
+Mulga Lands,147.2,-30.2,open site,Beta-44375,30280,450,29830,30730,Y,0,charcoal
+Mulga Lands,147.2,-30.2,open site,Beta-81381,30990,360,30630,31350,U,0,charcoal
+Mulga Lands,147.2,-30.2,open site,ANUA-12309,31340,1000,30340,32340,U,0,charcoal
+Mulga Lands,147.2,-30.2,open site,ANUA-10319,32000,550,31450,32550,U,0,charcoal
+Mulga Lands,147.2,-30.2,open site,Beta-81383,32420,460,31960,32880,U,0,charcoal
+Mulga Lands,147.2,-30.2,open site,Beta-81382,32580,510,32070,33090,U,0,charcoal
+Mulga Lands,147.2,-30.2,open site,Beta-81378,32900,510,32390,33410,U,0,charcoal
+Mulga Lands,147.2,-30.2,open site,Beta-81380,33300,530,32770,33830,U,0,charcoal
+Mulga Lands,147.2,-30.2,open site,Beta-81379,33660,530,33130,34190,U,0,charcoal
+Murray Darling Basin,141.26,-33.64,artefact scatter/midden,Beta-166349,11730,430,11300,12160,Y,0,freshwater mussel shell
+Murray Darling Basin,141.64,-33.82,artefact scatter/midden,OZF104,7910,40,7870,7950,U,0,freshwater mussel shell
+Murray Darling Basin,150.36,-28.61,burial,ANU-7670B,190,70,120,260,Y,0,human bone collagen
+Murray Darling Basin,142.85,-35.23,open site,SUA-558,22000,370,21630,22370,N,0,charcoal
+Murray Darling Basin,142.85,-35.23,open site,Wk-166,22015,125,21890,22140,Y,0,charcoal
+Murray Darling Basin,142.85,-35.23,open site,SUA-1439,23400,340,23060,23740,U,0,charcoal
+Murray Darling Basin,142.85,-35.23,open site,Wk-167,23507,174,23333,23681,Y,0,charcoal
+Murray Darling Basin,142.85,-35.23,open site,Wk-168,24061,144,23917,24205,Y,0,charcoal
+Murray Darling Basin,142.85,-35.23,open site,Wk-169,24372,150,24222,24522,Y,0,charcoal
+Murray Darling Basin,142.85,-35.23,open site,Wk-170,27656,202,27454,27858,Y,0,charcoal
+Murray Darling Basin,142.85,-35.23,open site,SUA-783,27780,730,27050,28510,N,0,charcoal
+Murray Darling Basin,142.85,-35.23,open site,SUA-559,31700,1140,30560,32840,N,0,charcoal
+Murray Darling Basin,142.85,-35.23,open site,Wk-171,40384,766,39618,41150,U,0,charcoal
+Murray Darling Basin,143,-33.87,open site,ANU-881,14630,100,14530,14730,N,0,charcoal
+Murray Darling Basin,143.06,-35.26,burial,SUA-1695C,1100,80,1020,1180,Y,0,bone (re-precipitated alkali soluble fraction)
+Murray Darling Basin,143.06,-35.26,burial,SUA-1695B,1380,70,1310,1450,Y,0,bone (residue)
+Murray Darling Basin,145.4,-36.38,open site,Beta-63810,860,70,790,930,U,0,charcoal
+Murray Darling Basin,145.4,-36.38,open site,Beta-63811,4170,70,4100,4240,U,0,charcoal
+Murray Darling Basin,139.61,-34.69,rockshelter,Not given,2245,140,2105,2385,Y,0,charcoal
+Murray Darling Basin,139.61,-34.69,rockshelter,GaK-1021,2980,90,2890,3070,Y,0,charcoal
+Murray Darling Basin,139.61,-34.69,rockshelter,Gak-1022,3460,100,3360,3560,Y,0,charcoal
+Murray Darling Basin,139.61,-34.69,rockshelter,L-271G,4290,140,4150,4430,Y,0,freshwater shell (Unio protovittatus)
+Murray Darling Basin,139.61,-34.69,rockshelter,GaK-1023,4360,110,4250,4470,Y,0,charcoal
+Murray Darling Basin,139.61,-34.69,rockshelter,Gak-1024,5180,100,5080,5280,Y,0,charcoal
+Murray Darling Basin,142.09,-34.09,midden,Beta-38416,12450,80,12370,12530,Y,0,freshwater mussel
+Murray Darling Basin,142.09,-34.09,midden,Beta-38418,12420,80,12340,12500,Y,0,freshwater mussel
+Murray Darling Basin,143.43,-34.11,midden,N-1437,12100,150,11950,12250,Y,0,freshwater shell (Unionid sp.)
+Murray Darling Basin,142.75,-34.58,burial,ANU-5311,1590,260,1330,1850,Y,0,calcium carbonate
+Murray Darling Basin,142.75,-34.58,burial,ANU-5309,3390,190,3200,3580,Y,0,calcium carbonate
+Murray Darling Basin,139.54,-34.79,rockshelter,Not given,1290,80,1210,1370,U,0,charcoal
+Murray Darling Basin,139.54,-34.79,rockshelter,Not given,1806,85,1721,1891,U,0,charcoal
+Murray Darling Basin,139.54,-34.79,rockshelter,Not given,1931,85,1846,2016,Y,0,charcoal
+Murray Darling Basin,139.54,-34.79,rockshelter,R-456/1,4850,100,4750,4950,U,0,freshwater mussel (Unio shell)
+Murray Darling Basin,139.54,-34.79,rockshelter,NPL-28,1000,91,909,1091,Y,0,charcoal
+Murray Darling Basin,139.54,-34.79,rockshelter,NPL-29,1220,94,1126,1314,Y,0,charcoal
+Murray Darling Basin,139.54,-34.79,rockshelter,NPL-63,3450,90,3360,3540,Y,0,charcoal
+Murray Darling Basin,139.54,-34.79,rockshelter,NZ-365,3240,80,3160,3320,Y,0,charcoal
+Murray Darling Basin,139.54,-34.79,rockshelter,NZ-364,4800,100,4700,4900,Y,0,freshwater mussel (Unio shell)
+Murray Darling Basin,142.05,-34.17,burial,SUA-2102,1860,90,1770,1950,Y,0,charcoal
+Murray Darling Basin,142.19,-34.31,midden,Beta-48997,17820,90,17730,17910,Y,0,freshwater mussel
+Murray Darling Basin,142.19,-34.31,midden,Beta-58969,19890,220,19670,20110,Y,0,freshwater mussel
+Murray Darling Basin,140.56,-34.42,burial,ANU-6899,350,200,150,550,Y,0,human bone
+Murray Darling Basin,140.56,-34.42,burial,ANU-6901,590,220,370,810,Y,0,human bone
+Murray Darling Basin,140.56,-34.42,burial,ANU-6894,1070,200,870,1270,Y,0,human bone
+Murray Darling Basin,140.56,-34.42,burial,ANU-6895,1560,200,1360,1760,Y,0,human bone
+Murray Darling Basin,140.56,-34.42,burial,ANU-6896,4700,140,4560,4840,Y,0,human bone
+Murray Darling Basin,141.97,-35.75,hearth,Beta-54055,160,60,100,220,Y,0,freshwater mussel
+Murray Darling Basin,143,-33.7,midden,CAMS-2873,18800,150,18650,18950,Y,0,charcoal from hearth
+Murray Darling Basin,143,-33.7,hearth,CAMS-2875,20880,180,20700,21060,Y,0,charcoal from hearth
+Murray Darling Basin,143,-33.7,open site,CAMS-1929,21140,190,20950,21330,Y,0,emu eggshell
+Murray Darling Basin,143,-33.7,open site,CAMS-1930,21190,190,21000,21380,Y,0,otolith
+Murray Darling Basin,143,-33.7,hearth,CAMS-2784,26630,350,26280,26980,Y,0,humics from CAMS-2873
+Murray Darling Basin,143,-33.7,hearth,CAMS-2041,27570,400,27170,27970,Y,0,charcoal from hearth
+Murray Darling Basin,143,-33.7,hearth,CAMS-2040,30030,630,29400,30660,Y,0,charcoal from hearth
+Murray Darling Basin,143,-33.7,hearth,CAMS-2042,30050,530,29520,30580,Y,0,charcoal from hearth
+Murray Darling Basin,143,-33.7,hearth,CAMS-2039,30380,550,29830,30930,Y,0,charcoal from hearth
+Murray Darling Basin,143,-33.7,open site,CAMS-1923,34450,820,33630,35270,Y,0,humics
+Murray Darling Basin,143,-33.7,open site,CAMS-1922,34580,860,33720,35440,Y,0,humics
+Murray Darling Basin,143,-33.7,open site,CAMS-1925,35590,990,34600,36580,Y,0,freshwater mussel shell
+Murray Darling Basin,143,-33.7,open site,CAMS-2038,36170,1110,35060,37280,Y,0,freshwater mussel shell
+Murray Darling Basin,143,-33.8,midden,ANU 2207,23600,610,22990,24210,Y,0,freshwater mussel shell
+Murray Darling Basin,143,-33.7,hearth,ANU 670,26580,1905,24900,28710,Y,1,charcoal from hearth
+Murray Darling Basin,143,-33.7,hearth,ANU 671,1390,80,1310,1470,Y,0,charcoal from hearth
+Murray Darling Basin,143,-33.7,hearth,ANU 672,240,60,180,300,Y,0,charcoal from hearth
+Murray Darling Basin,143,-33.8,hearth,ANU 1473,15950,810,15140,16760,Y,0,charcoal from hearth
+Murray Darling Basin,143,-33.8,midden,ANU 1469,19680,550,19130,20230,Y,0,charcoal from midden
+Murray Darling Basin,143,-33.8,midden,N 1664,22600,430,22170,23030,Y,0,freshwater mussel shell
+Murray Darling Basin,143,-33.8,hearth,ANU 1471,25150,800,24350,25950,Y,0,charcoal from hearth
+Murray Darling Basin,143,-33.8,hearth,ANU 1472,30750,2900,28350,34150,Y,1,charcoal from hearth
+Murray Darling Basin,143,-33.8,midden,ANU 1692,34450,1500,32950,35950,Y,0,freshwater mussel shell
+Murray Darling Basin,143,-33.8,midden,ANU 1470,36200,3825,33250,40900,Y,1,freshwater mussel shell
+Murray Darling Basin,143,-33.8,midden,ANU 2586,33100,850,32250,33950,Y,0,freshwater mussel shell
+Murray Darling Basin,143,-33.7,midden,ANU 1491B,23350,400,22950,23750,Y,0,charcoal from midden
+Murray Darling Basin,143,-33.7,midden,ANU 1491A,23650,950,22700,24600,Y,0,charcoal from midden
+Murray Darling Basin,143,-33.7,midden,N 2032,35100,1600,33500,36700,Y,0,freshwater mussel shell
+Murray Darling Basin,143,-33.7,midden,N 1665,35600,1650,34100,37400,Y,1,freshwater mussel shell
+Murray Darling Basin,143,-33.7,midden,ANU 1697,36800,1800,35200,38800,Y,1,freshwater mussel shell
+Murray Darling Basin,143,-33.7,hearth,ANU 304,26900,2350,25300,30000,Y,1,charcoal from hearth
+Murray Darling Basin,143.1,-33.5,burial,NZA-164,16535,535,16000,17070,Y,0,humic acids
+Murray Darling Basin,141.91,-36.06,hearth,Beta-54054,910,50,860,960,Y,0,charcoal
+Murray Darling Basin,143.4,-33.2,midden,ANU-882,15490,740,14750,16230,N,0,charcoal
+Murray Darling Basin,143.08,-33.72,open site,ANU-1262,31100,2000,29350,33350,Y,1,charcoal
+Murray Darling Basin,141.84,-33.46,burial,Not given,6820,200,6620,7020,Y,0,
+Murray Darling Basin,141.2,-35.2,midden,GaK 2511,180,80,100,260,Y,0,charcoal from midden
+Murray Darling Basin,141.2,-35.2,,Beta 90707,220,40,180,260,U,0,freshwater mussel shell
+Murray Darling Basin,141.2,-35.2,,Not given,230,80,150,310,U,0,freshwater mussel shells
+Murray Darling Basin,141.2,-35.2,,Wk 4908,270,50,220,320,U,0,freshwater mussel shell
+Murray Darling Basin,141.2,-35.2,,Beta 90708,460,40,420,500,U,0,freshwater mussel shell
+Murray Darling Basin,141.2,-35.2,,Wk 4904,460,50,410,510,U,0,freshwater mussel shell
+Murray Darling Basin,141.2,-35.2,,Wk 5254,470,50,420,520,U,0,freshwater mussel shell
+Murray Darling Basin,141.2,-35.2,,Wk 5334,490,50,440,540,U,0,freshwater mussel shell
+Murray Darling Basin,141.2,-35.2,,Wk 5339,490,50,440,540,U,0,freshwater mussel shell
+Murray Darling Basin,141.2,-35.2,,Wk 5257,630,50,580,680,U,0,freshwater mussel shell
+Murray Darling Basin,141.2,-35.2,,Beta 90709,650,110,540,760,U,0,freshwater mussel shell
+Murray Darling Basin,141.2,-35.2,,Wk 4903,680,50,630,730,U,0,freshwater mussel shell
+Murray Darling Basin,141.2,-35.2,,ANU 3340,690,70,620,760,U,0,freshwater mussel shell
+Murray Darling Basin,141.2,-35.2,burial,ANU 421,750,170,580,920,Y,0,human bone collagen
+Murray Darling Basin,141.2,-35.2,,Wk 5394,800,50,750,850,U,0,freshwater mussel shell
+Murray Darling Basin,141.2,-35.2,,Wk 5389,830,50,780,880,U,0,freshwater mussel shell
+Murray Darling Basin,141.2,-35.2,,Wk 5340,840,50,790,890,U,0,freshwater mussel shell
+Murray Darling Basin,141.2,-35.2,,Wk 4906,860,50,810,910,U,0,freshwater mussel shell
+Murray Darling Basin,141.2,-35.2,,Wk 5255,930,50,880,980,U,0,freshwater mussel shell
+Murray Darling Basin,141.2,-35.2,,Wk 5391,1080,50,1030,1130,U,0,freshwater mussel shell
+Murray Darling Basin,141.2,-35.2,,Wk 5395,1200,50,1150,1250,U,0,freshwater mussel shell
+Murray Darling Basin,141.2,-35.2,,Wk 5393,1220,60,1160,1280,U,0,freshwater mussel shell
+Murray Darling Basin,141.2,-35.2,midden,GaK 2008,1320,80,1240,1400,Y,0,charcoal from midden
+Murray Darling Basin,141.2,-35.2,,Wk 5341,1320,50,1270,1370,U,0,freshwater mussel shell
+Murray Darling Basin,141.2,-35.2,hearth,Wk 5396,1510,60,1450,1570,Y,0,charcoal from hearth
+Murray Darling Basin,141.2,-35.2,,Beta 90710,1580,70,1510,1650,U,0,freshwater mussel shell
+Murray Darling Basin,141.2,-35.2,midden,GaK 2512,1660,110,1550,1770,Y,0,charcoal from midden
+Murray Darling Basin,141.2,-35.2,hearth,GaK 2007,1930,80,1850,2010,Y,0,charcoal from hearth
+Murray Darling Basin,141.2,-35.2,hearth,Wk 5258,2020,60,1960,2080,Y,0,charcoal from hearth
+Murray Darling Basin,141.2,-35.2,,Wk 4907,2320,70,2250,2390,U,0,freshwater mussel shell
+Murray Darling Basin,141.2,-35.2,,Wk 5343,2540,70,2470,2610,U,0,freshwater mussel shell
+Murray Darling Basin,141.2,-35.2,,Wk 4905,3460,60,3400,3520,U,0,freshwater mussel shell
+Murray Darling Basin,141.2,-35.2,,Wk 5336,4070,50,4020,4120,U,0,freshwater mussel shell
+Murray Darling Basin,141.2,-35.2,,Wk 5256,4200,50,4150,4250,U,0,freshwater mussel shell
+Murray Darling Basin,141.2,-35.2,,Wk 5342,4340,60,4280,4400,U,0,freshwater mussel shell
+Murray Darling Basin,141.2,-35.2,,Wk 5387,5040,150,4890,5190,U,0,freshwater mussel shell
+Murray Darling Basin,141.2,-35.2,,Wk 5388,5180,90,5090,5270,U,0,freshwater mussel shell
+Murray Darling Basin,141.2,-35.2,midden,Wk 5338,5360,240,5120,5600,Y,0,charcoal from midden
+Murray Darling Basin,141.2,-35.2,,Wk 5386,5470,140,5330,5610,U,0,freshwater mussel shell
+Murray Darling Basin,141.2,-35.2,,Wk 5337,5490,100,5390,5590,U,0,freshwater mussel shell
+Murray Darling Basin,141.2,-35.2,,Wk 5390,5880,110,5770,5990,U,0,freshwater mussel shell
+Murray Darling Basin,141.2,-35.2,,GaK 2416,6360,140,6220,6500,U,0,freshwater mussel shells
+Murray Darling Basin,141.2,-35.2,,Wk 5335,6930,60,6870,6990,U,0,freshwater mussel shell
+Murray Darling Basin,141.2,-35.2,,Wk 4910,7820,110,7710,7930,U,0,freshwater mussel shell
+Murray Darling Basin,141.2,-35.2,,Wk 5392,8850,100,8750,8950,U,0,freshwater mussel shell
+Murray Darling Basin,141.2,-35.2,midden,ANU 404B,12600,1300,11300,13900,Y,0,charcoal from midden
+Murray Darling Basin,141.2,-35.2,midden,ANU 404B,12600,1300,11300,13900,Y,0,charcoal from midden
+Murray Darling Basin,141.2,-35.2,,ANU 2499,14900,120,14780,15020,U,0,freshwater mussel shells
+Murray Darling Basin,141.2,-35.2,,ANU 2501,15200,120,15080,15320,U,0,freshwater mussel shells
+Murray Darling Basin,141.2,-35.2,midden,GaK 2515,15300,500,14800,15800,Y,0,charcoal from midden
+Murray Darling Basin,141.2,-35.2,,ANU 2875,15750,220,15530,15970,U,0,freshwater mussel shells
+Murray Darling Basin,141.2,-35.2,,ANU 405,15900,275,15625,16175,U,0,freshwater mussel shells
+Murray Darling Basin,141.2,-35.2,midden,ANU 405,15900,275,15625,16175,Y,0,freshwater mussel shells
+Murray Darling Basin,141.2,-35.2,,ANU 2876,16170,190,15980,16360,U,0,freshwater mussel shells
+Murray Darling Basin,141.2,-35.2,,ANU 422,16720,260,16460,16980,U,0,freshwater mussel shells
+Murray Darling Basin,141.2,-35.2,midden,ANU 422,16720,260,16460,16980,Y,0,freshwater mussel shells
+Murray Darling Basin,141.2,-35.2,,ANU 404A,17530,320,17210,17850,U,0,freshwater mussel shells
+Murray Darling Basin,141.2,-35.2,midden,ANU 404A,17530,320,17210,17850,Y,0,freshwater mussel shells
+Murray Darling Basin,141.2,-35.2,,ANU 3341,17600,300,17300,17900,U,0,freshwater mussel shells
+Murray Darling Basin,141.2,-35.2,midden,GaK 2514,18200,800,17400,19000,Y,0,charcoal from midden
+Murray Darling Basin,141.15,-34.1,burial,ANU-7500,4110,120,3990,4230,Y,0,freshwater shell
+Murray Darling Basin,141.03,-35.08,burial,ANU-420C,4550,185,4365,4735,Y,0,human bone apatite
+Murray Darling Basin,147.7,-34.1,burial,Gak-1430,5900,550,5350,6450,Y,0,bone (collagen not removed)
+Murray Darling Basin,147.7,-34.1,burial,Gak-1432,4170,300,3870,4470,Y,0,bone (collagen not removed)
+Murray Darling Basin,147.7,-34.1,burial,Gak-1433,4400,220,4180,4620,Y,0,bone (collagen not removed)
+Murray Darling Basin,147.7,-34.1,burial,Gak-1431,5350,290,5060,5640,Y,0,bone (collagen not removed)
+Murray Darling Basin,142.25,-34.25,burial,ANU-5787a,6610,190,6420,6800,Y,0,human bone apatite
+Murray Darling Basin,142.36,-35.11,open site,SUA-2103,7030,80,6950,7110,U,0,charcoal
+Murray Darling Basin,142.41,-32.4,burial,ANU-7504,2150,170,1980,2320,Y,0,human bone apatite
+Murray Darling Basin,142.05,-34.17,open site,SUA-963,13340,170,13170,13510,Y,0,freshwater mussel (Velesunio sp)
+Murray Darling Basin,142.05,-34.17,open site,SUA-964,16120,200,15920,16320,Y,0,freshwater mussel (Velesunio sp)
+Murray Darling Basin,142.05,-34.17,scarred tree,SUA-1290,280,70,210,350,N,0,wood (Eucalyptus camaldulensis)
+Murray Darling Basin,144.3,-33.38,burial,Not given,6010,125,5885,6135,Y,0,bone carbonate
+Murray Darling Basin,143.11,-34.74,hearth,ANU-690,1400,110,1290,1510,Y,0,charcoal
+Murray Darling Basin,144.66,-35.82,hearth,ANU-676,1880,180,1700,2060,Y,0,charcoal
+Murray Darling Basin,144.66,-35.82,hearth,ANU-677,2400,140,2260,2540,Y,0,charcoal
+Murray Darling Basin,143.11,-34.74,hearth,ANU-693,5290,90,5200,5380,U,0,charcoal
+Murray Darling Basin,139.62,-34.77,rockshelter,R-456/2,3240,80,3160,3320,U,0,charcoal
+Murray Darling Basin,139.62,-34.77,rockshelter,P-308,3750,85,3665,3835,Y,0,ash and shell
+Murray Darling Basin,139.62,-34.77,rockshelter,P-309,3870,85,3785,3955,Y,0,ash and charcoal
+Murray Darling Basin,139.62,-34.77,rockshelter,P-311,4050,85,3965,4135,Y,0,wood charcoal
+Murray Darling Basin,141.21,-34.18,midden,ANU-7502,7800,80,7720,7880,U,0,freshwater mussel
+Murray Darling Basin,141.72,-35.66,hearth ,Beta-62712,680,80,600,760,Y,0,charcoal
+Murray Darling Basin,141.72,-35.66,open site,SUA-1109,1970,90,1880,2060,U,0,freshwater mussel
+Murray Darling Basin,141.72,-35.66,open site,SUA-1110,1170,90,1080,1260,U,0,freshwater mussel
+Murray Darling Basin,142.06,-34.76,open site,SUA-766,7650,100,7550,7750,Y,0,freshwater mussel
+Murray Darling Basin,139.63,-34.31,open site,ANU-3262,220,80,140,300,Y,0,human bone collagen
+Murray Darling Basin,139.63,-34.31,open site,ANU-4038B,410,60,350,470,Y,0,human bone collagen
+Murray Darling Basin,139.63,-34.31,open site,OZA-672,1330,140,1190,1470,Y,0,human bone collagen
+Murray Darling Basin,139.63,-34.31,open site,OZA-673U1,1770,150,1620,1920,Y,0,human bone collagen
+Murray Darling Basin,139.63,-34.31,open site,OZA-674U2,1870,170,1700,2040,Y,0,human bone collagen
+Murray Darling Basin,139.63,-34.31,open site,ANU-1783,2120,110,2010,2230,Y,0,human bone collagen
+Murray Darling Basin,139.63,-34.31,open site,ANU-3877B,2870,260,2610,3130,Y,0,human bone collagen
+Murray Darling Basin,139.63,-34.31,open site,ANU-1751C,3080,70,3010,3150,Y,0,human bone collagen
+Murray Darling Basin,139.63,-34.31,open site,OZA-671U2,3480,180,3300,3660,Y,0,human bone collagen
+Murray Darling Basin,139.63,-34.31,open site,OZA-667,3610,150,3460,3760,Y,0,human bone collagen
+Murray Darling Basin,139.63,-34.31,open site,OZA-669,3620,360,3260,3980,Y,0,human bone collagen
+Murray Darling Basin,139.63,-34.31,open site,ANU-407,3930,120,3810,4050,Y,0,charcoal
+Murray Darling Basin,139.63,-34.31,open site,OZA-670,4240,360,3880,4600,Y,0,human bone collagen
+Murray Darling Basin,139.63,-34.31,open site,OZA-666,4730,310,4420,5040,Y,0,human bone collagen
+Murray Darling Basin,139.63,-34.31,open site,Z-2001,5610,120,5490,5730,Y,0,charcoal
+Murray Darling Basin,139.63,-34.31,open site,Z-2002,5790,135,5655,5925,Y,0,charcoal
+Murray Darling Basin,139.63,-34.31,open site,ANU-1408,6910,450,6460,7360,Y,0,charcoal
+Murray Darling Basin,139.63,-34.31,open site,ANU-1428,7480,440,7040,7920,Y,0,charcoal
+Murray Darling Basin,139.63,-34.31,open site,ANU-406,18050,340,17710,18390,Y,0,charcoal
+Murray Darling Basin,139.3,-35.15,burial,OZF-395,420,40,380,460,Y,0,human bone collagen
+Murray Darling Basin,139.3,-35.15,burial,OZF-396,820,40,780,860,Y,0,human bone collagen
+Murray Darling Basin,139.3,-35.15,burial,OZF-394,1230,40,1190,1270,Y,0,human bone collagen
+Murray Darling Basin,139.3,-35.15,burial,OZF-391,1900,70,1830,1970,Y,0,human bone collagen
+Murray Darling Basin,139.3,-35.15,burial,OZF-392,2300,50,2250,2350,Y,0,human bone collagen
+Murray Darling Basin,139.3,-35.15,burial,OZF-393,2790,40,2750,2830,Y,0,human bone collagen
+Murray Darling Basin,139.58,-34.71,open site,L-271E,6030,120,5910,6150,U,0,freshwater shell (Unio protovittatus)
+Murray Darling Basin,142.03,-36.46,midden,Beta-62713,390,60,330,450,U,0,freshwater mussel
+Murray Darling Basin,141.73,-34.13,burial,ANU-8647,7140,200,6940,7340,Y,0,bone (apatite)
+Murray Darling Basin,141.73,-34.13,burial,Beta-58970,8850,100,8750,8950,Y,0,freshwater mussel (Velesunio ambiguus)
+Murray Darling Basin,141.68,-34.11,burial,ANU-8648,5690,280,5410,5970,Y,0,bone (apatite)
+Murray Darling Basin,141.68,-34.11,midden,ANU-8649,15400,150,15250,15550,Y,0,freshwater mussel
+Murray Darling Basin,142.08,-35.61,open site,SUA-1110,1470,80,1390,1550,U,0,freshwater mussel
+Murray Darling Basin,142.08,-35.61,open site,SUA-1109,2310,80,2230,2390,U,0,freshwater mussel
+Nandewar,150.93,-29.47,rockshelter,ANU-1353,4960,200,4760,5160,U,0,charcoal
+Nandewar,150.93,-29.47,rockshelter,GaK-1187,2040,70,1970,2110,Y,0,charcoal
+Nandewar,150.93,-29.47,rockshelter,ANU-54,2760,65,2695,2825,Y,0,scattered charcoal
+Nandewar,150.93,-29.47,rockshelter,GaK-1188,3950,50,3900,4000,Y,0,charcoal
+Nandewar,150.93,-29.47,rockshelter,GaK-805,4640,100,4540,4740,Y,0,charcoal
+Nandewar,150.93,-29.47,rockshelter,GaK-806,5450,100,5350,5550,Y,0,scattered charcoal
+Nandewar,150.93,-29.47,rockshelter,GaK-1189,1750,80,1670,1830,Y,0,charcoal
+Nandewar,150.93,-29.47,rockshelter,ANU-55,2050,55,1995,2105,Y,0,charcoal
+Nandewar,150.93,-29.47,rockshelter,ANU-56,2290,62,2228,2352,Y,0,charcoal
+Nandewar,150.93,-29.47,rockshelter,GaK-1630,2340,80,2260,2420,U,0,charcoal
+Nandewar,150.93,-29.47,rockshelter,GaK-1190,2480,80,2400,2560,Y,0,charcoal
+Nandewar,150.93,-29.47,rockshelter,GaK-1634,2530,80,2450,2610,U,0,charcoal
+Nandewar,150.93,-29.47,rockshelter,GaK-1632,2540,80,2460,2620,U,0,charcoal
+Nandewar,150.93,-29.47,rockshelter,GaK-1629,3280,80,3200,3360,U,0,charcoal
+Nandewar,150.93,-29.47,rockshelter,GaK-1631,3820,110,3710,3930,U,0,charcoal
+Nandewar,150.93,-29.47,rockshelter,Gak-1633,3830,100,3730,3930,U,0,charcoal
+Naracoorte Coastal Plain,140.1,-37.54,midden,ANU-1238,350,70,280,420,Y,0,charcoal
+Naracoorte Coastal Plain,140.1,-37.54,midden,ANU-1171,1030,70,960,1100,Y,0,charcoal
+Naracoorte Coastal Plain,140.1,-37.54,midden,ANU-1243,1190,110,1080,1300,Y,0,marine shell
+Naracoorte Coastal Plain,140.1,-37.54,midden,ANU-1242,1550,80,1470,1630,Y,0,marine shell
+Naracoorte Coastal Plain,140.13,-37.58,open site,GaK-398,760,50,710,810,Y,0,wood charcoal
+Naracoorte Coastal Plain,140.13,-37.58,open site,GaK-422,820,90,730,910,Y,0,marine shell
+Naracoorte Coastal Plain,140.13,-37.58,open site,GaK-423,6350,100,6250,6450,Y,0,marine shell
+Naracoorte Coastal Plain,140.13,-37.58,open site,GaK-397,8250,60,8190,8310,Y,0,wood charcoal
+Naracoorte Coastal Plain,139.76,-37.16,midden,ANU-1246,3150,80,3070,3230,Y,0,charcoal
+Naracoorte Coastal Plain,139.76,-37.16,midden,ANU-1484,4420,150,4270,4570,Y,0,marine shell
+Naracoorte Coastal Plain,141.4,-38.37,midden,Wk-9392,1986,42,1944,2028,Y,0,marine shell (Paphies sp.)
+Naracoorte Coastal Plain,141.4,-38.37,midden,Wk-9394,2291,42,2249,2333,Y,0,marine shell (Paphies sp.)
+Naracoorte Coastal Plain,141.4,-38.37,midden,Wk-9603,2349,37,2312,2386,Y,0,marine shell (Paphies sp.)
+Naracoorte Coastal Plain,141.4,-38.37,midden,Wk-9565,3354,43,3311,3397,Y,0,marine shell (Paphies sp.)
+Naracoorte Coastal Plain,141.4,-38.37,midden,Wk-9395,4086,44,4042,4130,Y,0,marine shell (Donax sp.)
+Naracoorte Coastal Plain,141.4,-38.37,midden,Wk-9393,4115,51,4064,4166,Y,0,marine shell (Donax sp.)
+Naracoorte Coastal Plain,141.41,-38.32,rockshelter,Beta-3922,450,40,410,490,Y,0,charcoal
+Naracoorte Coastal Plain,141.41,-38.32,rockshelter,Beta-8464,8350,130,8220,8480,Y,0,charcoal
+Naracoorte Coastal Plain,141.41,-38.32,rockshelter,Beta-8465,10760,110,10650,10870,Y,0,charcoal
+Naracoorte Coastal Plain,141.41,-38.32,rockshelter,SUA-2267,10850,2100,8750,12950,Y,0,charcoal
+Naracoorte Coastal Plain,141.41,-38.32,rockshelter,SUA-2175,10900,900,10000,11800,Y,0,charcoal
+Naracoorte Coastal Plain,141.41,-38.32,rockshelter,Beta-3923,11390,310,11080,11700,Y,0,charcoal
+Naracoorte Coastal Plain,140.26,-37.68,midden,ANU-1245,1160,70,1090,1230,Y,0,charcoal
+Naracoorte Coastal Plain,140.26,-37.68,midden,ANU-1241,1670,70,1600,1740,Y,0,marine shell
+Naracoorte Coastal Plain,140.26,-37.68,midden,ANU-1231,2990,70,2920,3060,Y,0,charcoal
+Naracoorte Coastal Plain,140.26,-37.68,midden,ANU-1232,3250,90,3160,3340,Y,0,marine shell
+Naracoorte Coastal Plain,140.26,-37.68,midden,ANU-1233,3800,90,3710,3890,Y,0,charcoal
+Naracoorte Coastal Plain,140.26,-37.68,midden,ANU-1234,4140,80,4060,4220,Y,0,marine shell
+Naracoorte Coastal Plain,141.4,-38.37,midden,Wk-9625,760,47,713,807,Y,0,marine shell (Paphies sp.)
+Naracoorte Coastal Plain,141.4,-38.37,midden,Wk-9624,1481,46,1435,1527,Y,0,marine shell (Paphies sp.)
+Naracoorte Coastal Plain,141.4,-38.37,midden,Wk-9673,1529,50,1479,1579,Y,0,marine shell (Paphies sp.)
+Naracoorte Coastal Plain,141.4,-38.37,midden,Wk-9674,1891,48,1843,1939,Y,0,marine shell (Paphies sp.)
+Naracoorte Coastal Plain,141.4,-38.37,midden,Wk-3188,9640,70,9570,9710,Y,0,marine shell (Mylitus planulatus)
+Naracoorte Coastal Plain,141.4,-38.37,midden,Wk-3323,9740,60,9680,9800,Y,0,marine shell (Mylitus planulatus)
+Naracoorte Coastal Plain,141.4,-38.37,midden,Wk-3324,8630,60,8570,8690,Y,0,marine shell (Donax deltoides)
+Naracoorte Coastal Plain,141.4,-38.37,midden,Wk-3650,9910,80,9830,9990,Y,0,marine shell (Brachidontes rostratus)
+Naracoorte Coastal Plain,141.4,-38.37,midden,Wk-3649,10300,70,10230,10370,Y,0,marine shell (Mylitus planulatus)
+Naracoorte Coastal Plain,141.4,-38.37,midden,Wk-3648,9870,100,9770,9970,U,0,marine shell (Dicathais textilosa)
+Naracoorte Coastal Plain,140.01,-37.49,hearth,R-55/4,8700,120,8580,8820,Y,0,charcoal
+Naracoorte Coastal Plain,140.66,-38.06,open site,GaK-336,1470,120,1350,1590,Y,0,charcoal
+Naracoorte Coastal Plain,139.88,-37.29,midden,ANU-1169,1590,70,1520,1660,Y,0,charcoal
+Naracoorte Coastal Plain,139.88,-37.29,midden,ANU-1239,2990,90,2900,3080,Y,0,marine shell
+Naracoorte Coastal Plain,141.38,-38.39,hearth,Wk-9563,9814,71,9743,9885,Y,0,marine shell (Ostrea angasi)
+Naracoorte Coastal Plain,140.69,-38.05,midden,ANU-6354,1810,170,1640,1980,Y,0,charcoal
+Naracoorte Coastal Plain,140.69,-38.05,midden,ANU-6358,1090,120,970,1210,Y,0,charcoal
+Naracoorte Coastal Plain,140.69,-38.05,midden,ANU-6357,2560,120,2440,2680,Y,0,charcoal
+Naracoorte Coastal Plain,140.69,-38.05,midden,ANU-6356,3060,230,2830,3290,Y,0,charcoal
+Naracoorte Coastal Plain,140.69,-38.05,midden,ANU-6355,1180,80,1100,1260,Y,0,charcoal
+Naracoorte Coastal Plain,141.4,-38.37,midden,Wk-9605,1520,42,1478,1562,Y,0,marine shell (Paphies sp.)
+Naracoorte Coastal Plain,141.4,-38.37,midden,Wk-9664,2875,38,2837,2913,Y,0,marine shell (Paphies sp.)
+Naracoorte Coastal Plain,140.26,-37.68,midden,ANU-1546,720,70,650,790,Y,0,charcoal
+Naracoorte Coastal Plain,140.26,-37.68,midden,ANU-1486,1650,70,1580,1720,Y,0,marine shell
+Naracoorte Coastal Plain,140.26,-37.68,midden,ANU-1485B,1730,98,1632,1828,Y,0,marine shell
+Naracoorte Coastal Plain,140.26,-37.68,midden,ANU-1485A,1790,80,1710,1870,Y,0,marine shell
+Naracoorte Coastal Plain,140.26,-37.68,midden,ANU-1487,2590,75,2515,2665,Y,0,charcoal
+Naracoorte Coastal Plain,140.26,-37.68,midden,ANU-1488,2830,120,2710,2950,Y,0,marine shell
+Naracoorte Coastal Plain,140.69,-38.05,rockshelter,Beta-21540,150,70,80,220,Y,0,charcoal
+Naracoorte Coastal Plain,140.69,-38.05,rockshelter,Beta-21545,160,50,110,210,Y,0,charcoal
+Naracoorte Coastal Plain,140.69,-38.05,rockshelter,Beta-21543,290,70,220,360,Y,0,charcoal
+Naracoorte Coastal Plain,140.69,-38.05,rockshelter,Beta-21544,290,60,230,350,Y,0,charcoal
+Naracoorte Coastal Plain,140.69,-38.05,rockshelter,Beta-14848,700,70,630,770,Y,0,charcoal
+Naracoorte Coastal Plain,140.69,-38.05,rockshelter,Beta-14859,8270,400,7870,8670,Y,0,charcoal
+Naracoorte Coastal Plain,140.69,-38.05,rockshelter,Beta-21541,8900,110,8790,9010,Y,0,charcoal
+Naracoorte Coastal Plain,140.69,-38.05,rockshelter,Beta-15996,9240,100,9140,9340,Y,0,charcoal
+Naracoorte Coastal Plain,140.69,-38.05,rockshelter,Beta-14862,9590,140,9450,9730,Y,0,charcoal
+Naracoorte Coastal Plain,140.69,-38.05,rockshelter,Beta-14861,9710,180,9530,9890,Y,0,charcoal
+Naracoorte Coastal Plain,140.69,-38.05,rock art,Not given,5550,55,5495,5605,N,0,calcium carbonate
+Naracoorte Coastal Plain,140.26,-37.68,midden,ANU-1545,3870,80,3790,3950,Y,0,charcoal
+Naracoorte Coastal Plain,140.8,-37.8,volcanic unit,Not given,4710,70,4640,4780,U,0,charcoal
+Naracoorte Coastal Plain,140.5,-37.62,rockshelter,GaK-424,320,90,230,410,U,0,charcoal
+Naracoorte Coastal Plain,140.5,-37.62,rockshelter,GaK-425,380,90,290,470,U,0,charcoal
+Naracoorte Coastal Plain,140.5,-37.62,rockshelter,GaK-426,1020,40,980,1060,U,0,charcoal
+Naracoorte Coastal Plain,140.5,-37.62,rockshelter,GaK-428,7030,40,6990,7070,U,0,scattered charcoal
+Naracoorte Coastal Plain,140.5,-37.62,rockshelter,GaK-427,7450,270,7180,7720,U,0,charcoal
+Naracoorte Coastal Plain,140.5,-37.62,rockshelter,GaK-429,8600,300,8300,8900,U,0,charcoal
+Naracoorte Coastal Plain,140.96,-38.03,rockshelter,Beta-18894,500,100,400,600,U,0,charcoal
+Naracoorte Coastal Plain,140.96,-38.03,rockshelter,Beta-18895,880,120,760,1000,U,0,charcoal
+Naracoorte Coastal Plain,140.96,-38.03,rockshelter,Beta-18896,3070,140,2930,3210,U,0,charcoal
+Naracoorte Coastal Plain,139.86,-37.31,midden,ANU-1244,650,90,560,740,Y,0,charcoal
+Naracoorte Coastal Plain,139.86,-37.31,midden,ANU-1240,1250,90,1160,1340,Y,0,marine shell
+Naracoorte Coastal Plain,140.26,-37.68,midden,ANU-1242,1960,90,1870,2050,Y,0,charcoal
+Naracoorte Coastal Plain,140.96,-38.03,rockshelter,Beta-25006,210,70,140,280,U,0,charcoal
+Naracoorte Coastal Plain,140.96,-38.03,rockshelter,Beta-25005,1880,80,1800,1960,U,0,charcoal
+Naracoorte Coastal Plain,140.96,-38.03,rockshelter,Beta-25007,3550,90,3460,3640,U,0,charcoal
+Naracoorte Coastal Plain,140.96,-38.03,rockshelter,Beta-14863,5750,200,5550,5950,Y,0,charcoal
+Naracoorte Coastal Plain,140.75,-38.05,midden,ANU-6353,1230,70,1160,1300,Y,0,charcoal
+Naracoorte Coastal Plain,141.38,-38.39,midden,UB-4370,10207,55,10152,10262,Y,0,charcoal
+Naracoorte Coastal Plain,141.38,-38.39,midden,Beta-96584,9110,70,9040,9180,Y,0,marine shell (Turbo undulata)
+Naracoorte Coastal Plain,141.38,-38.39,midden,Beta-93569,9430,100,9330,9530,Y,0,marine shell (Turbo undulata)
+Naracoorte Coastal Plain,141.38,-38.39,midden,UB-4369,9619,52,9567,9671,Y,0,marine shell (Turbo undulata)
+Naracoorte Coastal Plain,141.38,-38.39,midden,Wk-29816,9183,31,9152,9214,Y,0,marine shell (Turbo undulata)
+Naracoorte Coastal Plain,141.38,-38.39,midden,Beta-93567,9300,70,9230,9370,Y,0,marine shell (Turbo undulata)
+Naracoorte Coastal Plain,141.38,-38.39,midden,Beta-93566,8490,70,8420,8560,Y,0,marine shell (Donax deltoides)
+Naracoorte Coastal Plain,141.38,-38.39,midden,Beta-93568,9390,80,9310,9470,Y,0,"marine shell (Turbo, Ostrea)"
+Naracoorte Coastal Plain,141.38,-38.39,midden,Wk-9604,9290,56,9234,9346,Y,0,marine shell (Cellana tramoserica)
+Naracoorte Coastal Plain,141.38,-38.39,midden,Wk-29818,9525,33,9492,9558,Y,0,marine shell (Turbo undulata)
+Naracoorte Coastal Plain,141.38,-38.39,midden,Wk-29817,9068,32,9036,9100,Y,0,marine shell (Turbo undulata)
+Naracoorte Coastal Plain,141.38,-38.39,midden,Wk-9564,9213,56,9157,9269,Y,0,marine shell (Turbo undulata)
+Naracoorte Coastal Plain,141.38,-38.39,midden,Wk-9562,8238,57,8181,8295,Y,0,marine shell (Donax deltoides)
+Naracoorte Coastal Plain,141.38,-38.39,midden,Wk-9532,9971,58,9913,10029,Y,0,marine shell (Austomylitus rostratus)
+Naracoorte Coastal Plain,140.29,-37.65,open site,ANU-1377,7930,160,7770,8090,Y,0,charcoal
+Naracoorte Coastal Plain,140.29,-37.65,open site,ANU-1320,8210,110,8100,8320,Y,0,charcoal
+Naracoorte Coastal Plain,140.29,-37.65,open site,ANU-1192A,8470,150,8320,8620,Y,0,charcoal
+Naracoorte Coastal Plain,140.29,-37.65,open site,ANU-1192B,9010,120,8890,9130,Y,0,charcoal
+Naracoorte Coastal Plain,140.29,-37.65,Aboriginal artefact,ANU-1490,9430,150,9280,9580,Y,0,wood
+Naracoorte Coastal Plain,140.29,-37.65,open site,ANU-1247,10200,150,10050,10350,Y,0,charcoal
+Naracoorte Coastal Plain,140.29,-37.65,open site,ANU-1292,10200,150,10050,10350,Y,0,charcoal
+New England Tablelands,149.15,-31.2,rockshelter,Beta-33076,17140,140,17000,17280,Y,0,charcoal
+NSW North Coast,152.15,-32.65,midden,Wk-4679,4730,50,4680,4780,Y,0,marine shell (Pyrazus ebeninus)
+NSW North Coast,152.15,-32.65,midden,Wk-3255,5420,50,5370,5470,Y,0,marine shell (Pyrazus ebeninus)
+NSW North Coast,153.3,-28.85,midden,Beta-72146,580,50,530,630,Y,0,marine shell (oyster)
+NSW North Coast,153.3,-28.85,midden,Beta-72147,580,50,530,630,Y,0,marine shell (catrut)
+NSW North Coast,153.3,-28.85,midden,Beta-72148,660,60,600,720,Y,0,marine shell (oyster)
+NSW North Coast,153.3,-28.85,midden,Beta-72150,690,60,630,750,Y,0,marine shell (oyster)
+NSW North Coast,153.3,-28.85,midden,Beta-72149,730,50,680,780,Y,0,marine shell (oyster)
+NSW North Coast,153.3,-28.85,midden,Beta-72151,760,50,710,810,Y,0,marine shell (oyster)
+NSW North Coast,153.3,-28.85,midden,Beta-72145,950,50,900,1000,Y,0,marine shell (oyster)
+NSW North Coast,153.58,-28.85,midden,SUA-122,920,80,840,1000,U,0,charcoal
+NSW North Coast,153.58,-28.85,midden,SUA-123,1460,90,1370,1550,U,0,charcoal
+NSW North Coast,153.58,-28.85,midden,SUA-125,1460,105,1355,1565,U,0,charcoal
+NSW North Coast,153.58,-28.85,midden,SUA-124,1720,80,1640,1800,U,0,charcoal
+NSW North Coast,151.2,-30.53,rockshelter,GaK-707,320,80,240,400,Y,0,scattered charcoal
+NSW North Coast,151.2,-30.53,rockshelter,GaK-705,340,90,250,430,Y,0,charcoal
+NSW North Coast,151.2,-30.53,rockshelter,GaK-569,410,40,370,450,Y,0,charcoal
+NSW North Coast,151.2,-30.53,rockshelter,GaK-704,440,80,360,520,Y,0,charcoal
+NSW North Coast,151.2,-30.53,rockshelter,GaK-706,500,130,370,630,Y,0,charcoal
+NSW North Coast,151.2,-30.53,rockshelter,GaK-571,535,40,495,575,Y,0,charcoal
+NSW North Coast,151.2,-30.53,rockshelter,GaK-572,630,40,590,670,Y,0,charcoal
+NSW North Coast,151.2,-30.53,rockshelter,GaK-570,740,40,700,780,Y,0,charcoal
+NSW North Coast,151.2,-30.53,rockshelter,GaK-708,1340,90,1250,1430,Y,0,charcoal
+NSW North Coast,151.2,-30.53,rockshelter,GaK-711,950,90,860,1040,Y,0,charcoal
+NSW North Coast,151.2,-30.53,rockshelter,GaK-710,1020,80,940,1100,Y,0,charcoal
+NSW North Coast,152.08,-32.79,midden,SUA-1160,940,90,850,1030,Y,0,marine shell (Plebidonax deltoides)
+NSW North Coast,152.08,-32.79,midden,SUA-1806,1790,80,1710,1870,Y,0,marine shell (Plebidonax deltoides)
+NSW North Coast,152.08,-32.79,midden,SUA-1161,1895,70,1825,1965,Y,0,marine shell (Plebidonax deltoides)
+NSW North Coast,152.87,-29.88,burial in rockshelter,GaK-463,1090,60,1030,1150,Y,0,burnt wood
+NSW North Coast,152.87,-29.88,burial in rockshelter,GaK-464,1230,50,1180,1280,Y,0,wood and charcoal
+NSW North Coast,152.32,-32.62,midden,SUA-402/S1,420,85,335,505,U,0,marine
+NSW North Coast,152.32,-32.62,midden,SUA-402C,445,179,266,624,Y,0,charcoal
+NSW North Coast,152.32,-32.62,midden,SUA-402/S2,600,85,515,685,U,0,marine
+NSW North Coast,152.77,-29.78,rockshelter,V-39,1350,75,1275,1425,Y,0,charcoal
+NSW North Coast,152.77,-29.78,rockshelter,V-40,1640,80,1560,1720,Y,0,charcoal
+NSW North Coast,152.92,-30.93,midden,Gak-834,4220,90,4130,4310,U,0,scattered marine shell
+NSW North Coast,152.92,-30.93,midden,GaK-2457,3850,140,3710,3990,Y,0,charcoal
+NSW North Coast,152.92,-30.93,midden,SUA-274,3360,115,3245,3475,Y,0,charcoal
+NSW North Coast,152.92,-30.93,midden,SUA-275,4260,120,4140,4380,Y,0,charcoal
+NSW North Coast,152.92,-30.93,midden,SUA-276,5120,145,4975,5265,Y,0,charcoal
+NSW North Coast,152.94,-31.25,midden,SUA-396/2 or SUA-397,3380,100,3280,3480,Y,0,marine
+NSW North Coast,152.94,-31.25,midden,SUA-396C,3400,100,3300,3500,Y,0,charcoal
+NSW North Coast,152.94,-31.25,midden,GaK-2459,3460,120,3340,3580,U,0,marine shell (Crassostera commercialis)
+NSW North Coast,152.94,-31.25,midden,SUA-395C,3720,100,3620,3820,Y,0,charcoal
+NSW North Coast,152.94,-31.25,midden,SUA-395S,3750,100,3650,3850,Y,0,marine
+NSW North Coast,152.94,-31.25,midden,SUA-396S or SUA-397,3790,100,3690,3890,Y,0,marine
+NSW North Coast,152.94,-31.25,midden,SUA-394,4110,100,4010,4210,Y,0,charcoal
+NSW North Coast,152.94,-31.25,midden,GaK-2458,4850,160,4690,5010,U,0,marine shell (Crassostera commercialis)
+NSW North Coast,152.74,-31.84,midden,ANU-2381,410,80,330,490,Y,0,marine shell (pipi?)
+NSW North Coast,151.81,-32.86,hearth,Wk-13446,2584,45,2539,2629,Y,0,charcoal
+NSW North Coast,151.86,-32.83,midden,ANU-2380,700,80,620,780,U,0,charcoal
+NSW North Coast,152.94,-29.7,Aboriginal object,GaK-1299,140,60,80,200,Y,0,wood
+NSW North Coast,153,-30.87,midden,SUA-483,1060,100,960,1160,Y,0,wood charcoal
+NSW North Coast,153,-30.87,midden,SUA-487,2550,105,2445,2655,U,0,wood charcoal
+NSW North Coast,152.61,-29.7,rockshelter,V-45,585,87,498,672,Y,0,charcoal
+NSW North Coast,152.61,-29.7,rockshelter,V-43,1225,70,1155,1295,Y,0,charcoal
+NSW North Coast,152.61,-29.7,rockshelter,V-44,1285,88,1197,1373,Y,0,charcoal
+NSW North Coast,152.61,-29.7,rockshelter,V-41,1310,70,1240,1380,Y,0,charcoal
+NSW North Coast,152.61,-29.7,rockshelter,V-42,1465,75,1390,1540,Y,0,charcoal
+NSW North Coast,153.39,-29.22,midden,GX-2095,200,90,110,290,Y,0,charcoal
+NSW North Coast,153,-31.13,midden,SUA-486,915,105,810,1020,Y,0,scattered wood charcoal
+NSW North Coast,153,-31.13,midden,SUA-485,925,105,820,1030,Y,0,charcoal
+NSW North Coast,153,-31.13,midden,GaK-2456,1210,90,1120,1300,Y,0,charcoal
+NSW North Coast,151.9,-32.75,open site,Beta-58865,2570,110,2460,2680,U,0,charcoal
+NSW North Coast,151.9,-32.75,open site,Beta-58866,6760,70,6690,6830,Y,0,charcoal
+NSW North Coast,151.9,-32.75,open site,OZA-257,7566,114,7452,7680,Y,0,charcoal
+NSW North Coast,151.9,-32.75,open site,OZA-256,11351,143,11208,11494,Y,0,charcoal
+NSW North Coast,151.9,-32.75,open site,NZA-3016,14750,130,14620,14880,Y,0,charcoal
+NSW North Coast,153.63,-28.64,midden,Beta-73187,780,60,720,840,Y,0,marine shell
+NSW North Coast,153.63,-28.64,midden,Beta-73188,1440,70,1370,1510,Y,0,marine shell
+NSW North Coast,153.01,-31.11,midden,Beta-53299,230,50,180,280,Y,0,charcoal
+NSW North Coast,153.01,-31.11,midden,Beta-53300,1190,50,1140,1240,Y,0,charcoal
+NSW North Coast,153.01,-31.11,midden,Beta-53302,1830,50,1780,1880,Y,0,charcoal
+NSW North Coast,153.01,-31.11,midden,Beta-53301,2420,60,2360,2480,Y,0,charcoal
+NSW North Coast,153.01,-31.11,midden,Beta-53303,6070,70,6000,6140,Y,0,charcoal
+NSW North Coast,152.91,-29.59,rockshelter,V-26,351,60,291,411,Y,0,charcoal
+NSW North Coast,152.91,-29.59,rockshelter,V-10,626,86,540,712,Y,0,charcoal
+NSW North Coast,152.91,-29.59,rockshelter,V-25,867,80,787,947,Y,0,charcoal
+NSW North Coast,152.91,-29.59,rockshelter,GaK-370,1210,30,1180,1240,Y,0,charcoal
+NSW North Coast,152.91,-29.59,rockshelter,V-11,2852,47,2805,2899,Y,0,charcoal
+NSW North Coast,152.91,-29.59,rockshelter,V-24,4042,66,3976,4108,Y,0,charcoal
+NSW North Coast,152.91,-29.59,rockshelter,V-27,6445,75,6370,6520,Y,0,charcoal
+NSW North Coast,153.55,-28.51,midden,Beta-62724,4280,70,4210,4350,Y,0,marine shell
+NSW North Coast,153.55,-28.51,midden,Beta-62720,4390,70,4320,4460,Y,0,marine shell
+NSW North Coast,153.55,-28.51,midden,Beta-62721,4580,80,4500,4660,Y,0,marine shell
+NSW North Coast,153.6,-28.9,midden,GaK-3432,260,80,180,340,U,0,charcoal
+NSW North Coast,153.45,-29.15,midden,GaK-3433,350,130,220,480,Y,0,charcoal
+NSW North Coast,152.99,-30.9,midden,SUA-482,3750,280,3470,4030,Y,0,wood charcoal
+NSW North Coast,152.99,-30.9,midden,SUA-484,9320,160,9160,9480,Y,0,wood charcoal
+NSW North Coast,152.99,-30.9,midden,SUA-398,1670,90,1580,1760,Y,0,marine
+NSW North Coast,153.5,-28.2,midden,Beta-1671,605,90,515,695,Y,0,charcoal
+NSW North Coast,152.32,-32.34,hearth,Not given,470,50,420,520,Y,0,charcoal
+NSW North Coast,152.84,-29.59,rockshelter,GaK-371,310,100,210,410,Y,0,charcoal
+NSW North Coast,152.84,-29.59,rockshelter,GaK-372,1640,120,1520,1760,Y,0,charcoal
+NSW North Coast,152.84,-29.59,rockshelter,GaK-373,1870,140,1730,2010,Y,0,charcoal
+NSW North Coast,151.83,-32.81,hearth,Wk-28864,579,36,543,615,Y,0,charcoal
+NSW North Coast,151.83,-32.81,hearth,Wk-28865,939,36,903,975,Y,0,charcoal
+NSW North Coast,153.17,-29.22,midden,GaK-566,1530,90,1440,1620,Y,0,charcoal
+NSW North Coast,153.17,-29.22,midden,GX-0108,1860,180,1680,2040,Y,0,charcoal
+NSW North Coast,153.17,-29.22,midden,GaK-374,2580,150,2430,2730,Y,0,charcoal
+NSW North Coast,153.17,-29.22,midden,GaK-375,2760,160,2600,2920,Y,0,charcoal
+NSW North Coast,153.17,-29.22,midden,GaK-376,2870,130,2740,3000,Y,0,charcoal
+NSW North Coast,153.17,-29.22,midden,GaK-565,2930,100,2830,3030,Y,0,charcoal
+NSW North Coast,153.17,-29.22,midden,GaK-564,2960,120,2840,3080,Y,0,charcoal
+NSW North Coast,153.17,-29.22,midden,GaK-567,3040,120,2920,3160,Y,0,charcoal
+NSW North Coast,153.17,-29.22,midden,GaK-568,3230,100,3130,3330,Y,0,charcoal
+NSW South Western Slopes,150.34,-33.1,rockshelter,V-33,2865,60,2805,2925,U,0,charcoal
+NSW South Western Slopes,150.34,-33.1,rockshelter,V-34,3625,70,3555,3695,U,0,charcoal
+NSW South Western Slopes,150.34,-33.1,rockshelter,V-18,7360,125,7235,7485,Y,0,charcoal
+NSW South Western Slopes,150.34,-33.1,rockshelter,V-36,5320,88,5232,5408,Y,0,charcoal
+NSW South Western Slopes,150.34,-33.1,rockshelter,GaK-334,11600,400,11200,12000,Y,0,charcoal
+NSW South Western Slopes,150.34,-33.1,rockshelter,V-35,12550,185,12365,12735,Y,0,charcoal
+NSW Southwestern Slopes,148.79,-33.67,burial,ANU-4763b,6250,430,5820,6680,Y,0,human bone collagen
+NSW Southwestern Slopes,148.79,-33.67,burial,ANU-4763a,7520,220,7300,7740,Y,0,human bone apatite
+NSW Southwestern Slopes,150.33,-32.41,rockshelter,Not given,2160,90,2070,2250,U,0,charcoal
+NSW Southwestern Slopes,150.33,-32.41,rockshelter,Not given,3170,210,2960,3380,U,0,charcoal
+Riverina,144.13,-35.63,burial,Not given,4670,110,4560,4780,Y,0,bone
+Riverina,144.13,-35.63,burial,Not given,5400,90,5310,5490,Y,0,bone
+Riverina,143.75,-36.14,earth mound,Wk-11144,187,49,138,236,Y,0,charcoal
+Riverina,143.75,-36.14,earth mound,Wk-11146,187,50,137,237,Y,0,charcoal
+Riverina,143.75,-36.14,earth mound,Wk-11147,261,47,214,308,Y,0,charcoal
+Riverina,143.75,-36.14,earth mound,Wk-11145,775,47,728,822,Y,0,charcoal
+Riverina,143.75,-36.14,earth mound,Wk-11148,984,48,936,1032,Y,0,charcoal
+Riverina,143.75,-36.14,earth mound,Wk-11149,2059,46,2013,2105,Y,0,charcoal
+Riverina,143.8,-34.43,midden,N-1661,2010,65,1945,2075,Y,0,freshwater mussel
+Riverina,143.38,-35.17,earth mound,SUA-1242,730,80,650,810,,0,charcoal
+Riverina,143.38,-35.17,earth mound,SUA-996,960,80,880,1040,Y,0,charcoal
+Riverina,143.38,-35.17,earth mound,SUA-999,1200,80,1120,1280,Y,0,charcoal
+Riverina,143.38,-35.17,earth mound,SUA-998,1245,80,1165,1325,Y,0,charcoal
+Riverina,143.38,-35.17,earth mound,SUA-997,1375,130,1245,1505,Y,0,charcoal
+Riverina,143.38,-35.17,earth mound,SUA-1117,800,100,700,900,,0,charcoal
+Riverina,143.38,-35.17,earth mound,SUA-1927,1250,60,1190,1310,,0,charcoal
+Riverina,143.38,-35.17,earth mound,SUA-1928,1390,60,1330,1450,,0,charcoal
+Riverina,143.38,-35.17,earth mound,SUA-1118,1610,90,1520,1700,,0,charcoal
+Riverina,143.38,-35.17,earth mound,SUA-1128,250,80,170,330,,0,charcoal
+Riverina,143.38,-35.17,earth mound,SUA-1929,1030,60,970,1090,,0,charcoal
+Riverina,143.38,-35.17,earth mound,SUA-1119,1470,90,1380,1560,,0,charcoal
+Riverina,143.38,-35.17,earth mound,SUA-1916,950,80,870,1030,,0,charcoal
+Riverina,143.38,-35.17,earth mound,SUA-1930,1000,80,920,1080,,0,charcoal
+Riverina,143.38,-35.17,earth mound,SUA-1120,1180,150,1030,1330,,0,charcoal
+Riverina,143.38,-35.17,earth mound,SUA-1917,260,70,190,330,,0,charcoal
+Riverina,143.38,-35.17,earth mound,SUA-1241,1000,90,910,1090,,0,charcoal
+Riverina,144.32,-35.57,oven mounds,Beta-7068,2990,100,2890,3090,Y,0,charcoal
+Riverina,143.56,-35.34,burial,ANU-5310,4800,140,4660,4940,Y,0,calcium carbonate
+Riverina,144.3,-35.96,open site,ANU-1105,830,250,580,1080,U,0,charcoal
+Riverina,144.3,-35.96,open site,ANU-1101,2270,230,2040,2500,Y,0,charcoal
+Riverina,144.3,-35.96,open site,ANU-1102,3150,150,3000,3300,Y,0,charcoal
+Riverina,144.3,-35.96,open site,ANU-1022b,5860,90,5770,5950,Y,0,charred wood
+Riverina,144.3,-35.96,open site,ANU-1100,6030,250,5780,6280,Y,0,charcoal
+Riverina,144.3,-35.96,open site,ANU-601,6120,380,5740,6500,Y,0,scattered charcoal
+Riverina,144.3,-35.96,open site,ANU-602,6950,210,6740,7160,Y,0,scattered charcoal
+Riverina,144.3,-35.96,open site,ANU-1023,7820,190,7630,8010,Y,0,scattered charcoal
+Riverina,144.3,-35.96,open site,ANU-531,8080,420,7660,8500,Y,0,scattered charcoal
+Riverina,144.3,-35.96,open site,ANU-1099,8190,165,8025,8355,Y,0,charcoal
+Riverina,144.3,-35.96,open site,ANU-533,9260,270,8990,9530,N,0,scattered charcoal
+Riverina,144.3,-35.96,open site,ANU-532,9590,130,9460,9720,Y,0,scattered charcoal
+Riverina,144.3,-35.96,open site,ANU-871,10879,100,10779,10979,U,0,freshwater shell
+Riverina,144.3,-35.96,burial,ANU-869,10930,125,10805,11055,Y,0,freshwater shell
+Riverina,144.3,-35.96,burial,ANU-1235,11350,160,11190,11510,Y,0,freshwater shell
+Riverina,144.3,-35.96,burial,ANU-1236,13000,280,12720,13280,Y,0,freshwater shell
+Riverina,144.3,-35.96,burial,ANU-403b,10070,250,9820,10320,Y,0,human bone apatite
+Riverina,144.3,-35.96,burial,ANU-1038,8700,220,8480,8920,Y,0,human bone apatite
+Riverina,144.3,-35.96,burial,ANU-619b,9300,220,9080,9520,Y,0,human bone apatite
+Riverina,144.32,-35.57,oven mounds,Beta-7067,2490,60,2430,2550,Y,0,charcoal
+Riverina,144.32,-35.57,oven mounds,Beta-7066,4160,300,3860,4460,Y,0,charcoal
+Riverina,145.12,-36,burial,Beta-16515,300,90,210,390,Y,0,charcoal
+Riverina,145.12,-36,burial,Beta-16514,430,110,320,540,Y,0,bark
+Riverina,144.36,-35.86,midden,Beta-45946,510,70,440,580,Y,0,charcoal
+Riverina,144.23,-36.21,burial,ANU-1038,5540,200,5340,5740,Y,0,organic
+Riverina,144.23,-36.21,burial,Gak-703,5540,200,5340,5740,Y,0,bone (organics)
+Riverina,146.36,-36.39,midden,Beta-75517,590,60,530,650,Y,0,freshwater mussel
+Riverina,145.4,-36.38,earth mound,Beta-63813,180,50,130,230,U,0,charcoal
+Riverina,145.4,-36.38,earth mound,Beta-63812,320,70,250,390,U,0,charcoal
+Riverina,143.93,-34.45,burial,Not given,11440,160,11280,11600,Y,0,human bone
+Riverina,142.78,-34.58,burial,SUA-2021,3300,340,2960,3640,Y,0,charcoal
+Riverina,144.32,-35.57,oven mounds,Beta-7065,2250,105,2145,2355,Y,0,charcoal
+Riverina,142.19,-34.31,midden,Not given,1110,75,1035,1185,U,0,charcoal
+Riverina,142.19,-34.31,midden,N-1666,1100,75,1025,1175,U,0,freshwater shell (Unionid sp.)
+Riverina,142.19,-34.31,midden,Gak-1062,11250,240,11010,11490,U,0,freshwater shell (Velesunio sp.)
+Riverina,142.19,-34.31,midden,N-1667,12100,150,11950,12250,U,0,freshwater shell (Unionid sp.)
+Riverina,142.19,-34.31,midden,Beta-62715,1900,60,1840,1960,U,0,freshwater shell
+Riverina,142.19,-34.31,midden,Beta-62719,7730,70,7660,7800,U,0,freshwater shell
+Riverina,142.19,-34.31,midden,Beta-62716,10820,80,10740,10900,U,0,freshwater shell
+Riverina,142.14,-34.21,midden,Beta-62714,1110,60,1050,1170,U,0,freshwater mussel
+Riverina,142.14,-34.21,midden,Beta-62718,1400,60,1340,1460,U,0,freshwater mussel
+Riverina,142.14,-34.21,midden,Beta-62717,1430,70,1360,1500,U,0,freshwater mussel
+South East Coastal Plain,143.67,-38.75,midden,SUA-90,1075,80,995,1155,Y,0,marine
+South East Coastal Plain,142.36,-38.343,midden,SUA-1724,590,120,470,710,Y,0,charcoal
+South East Coastal Plain,142.36,-38.343,midden,GaK-1724,1280,80,1200,1360,Y,0,charcoal
+South East Coastal Plain,142.36,-38.343,midden,Gak-1730,1280,80,1200,1360,Y,0,charcoal
+South East Coastal Plain,142.36,-38.343,midden,SUA-986,1620,100,1520,1720,Y,0,charcoal
+South East Coastal Plain,142.36,-38.343,midden,GX-60,1750,115,1635,1865,Y,0,marine shell
+South East Coastal Plain,142.36,-38.343,midden,SUA-673,2450,100,2350,2550,Y,0,charcoal
+South East Coastal Plain,142.36,-38.343,midden,GaK-611,2800,100,2700,2900,Y,0,charcoal
+South East Coastal Plain,142.36,-38.343,midden,GX-59,4315,195,4120,4510,Y,0,marine shell
+South East Coastal Plain,142.36,-38.343,midden,GaK-610,5120,120,5000,5240,Y,0,charcoal
+South East Coastal Plain,142.36,-38.343,midden,GaK-1729,5680,120,5560,5800,Y,0,charcoal
+South East Coastal Plain,144.49,-38.29,midden,SUA-1613,3690,90,3600,3780,Y,0,marine shell (Subinella undulata)
+South East Coastal Plain,145.19,-38,open site,Wk-23462,1391,32,1359,1423,Y,0,charcoal
+South East Coastal Plain,145.19,-38,open site,Wk-23461,1828,36,1792,1864,Y,0,charcoal
+South East Coastal Plain,145.19,-38,open site,Wk-23460,2277,32,2245,2309,Y,0,charcoal
+South East Coastal Plain,145.19,-38,open site,Wk-19710,2350,32,2318,2382,Y,0,charcoal
+South East Coastal Plain,145.19,-38,open site,Wk-23983,4485,30,4455,4515,Y,0,charcoal
+South East Coastal Plain,144.88,-38.47,midden,Beta-16546,320,50,270,370,Y,0,charcoal
+South East Coastal Plain,144.88,-38.47,midden,Beta-16547,2640,70,2570,2710,Y,0,marine shell (Cellana and subinella sp.)
+South East Coastal Plain,144.88,-38.47,midden,Beta-16550,4220,80,4140,4300,Y,0,marine shell (Cellana sp.)
+South East Coastal Plain,142.36,-38.343,midden,SUA-1331,120,90,30,210,Y,0,charcoal
+South East Coastal Plain,142.36,-38.343,midden,SUA-1332,200,120,80,320,Y,0,charcoal
+South East Coastal Plain,142.36,-38.343,midden,SUA-1333,2320,120,2200,2440,Y,0,charcoal
+South East Coastal Plain,142.36,-38.343,midden,SUA-1334,2470,100,2370,2570,Y,0,charcoal
+South East Coastal Plain,144.45,-38.23,midden,SUA-2152,4070,80,3990,4150,Y,0,marine shell (Ostrea angasi)
+South East Coastal Plain,144.45,-38.23,midden,SUA-2153,5720,80,5640,5800,Y,0,marine shell (Anadara trapezia)
+South East Coastal Plain,144.89,-38.49,midden,Beta-16543,330,80,250,410,Y,0,marine shell (Subinella undulata opercula)
+South East Coastal Plain,144.89,-38.49,midden,Beta-16541,1120,70,1050,1190,Y,0,marine shell (Subinella undulata opercula)
+South East Coastal Plain,144.89,-38.49,midden,Beta-16542,1820,70,1750,1890,Y,0,marine shell (Subinella undulata opercula)
+South East Coastal Plain,144.89,-38.49,midden,Beta-16545,2080,90,1990,2170,Y,0,marine shell (Notohaliotus ruber)
+South East Coastal Plain,144.89,-38.49,midden,Beta-16544,2220,80,2140,2300,Y,0,marine shell (Subinella undulata opercula)
+South East Coastal Plain,145.43,-38.41,midden,Beta-22318,270,60,210,330,U,0,charcoal
+South East Coastal Plain,145.43,-38.41,midden,Beta-22319,1100,70,1030,1170,U,0,charcoal
+South East Coastal Plain,145.43,-38.41,midden,Beta-23072,2270,90,2180,2360,U,0,marine shell
+South East Coastal Plain,145.43,-38.41,midden,Beta-23073,2290,80,2210,2370,U,0,marine shell
+South East Coastal Plain,145.43,-38.41,midden,Beta-22320,2430,100,2330,2530,U,0,charcoal
+South East Coastal Plain,146.74,-38.27,open site,Beta-51829,460,80,380,540,U,0,charcoal
+South East Coastal Plain,146.74,-38.27,open site,Beta-51830,940,70,870,1010,U,0,charcoal
+South East Coastal Plain,142.35,-38.32,midden,ANU-6450,590,130,460,720,Y,0,charcoal
+South East Coastal Plain,142.35,-38.32,midden,ANU-6451,1100,70,1030,1170,Y,0,charcoal
+South East Coastal Plain,142.35,-38.32,midden,Gak-2858,3320,100,3220,3420,U,0,marine shell (Subinella undulata opercula)
+South East Coastal Plain,141.29,-38.21,midden,Wk-413,1230,60,1170,1290,Y,0,charcoal
+South East Coastal Plain,141.29,-38.21,midden,Wk-414,1290,50,1240,1340,Y,0,charcoal
+South East Coastal Plain,141.29,-38.21,midden,Wk-415,1280,70,1210,1350,Y,0,charcoal
+South East Coastal Plain,141.29,-38.21,midden,Wk-1090,1500,60,1440,1560,Y,0,marine shell
+South East Coastal Plain,141.29,-38.21,midden,Wk-1105,8140,90,8050,8230,Y,0,marine shell
+South East Coastal Plain,145.87,-38.78,midden,Gak-3524,2830,100,2730,2930,U,0,marine shell (Subinella undulata)
+South East Coastal Plain,143.33,-38.77,rockshelter with midden deposits,NZ-367,370,45,325,415,Y,0,charcoal
+South East Coastal Plain,143.33,-38.77,rockshelter with midden deposits,NZ-728,1580,45,1535,1625,U,0,charcoal
+South East Coastal Plain,142.35,-38.32,midden,SUA-776,425,95,330,520,Y,0,charcoal
+South East Coastal Plain,142.35,-38.32,midden,C-600,1177,175,1002,1352,Y,0,charcoal
+South East Coastal Plain,142.35,-38.32,midden,V-5,1660,100,1560,1760,Y,0,charcoal
+South East Coastal Plain,142.35,-38.32,midden,V-5,1830,130,1700,1960,Y,0,charcoal
+South East Coastal Plain,142.35,-38.32,midden,Y-150-1,1855,85,1770,1940,Y,0,charcoal
+South East Coastal Plain,142.35,-38.32,midden,V-5,2050,135,1915,2185,Y,0,charcoal
+South East Coastal Plain,142.35,-38.32,midden,V-5,2120,110,2010,2230,Y,0,charcoal
+South East Coastal Plain,142.35,-38.32,midden,SUA-88,3115,85,3030,3200,Y,0,marine shell
+South East Coastal Plain,142.36,-38.35,midden,Beta-70063,30,50,-20,80,U,0,marine shell (Notohaliotus ruber)
+South East Coastal Plain,142.36,-38.35,midden,Beta-68161,120,80,40,200,Y,0,charcoal
+South East Coastal Plain,142.36,-38.35,burial,NZA-3964,3538,68,3470,3606,Y,0,bone (gelatin)
+South East Coastal Plain,141.99,-38.12,stone houses,ANU-3588,380,150,230,530,Y,0,charcoal
+South East Coastal Plain,142.56,-38.4,midden,SUA-2229,680,60,620,740,U,0,marine shell (Subinella undulata)
+South East Coastal Plain,147.01,-38.49,midden,ANU-3242,3130,80,3050,3210,Y,0,marine shell (Ostrea angasi)
+South East Coastal Plain,147.01,-38.49,midden,ANU-3243,660,80,580,740,Y,0,marine shell (Donax deltoides)
+South East Coastal Plain,147.01,-38.49,midden,ANU-3255,4280,90,4190,4370,Y,0,marine shell (Anadara trapezia)
+South East Coastal Plain,147.01,-38.49,midden,ANU-3256,880,80,800,960,U,0,marine shell (Donax deltoides)
+South East Coastal Plain,145.49,-38.2,open site,Wk-15090,24168,268,23900,24436,Y,0,charcoal
+South East Coastal Plain,142.37,-38.35,midden,Not given,538,200,338,738,Y,0,charcoal
+South East Coastal Plain,143.16,-38.17,open site,Y-170,13700,250,13450,13950,U,0,freshwater shell
+South East Coastal Plain,142.52,-37.96,earth mound,ANU-3887,1580,240,1340,1820,Y,0,charcoal
+South East Coastal Plain,142.52,-37.96,earth mound,ANU-3888,1870,130,1740,2000,Y,0,charcoal
+South East Coastal Plain,142.52,-37.96,earth mound,ANU-3586,2030,120,1910,2150,Y,0,charcoal
+South East Coastal Plain,142.52,-37.96,earth mound,ANU-3885,360,280,80,640,Y,0,charcoal
+South East Coastal Plain,142.52,-37.96,earth mound,ANU-3761,440,70,370,510,Y,0,charcoal
+South East Coastal Plain,142.52,-37.96,earth mound,ANU-3585,760,100,660,860,Y,0,charcoal
+South East Coastal Plain,142.52,-37.96,earth mound,ANU-3762,790,190,600,980,Y,0,charcoal
+South East Coastal Plain,141.29,-38.21,midden,Wk-1152,5970,70,5900,6040,Y,0,marine shell
+South East Coastal Plain,147.09,-38.45,midden,ANU-5810,3480,94,3386.22367,3573.77633,Y,0,marine
+South East Coastal Plain,145,-38.33,hearth,Wk-23407,2171,34,2137,2205,Y,0,charcoal
+South East Coastal Plain,145,-38.33,hearth,Wk-23406,5463,42,5421,5505,Y,0,charcoal
+South East Coastal Plain,142.45,-38.38,midden,Not given,6500,200,6300,6700,U,0,marine shell
+South East Coastal Plain,147.85,-37.88,open site,Beta-52471,3090,110,2980,3200,U,0,scattered charcoal
+South East Coastal Plain,141.99,-38.12,earth mound,ANU-3758,1270,100,1170,1370,Y,0,charcoal
+South East Coastal Plain,141.99,-38.12,earth mound,ANU-3759,410,100,310,510,Y,0,charcoal
+South East Coastal Plain,141.99,-38.12,earth mound,ANU-3757,1600,220,1380,1820,Y,0,charcoal
+South East Coastal Plain,145.01,-38.27,midden,Beta-16548,130,70,60,200,Y,0,marine shell
+South East Coastal Plain,145.01,-38.27,midden,Beta-16549,230,60,170,290,Y,0,marine shell
+South East Coastal Plain,141.29,-38.21,midden,Wk-1104,5290,70,5220,5360,Y,0,marine shell
+South East Coastal Plain,141.29,-38.21,midden,Wk-2000,8800,60,8740,8860,Y,0,marine shell (Mylitus planulatus)
+South East Coastal Plain,141.29,-38.21,midden,Wk-410,8340,110,8230,8450,Y,0,charcoal
+South East Coastal Plain,141.29,-38.21,midden,Wk-605,8840,80,8760,8920,Y,0,marine shell
+South East Coastal Plain,141.29,-38.21,midden,Wk-1140,6860,70,6790,6930,Y,0,marine shell
+South East Coastal Plain,141.29,-38.21,midden,Wk-1141,7320,70,7250,7390,Y,0,marine shell
+South East Coastal Plain,141.29,-38.21,midden,Wk-1136,5770,60,5710,5830,Y,0,marine shell
+South East Coastal Plain,141.29,-38.21,midden,Wk-1262,8940,70,8870,9010,Y,0,marine shell
+South East Coastal Plain,144.52,-38.27,midden,N-834,335,50,285,385,Y,0,marine shell
+South East Coastal Plain,144.52,-38.27,midden,N-832,470,105,365,575,Y,0,charcoal
+South East Coastal Plain,144.52,-38.27,midden,N-831,5780,140,5640,5920,N,0,charcoal
+South East Coastal Plain,144.52,-38.27,midden,N-835,14900,280,14620,15180,N,0,marine shell (Subinella undulata)
+South East Coastal Plain,146.69,-38.67,midden,ANU-4974,2860,70,2790,2930,Y,0,marine shell (Anadara trapezia)
+South East Coastal Plain,142.48,-38.39,midden,Not given,5850,320,5530,6170,U,0,marine shell
+South East Coastal Plain,142.48,-38.39,midden,Not given,6570,115,6455,6685,U,0,marine shell
+South East Coastal Plain,144.03,-38.5,rockshelter with midden deposits,SUA-191,1020,80,940,1100,U,0,marine
+South East Coastal Plain,142.51,-38.4,midden,SUA-2491B,27910,190,27720,28100,U,0,marine shell (Subinella undulata-calcite layer)
+South East Coastal Plain,142.51,-38.4,midden,SUA-2679,34000,800,33200,34800,U,0,charcoal
+South East Coastal Plain,142.51,-38.4,midden,SUA-2491,35700,500,35200,36200,U,0,marine shell (Subinella undulata-aragonite layer)
+South East Coastal Plain,142.51,-38.4,midden,SUA-2271,42100,1535,40740,43810,U,1,marine shell (Subinella undulata)
+South East Coastal Plain,143.97,-38.56,rockshelter with midden deposits,Gak-3521,220,80,140,300,Y,0,"marine shell (Chitons, limpets and subinella)"
+South East Coastal Plain,145.01,-37.96,midden,ANU-4979,450,60,390,510,Y,0,charcoal
+South East Coastal Plain,145.01,-37.96,midden,ANU-4976,450,60,390,510,U,0,charcoal
+South East Coastal Plain,145.01,-37.96,midden,ANU-4977,450,60,390,510,U,0,charcoal
+South East Coastal Plain,145.01,-37.96,midden,ANU-4975,810,70,740,880,U,0,marine shell (Ostrea angasi)
+South East Coastal Plain,146.95,-38.57,midden,ANU-5809,540,85,455,625,Y,0,marine
+South East Coastal Plain,144.65,-38.11,midden,SUA-2209,650,60,590,710,Y,0,marine shell (Mylitus planulatus)
+South East Coastal Plain,141.19,-38.51,midden,Beta-7061,250,50,200,300,Y,0,charcoal
+South East Coastal Plain,141.19,-38.51,midden,Beta-7062,280,55,225,335,Y,0,charcoal
+South East Coastal Plain,141.29,-38.21,midden,Wk-411,360,60,300,420,Y,0,charcoal
+South East Coastal Plain,141.29,-38.21,midden,Wk-412,620,80,540,700,Y,0,charcoal
+South East Coastal Plain,141.29,-38.21,midden,Wk-1263,8680,60,8620,8740,Y,0,marine shell
+South East Coastal Plain,146.27,-38.97,midden,Gak-971,6010,110,5900,6120,Y,0,charcoal
+South East Coastal Plain,142.05,-38.34,midden,SUA-775,780,95,685,875,Y,0,charcoal
+South East Coastal Plain,142.05,-38.34,midden,SUA-774,2265,100,2165,2365,Y,0,charcoal
+South East Coastal Plain,144.74,-38.34,midden,SUA-2036,340,70,270,410,U,0,charcoal
+South East Coastal Plain,144.74,-38.34,midden,Beta-5817,360,40,320,400,U,0,charcoal
+South East Coastal Plain,144.74,-38.34,midden,SUA-2034,730,70,660,800,U,0,charcoal
+South East Coastal Plain,144.74,-38.34,midden,SUA-2035,1760,70,1690,1830,U,0,charcoal
+South East Coastal Plain,144.74,-38.34,midden,Beta-5818,1940,60,1880,2000,U,0,charcoal
+South East Coastal Plain,145.3,-38.08,open site,Wk-25902,3599,40,3559,3639,U,0,charcoal
+South East Coastal Plain,141.91,-37.01,drainage system,GX-4785,210,120,90,330,Y,0,charcoal
+South East Coastal Plain,141.91,-37.01,earth mound,Not given,820,95,725,915,Y,0,charcoal
+South East Coastal Plain,141.29,-38.21,midden,Wk-1264,4310,50,4260,4360,Y,0,marine shell
+South East Coastal Plain,142.49,-38.29,midden,SUA-1614,5930,100,5830,6030,U,0,marine shell (Subinella undulata)
+South East Coastal Plain,145.53,-38.59,midden,Wk-24941,522,43,479,565,U,0,marine shell
+South East Coastal Plain,145.53,-38.59,midden,Wk-24942,661,678,-17,1339,U,0,marine shell
+South East Coastal Plain,145.53,-38.59,midden,Wk-24940,7666,63,7603,7729,U,0,charcoal
+South East Coastal Plain,146.27,-38.97,midden,GaK-969,5880,90,5790,5970,Y,0,charcoal
+South East Coastal Plain,146.27,-38.97,midden,GaK-968,3920,90,3830,4010,Y,0,charcoal
+South East Coastal Plain,146.27,-38.97,midden,GaK-682,1260,90,1170,1350,Y,0,charcoal
+South East Coastal Plain,146.27,-38.97,midden,Gak-680,2840,90,2750,2930,Y,0,marine shell (Cellana tramosevica)
+South East Coastal Plain,146.27,-38.97,midden,GaK-681,3060,100,2960,3160,Y,0,charcoal
+South East Coastal Plain,146.27,-38.97,midden,GaK-970,3480,80,3400,3560,Y,0,charcoal
+South East Coastal Plain,146.27,-38.97,midden,GaK-683,6550,100,6450,6650,Y,0,charcoal
+South East Corner,150.17,-33.84,hearth,Wk-8843,4130,100,4030,4230,Y,0,charcoal
+South East Corner,150.2,-35.83,burial,ANU-7501A,770,90,680,860,Y,0,human bone apatite
+South East Corner,150.2,-35.83,burial,ANU-7501B,910,70,840,980,Y,0,bone
+South East Corner,150.19,-35.82,midden,Wk-12416,953,45,908,998,Y,0,Esuarine shell (Ostrea sp.)
+South East Corner,150.19,-35.82,midden,Wk-12417,1715,45,1670,1760,Y,0,Esuarine shell (Pyrazus sp.)
+South East Corner,150.19,-35.82,midden,Wk-12415,2979,50,2929,3029,Y,0,marine shell (Cabesatana sp.)
+South East Corner,149.96,-37.25,midden,ANU-6930,330,110,220,440,Y,0,charcoal
+South East Corner,150.1,-36.34,midden,ANU-3678,320,110,210,430,Y,0,charcoal
+South East Corner,150.1,-36.34,midden,ANU-3708,730,70,660,800,Y,0,marine (Anadara sp.)
+South East Corner,149.69,-36.26,rockshelter,ANU-8763,250,80,170,330,N,0,charcoal
+South East Corner,149.69,-36.26,rockshelter,ANU-8764,2770,60,2710,2830,Y,0,charcoal from hearth
+South East Corner,149.69,-36.26,rockshelter,ANU-9379,2870,110,2760,2980,U,0,charcoal
+South East Corner,149.69,-36.26,rockshelter,ANU-9871,4210,50,4160,4260,U,0,charcoal
+South East Corner,149.76,-37.56,midden,SUA-1919,150,70,80,220,Y,0,charcoal
+South East Corner,149.76,-37.56,midden,SUA-1146,650,80,570,730,Y,0,charcoal
+South East Corner,149.76,-37.56,midden,SUA-1448,730,80,650,810,Y,0,charcoal
+South East Corner,149.76,-37.56,dingo burial,SUA-1920,890,90,800,980,Y,0,charcoal
+South East Corner,149.76,-37.56,midden,SUA-1145,1700,90,1610,1790,Y,0,charcoal
+South East Corner,149.76,-37.56,midden,SUA-1918,2380,80,2300,2460,Y,0,charcoal
+South East Corner,149.76,-37.56,midden,SUA-1449,2420,80,2340,2500,Y,0,marine
+South East Corner,148.73,-37.81,midden,Beta-16553,860,70,790,930,Y,0,marine shell (Subinella undulata)
+South East Corner,148.73,-37.81,midden,Beta-16552,1190,70,1120,1260,Y,0,marine shell (Subinella undulata)
+South East Corner,149.18,-37.78,midden,SUA-377,360,90,270,450,Y,0,marine
+South East Corner,150.22,-35.72,burial,ANU-8228B,530,60,470,590,Y,0,charcoal
+South East Corner,150.15,-35.95,midden,Wk-22420,1051,35,1016,1086,Y,0,marine shell (cabestana sp.)
+South East Corner,150.15,-35.95,midden,Wk-22419,1212,38,1174,1250,Y,0,marine shell (cabestana sp.)
+South East Corner,150.15,-35.95,midden,Wk-22421,1352,36,1316,1388,Y,0,scattered charcoal
+South East Corner,150.21,-35.7,midden,Hel-1358,830,102,727.8187884,932.1812116,Y,0,marine shell
+South East Corner,147.3,-38.27,midden,SUA-1822,630,100,530,730,Y,0,marine shell (Donax deltoides)
+South East Corner,147.3,-38.27,midden,ANU-4599,390,60,330,450,Y,0,marine shell (Donax deltoides)
+South East Corner,147.3,-38.27,midden,ANU-4598,660,70,590,730,Y,0,marine shell (Ostrea angasi)
+South East Corner,147.3,-38.27,midden,ANU-4597,810,60,750,870,Y,0,marine shell (Donax deltoides)
+South East Corner,147.3,-38.27,midden,SUA-1823,810,70,740,880,Y,0,marine shell (Donax deltoides)
+South East Corner,147.3,-38.27,midden,Beta-32208,180,70,110,250,Y,0,marine shell (Donax deltoides)
+South East Corner,147.3,-38.27,midden,Beta-32207,260,70,190,330,Y,0,marine shell (Ostrea angasi)
+South East Corner,147.3,-38.27,midden,Beta-32206,420,80,340,500,Y,0,marine shell (Donax deltoides)
+South East Corner,147.3,-38.27,midden,Beta-32209,1240,60,1180,1300,Y,0,marine shell (Donax deltoides)
+South East Corner,150.44,-35.39,midden,Wk-16145,1137,48,1089,1185,Y,0,marine shell
+South East Corner,150.44,-35.39,midden,Wk-16145,1252,41,1211,1293,Y,0,marine shell
+South East Corner,148.17,-37.5,rockshelter (hearth),Gak-512,2460,100,2360,2560,Y,0,charcoal
+South East Corner,149.03,-37.73,midden,Wk-2001,6950,60,6890,7010,U,0,marine shell (Mylitus planulatus)
+South East Corner,149.03,-37.73,midden,LTU-18,9450,1250,8200,10700,U,0,marine shell
+South East Corner,149.03,-37.73,midden,Wk-2002,8600,70,8530,8670,U,0,marine shell (Mylitus planulatus)
+South East Corner,149.03,-37.73,midden,Wk-2003,7010,60,6950,7070,U,0,marine shell (Donax deltoides)
+South East Corner,149.03,-37.73,midden,WK-2004,8470,60,8410,8530,U,0,marine shell (Mylitus planulatus)
+South East Corner,149.03,-37.73,midden,Wk-2005,7370,60,7310,7430,U,0,marine shell (Mylitus planulatus)
+South East Corner,149.76,-37.55,midden,SUA-0231,970,80,890,1050,U,0,marine shell
+South East Corner,149.76,-37.55,midden,SUA-1452,980,80,900,1060,U,0,charcoal
+South East Corner,149.76,-37.55,midden,SUA-2161,1100,70,1030,1170,U,0,charcoal
+South East Corner,149.76,-37.55,midden,SUA-2162,1470,70,1400,1540,U,0,charcoal
+South East Corner,149.76,-37.55,midden,SUA-1453,1750,80,1670,1830,U,0,charcoal
+South East Corner,149.76,-37.55,midden,SUA-1454,2470,80,2390,2550,Y,0,charcoal
+South East Corner,149.91,-37.56,midden,SUA-1455,950,80,870,1030,Y,0,charcoal
+South East Corner,149.94,-37.28,rockshelter with midden deposits,ANU-6935,290,190,100,480,Y,0,charcoal
+South East Corner,149.94,-37.28,rockshelter with midden deposits,ANU-6933,340,120,220,460,Y,0,charcoal
+South East Corner,149.94,-37.28,rockshelter with midden deposits,ANU-6934,460,110,350,570,Y,0,charcoal
+South East Corner,149.94,-37.28,rockshelter with midden deposits,ANU-3047,690,50,640,740,Y,0,charcoal
+South East Corner,149.91,-36.95,midden,ANU-2245,260,80,180,340,Y,0,charcoal
+South East Corner,149.91,-36.95,midden,ANU-2253,540,70,470,610,Y,0,marine shell
+South East Corner,149.91,-36.95,midden,ANU-2828,590,170,420,760,Y,0,charcoal
+South East Corner,149.91,-36.95,midden,ANU-2827,1120,80,1040,1200,Y,0,marine shell
+South East Corner,149.91,-36.95,midden,ANU-2830,1820,80,1740,1900,Y,0,charcoal
+South East Corner,149.91,-36.95,midden,ANU-2246,1850,80,1770,1930,Y,0,charcoal
+South East Corner,149.91,-36.95,midden,ANU-2829,1990,80,1910,2070,Y,0,marine shell
+South East Corner,149.91,-36.95,midden,ANU-2254,3150,170,2980,3320,Y,0,marine shell
+South East Corner,148.09,-37.86,midden,ANU-5813,1540,85,1454.50731,1625.49269,Y,0,marine
+South East Corner,149.89,-36.89,midden,Wk-14109,503,35,468,538,Y,0,marine shell (Anadara trapezia)
+South East Corner,149.89,-36.89,midden,Wk-14108,509,30,479,539,Y,0,marine shell (Anadara trapezia)
+South East Corner,149.89,-36.89,midden,Wk-14111,561,37,524,598,Y,0,marine shell (Anadara trapezia)
+South East Corner,149.89,-36.89,midden,WK-14110,807,30,777,837,Y,0,marine shell (Anadara trapezia)
+South East Corner,149.77,-37.56,midden,SUA-327,710,94,616.2236704,803.7763296,Y,0,marine
+South East Corner,149.73,-37.53,midden,SUA-231,1420,80,1340,1500,Y,0,Anadara sp
+South East Corner,149.73,-37.53,midden,SUA-232,1500,70,1430,1570,Y,0,marine shell (Anadara sp.)
+South East Corner,149.73,-37.53,midden,SUA-233,710,80,630,790,Y,0,marine shell (Anadara sp.)
+South East Corner,149.89,-36.89,midden,Wk-15883,1063,35,1028,1098,Y,0,marine shell (Anadara sp.)
+South East Corner,149.89,-36.89,midden,Wk-15884,1225,49,1176,1274,Y,0,marine shell (Anadara sp.)
+South East Corner,149.89,-36.89,midden,Wk-15886,1635,42,1593,1677,Y,0,marine shell (Anadara sp.)
+South East Corner,149.89,-36.89,midden,Wk-15882,1881,41,1840,1922,Y,0,marine shell (Anadara sp.)
+South East Corner,149.89,-36.89,midden,Wk-15887,2007,34,1973,2041,Y,0,marine shell (Anadara sp.)
+South East Corner,149.89,-36.89,midden,Wk-15885,2398,34,2364,2432,Y,0,marine shell (Anadara sp.)
+South East Corner,149.89,-36.89,midden,Wk-15890,2408,35,2373,2443,Y,0,marine shell (Anadara sp.)
+South East Corner,149.89,-36.89,midden,Wk-15889,845,35,810,880,Y,0,marine shell (Anadara sp.)
+South East Corner,149.89,-36.89,midden,Wk-15888,874,33,841,907,Y,0,marine shell (Anadara sp.)
+South East Corner,149.89,-36.89,midden,Wk-14112,1192,30,1162,1222,Y,0,marine shell (Anadara trapezia)
+South East Corner,148.01,-37.88,midden,Beta-82872,670,70,600,740,Y,0,marine shell (Donax deltoides)
+South East Corner,148.01,-37.88,midden,Beta-82871,4050,80,3970,4130,Y,0,marine shell (Anadara trapezia)
+South East Corner,149.89,-36.89,midden,ANU-4997,1670,110,1560,1780,Y,0,charcoal
+South East Corner,149.89,-36.89,midden,ANU-4994,2160,80,2080,2240,Y,0,marine shell
+South East Corner,149.89,-36.89,midden,ANU-4998,2270,80,2190,2350,Y,0,marine shell
+South East Corner,149.89,-36.89,midden,ANU-5308,3570,90,3480,3660,Y,0,marine shell
+South East Corner,149.89,-36.89,midden,ANU-4999,3290,80,3210,3370,Y,0,charcoal
+South East Corner,149.89,-36.89,midden,ANU-4996,3440,90,3350,3530,Y,0,marine shell
+South East Corner,149.89,-36.89,midden,ANU-4995,3530,80,3450,3610,Y,0,charcoal
+South East Corner,149.89,-36.89,midden,ANU-5000,3610,80,3530,3690,Y,0,charcoal
+South East Corner,149.76,-37.56,midden,SUA-321,1420,80,1340,1500,Y,0,marine shell (Anadara trapezia)
+South East Corner,149.27,-37.8,midden,SUA-573,1425,100,1325,1525,Y,0,marine shell
+South East Corner,149.76,-37.56,midden,SUA-320,1320,80,1240,1400,Y,0,marine shell (Anadara trapezia)
+South East Corner,149.29,-37.79,midden,SUA-378C,220,85,135,305,U,0,charcoal
+South East Corner,149.29,-37.79,midden,SUA-377C,360,85,275,445,Y,0,charcoal
+South East Corner,149.29,-37.79,midden,SUA-378S,420,100,320,520,U,0,marine shell
+South East Corner,149.29,-37.79,midden,SUA-377S,660,95,565,755,U,0,marine shell
+South East Corner,149.72,-37.5,midden,SUA-1450,920,70,850,990,U,0,charcoal
+South East Corner,149.72,-37.5,midden,SUA-1451,1270,70,1200,1340,U,0,charcoal
+South East Corner,149.95,-36.79,midden,ANU-7770,2990,190,2800,3180,Y,0,charcoal
+South East Corner,150.11,-35.42,rockshelter,AA-5846,635,50,585,685,Y,0,charcoal
+South Eastern Highlands,148.92,-35.45,rockshelter,ANU-1050,1000,60,940,1060,Y,0,charcoal
+South Eastern Highlands,148.21,-37.41,rockshelter,ANU-1181,1010,65,945,1075,Y,0,charcoal
+South Eastern Highlands,148.21,-37.41,rockshelter,ANU-1183,1110,70,1040,1180,Y,0,charcoal
+South Eastern Highlands,148.21,-37.41,rockshelter,ANU-1001,8720,230,8490,8950,Y,0,charcoal
+South Eastern Highlands,148.21,-37.41,rockshelter,ANU-1044,17720,840,16880,18560,Y,0,charcoal
+South Eastern Highlands,148.89,-35.49,rockshelter,ANU-1047,370,60,310,430,Y,0,charcoal
+South Eastern Highlands,146.01,-36.84,burial,SUA-2177,550,70,480,620,Y,0,charcoal
+South Eastern Highlands,146.86,-36.5,rockshelter,SUA-809,690,100,590,790,U,0,charcoal
+South Eastern Highlands,146.86,-36.5,rockshelter,SUA-810,3445,130,3315,3575,U,0,charcoal
+South Eastern Highlands,149.54,-35.12,open site,ANU-1060,760,110,650,870,Y,0,charcoal
+South Eastern Highlands,149.97,-34.3,open site,Wk-11561,9998,75,9923,10073,Y,0,charcoal
+South Eastern Highlands,149.97,-34.3,open site,Wk-11562,12178,66,12112,12244,Y,0,charcoal
+South Eastern Highlands,148.95,-35.45,rockshelter,Beta-16650,870,50,820,920,Y,0,charcoal
+South Eastern Highlands,148.95,-35.45,rockshelter,Beta-16651,1730,60,1670,1790,Y,0,charcoal
+South Eastern Highlands,148.95,-35.45,rockshelter,Beta-16652,1980,70,1910,2050,Y,0,charcoal
+South Eastern Highlands,148.95,-35.45,rockshelter,Beta-17657,2740,160,2580,2900,Y,0,charcoal
+South Eastern Highlands,148.95,-35.45,rockshelter,ARL-160,3100,150,2950,3250,Y,0,charcoal
+South Eastern Highlands,148.95,-35.45,rockshelter,Beta-16653,10160,160,10000,10320,Y,0,charcoal
+South Eastern Highlands,148.95,-35.45,rockshelter,ARL-145,13400,3450,10600,17500,Y,1,charcoal
+South Eastern Highlands,148.95,-35.45,rockshelter,ARL-144,15070,480,14590,15550,Y,0,charcoal
+South Eastern Highlands,148.95,-35.45,rockshelter,Beta-16654,15930,240,15690,16170,Y,0,charcoal
+South Eastern Highlands,148.95,-35.45,rockshelter,ARL-162,18300,1350,17000,19700,Y,1,charcoal
+South Eastern Highlands,148.95,-35.45,rockshelter,Beta-16886,21000,220,20780,21220,U,0,scattered charcoal
+South Eastern Highlands,148.88,-35.63,rockshelter,ANU-3033,3700,110,3590,3810,U,0,charcoal
+South Eastern Highlands,149.27,-35.03,open site,ANU-3704,3300,100,3200,3400,N,0,charcoal
+South Eastern Highlands,148.5,-35.7,rockshelter,Wk-18838,8343,43,8300,8386,Y,0,charcoal
+South Eastern Highlands,148.5,-35.7,rockshelter,Wk-18839,8668,43,8625,8711,Y,0,charcoal
+Swan Coastal Plain,115.1,-33.61,open site,Wk-27229,261,30,231,291,U,0,charcoal
+Swan Coastal Plain,115.1,-33.61,open site,Wk-27230,2249,30,2219,2279,U,0,charcoal
+Swan Coastal Plain,115.1,-33.61,open site,SUA-886,4530,70,4460,4600,Y,0,charcoal
+Swan Coastal Plain,115.1,-33.61,open site,SUA-888,7145,275,6870,7420,Y,0,charcoal
+Swan Coastal Plain,115.1,-33.61,open site,Wk-27231,10520,40,10480,10560,U,0,charcoal
+Swan Coastal Plain,116.22,-31.6,rockshelter,ANU-827,110,70,40,180,Y,0,charcoal
+Swan Coastal Plain,116.22,-31.6,rockshelter,ANU-830,3090,240,2850,3330,Y,0,charcoal
+Swan Coastal Plain,114.96,-30.04,midden,SUA-1471,5260,90,5170,5350,Y,0,marine shell (Turbo intercostalis)
+Swan Coastal Plain,115.04,-30.27,midden,SUA-1661,3450,90,3360,3540,Y,0,marine shell (Turbo intercostalis)
+Swan Coastal Plain,115.04,-30.27,midden,SUA-1660,6290,100,6190,6390,Y,0,marine shell (Nucella orbita)
+Swan Coastal Plain,115.77,-32.02,open site,SUA-454,9930,130,9800,10060,U,0,charcoal
+Swan Coastal Plain,115.51,-31.36,midden,SUA-1853,5220,80,5140,5300,Y,0,marine shell (Patella laticostata)
+Swan Coastal Plain,115.76,-32.01,,SUA-434,9930,130,9800,10060,U,0,charcoal
+Swan Coastal Plain,115.75,-31.67,rockshelter,ANU-622,1730,85,1645,1815,Y,0,scattered charcoal
+Swan Coastal Plain,115.75,-31.67,rockshelter,ANU-623,3310,150,3160,3460,Y,0,scattered charcoal
+Swan Coastal Plain,115.75,-31.67,rockshelter,ANU-624,3820,100,3720,3920,Y,0,scattered charcoal
+Swan Coastal Plain,115.04,-30.27,midden,SUA-1472,5330,90,5240,5420,Y,0,marine shell (Turbo intercostalis)
+Swan Coastal Plain,115.04,-30.27,midden,SUA-1629,1390,80,1310,1470,U,0,marine shell (Turbo intercostalis)
+Swan Coastal Plain,115.04,-30.27,midden,SUA-1667,4860,90,4770,4950,U,0,marine shell (Turbo intercostalis)
+Swan Coastal Plain,115.96,-31.89,open site,SUA-1704,35100,1400,33800,36600,Y,1,carbonised nodule
+Swan Coastal Plain,115.96,-31.89,open site,SUA-1665,37100,1450,35800,38700,Y,1,carbonised nodule
+Swan Coastal Plain,115.96,-31.89,open site,SUA-1500,39500,2050,37700,41800,Y,1,scattered charcoal
+Swan Coastal Plain,116.06,-31.74,open site,SUA-632,1330,100,1230,1430,Y,0,charcoal
+Swan Coastal Plain,116.06,-31.74,open site,SUA-508,3220,100,3120,3320,Y,0,charcoal
+Swan Coastal Plain,116.06,-31.74,open site,SUA-633,4560,150,4410,4710,Y,0,charcoal
+Swan Coastal Plain,116.06,-31.74,open site,SUA-509,6135,160,5975,6295,Y,0,charcoal
+Swan Coastal Plain,116.06,-31.74,open site,SUA-510,8000,260,7740,8260,Y,0,charcoal
+Sydney Basin,150.88,-33.72,open site,SUA-2413,3450,60,3390,3510,Y,0,charcoal
+Sydney Basin,150.84,-35.01,rockshelter with midden deposits,ANU-6447,270,70,200,340,Y,0,charcoal
+Sydney Basin,150.84,-35.01,rockshelter with midden deposits,ANU-6448,330,70,260,400,Y,0,charcoal
+Sydney Basin,150.84,-35.01,rockshelter with midden deposits,ANU-6449,750,100,650,850,Y,0,charcoal
+Sydney Basin,150.84,-35.01,rockshelter with midden deposits,ANU-6446,1630,70,1560,1700,Y,0,charcoal
+Sydney Basin,150.24,-35.24,open site,ANU-8767,850,160,690,1010,U,0,charcoal from hearth
+Sydney Basin,150.24,-35.24,open site,ANU-8769,2560,90,2470,2650,U,0,scattered charcoal
+Sydney Basin,150.24,-35.24,open site,ANU-9380,3740,110,3630,3850,U,0,charcoal
+Sydney Basin,150.24,-35.24,open site,ANU-8768,4050,210,3840,4260,U,0,scattered charcoal
+Sydney Basin,151.32,-33.64,rockshelter,ANU-6583,1150,100,1050,1250,U,0,charcoal
+Sydney Basin,151.32,-33.64,rockshelter,ANU-6923,1750,90,1660,1840,U,0,charcoal
+Sydney Basin,151.32,-33.64,rockshelter,ANU-6585,1890,130,1760,2020,U,0,charcoal
+Sydney Basin,151.32,-33.64,rockshelter,ANU-6584,2000,150,1850,2150,U,0,charcoal
+Sydney Basin,151.07,-32.66,open site,Beta-62207,3120,70,3050,3190,Y,0,charcoal from hearth
+Sydney Basin,151.07,-32.66,open site,Beta-62206,1730,50,1680,1780,Y,0,charcoal from hearth
+Sydney Basin,151.07,-32.66,open site,Beta-62208,2060,50,2010,2110,U,0,charcoal
+Sydney Basin,151.07,-32.66,open site,Beta-62209,2620,60,2560,2680,U,0,charcoal
+Sydney Basin,151.25,-33.83,rockshelter,Wk-3051,1810,80,1730,1890,Y,0,charcoal
+Sydney Basin,151.25,-33.83,rockshelter,Beta-55984,2570,70,2500,2640,Y,0,marine shell
+Sydney Basin,151.25,-33.83,rockshelter,Wk-3050,2760,60,2700,2820,Y,0,marine shell
+Sydney Basin,151.25,-33.83,rockshelter,Wk-4600,2800,90,2710,2890,U,0,charcoal
+Sydney Basin,151.25,-33.83,rockshelter,Beta-60308,2960,60,2900,3020,U,0,charcoal
+Sydney Basin,151.25,-33.83,rockshelter,Beta-60309,3070,70,3000,3140,U,0,charcoal
+Sydney Basin,151.25,-33.83,rockshelter,Beta-56286,3080,90,2990,3170,Y,0,charcoal
+Sydney Basin,151.25,-33.83,rockshelter,Beta-63203,3120,60,3060,3180,Y,0,marine shell
+Sydney Basin,151.25,-33.83,rockshelter,Wk-4599,3280,65,3215,3345,U,0,charcoal
+Sydney Basin,151.25,-33.83,rockshelter,Beta-63204,3310,50,3260,3360,Y,0,charcoal
+Sydney Basin,151.25,-33.83,rockshelter,Beta-57824,3520,90,3430,3610,Y,0,charcoal
+Sydney Basin,151.25,-33.83,rockshelter,Beta-60307,3530,150,3380,3680,U,0,charcoal
+Sydney Basin,151.25,-33.83,rockshelter,Beta-58864,3780,140,3640,3920,Y,0,charcoal
+Sydney Basin,151.23,-33.78,rockshelter,SUA-593,4520,100,4420,4620,U,0,marine shell (oyster)
+Sydney Basin,151,-34.02,rockshelter,SUA-1746,1630,90,1540,1720,Y,0,charcoal
+Sydney Basin,150.9,-34.6,midden,SUA-47,320,75,245,395,Y,0,charcoal
+Sydney Basin,150.9,-34.6,midden,ANU-534,570,75,495,645,Y,0,charcoal
+Sydney Basin,150.9,-34.6,midden,SUA-45/S4,665,70,595,735,Y,0,marine shell
+Sydney Basin,150.9,-34.6,midden,SUA-45/S2,680,65,615,745,Y,0,marine shell
+Sydney Basin,150.9,-34.6,midden,SUA-45/S3,695,65,630,760,Y,0,marine shell
+Sydney Basin,150.9,-34.6,midden,SUA-45/S1,725,65,660,790,Y,0,marine shell
+Sydney Basin,150.9,-34.6,midden,Not given,740,83,657,823,U,0,charcoal
+Sydney Basin,150.9,-34.6,midden,SUA-51,900,115,785,1015,Y,0,charcoal
+Sydney Basin,150.9,-34.6,midden,SUA-144,930,90,840,1020,Y,0,charcoal
+Sydney Basin,150.9,-34.6,midden,SUA-146,985,100,885,1085,Y,0,charcoal
+Sydney Basin,150.9,-34.6,midden,SUA-145/S1,1100,65,1035,1165,Y,0,marine shell
+Sydney Basin,150.9,-34.6,midden,SUA-145/S6,1190,75,1115,1265,Y,0,marine shell
+Sydney Basin,150.9,-34.6,midden,SUA-145/S2,1250,65,1185,1315,Y,0,marine shell
+Sydney Basin,150.9,-34.6,midden,SUA-145/S4,1270,65,1205,1335,Y,0,marine shell
+Sydney Basin,150.9,-34.6,midden,SUA-145/S3C,1285,65,1220,1350,Y,0,marine shell
+Sydney Basin,150.9,-34.6,midden,SUA-145/S3A,1290,65,1225,1355,Y,0,marine shell
+Sydney Basin,150.9,-34.6,midden,SUA-145/S3B,1290,65,1225,1355,Y,0,marine shell
+Sydney Basin,150.9,-34.6,midden,SUA-25,2650,70,2580,2720,Y,0,charcoal
+Sydney Basin,150.9,-34.6,midden,SUA-24/S1B,2870,80,2790,2950,Y,0,marine shell
+Sydney Basin,150.9,-34.6,midden,ANU-535,2975,145,2830,3120,Y,0,charcoal
+Sydney Basin,150.9,-34.6,midden,NSW-68,9050,500,8550,9550,Y,0,charcoal
+Sydney Basin,150.9,-34.6,midden,ANU-536,17010,650,16360,17660,Y,0,charcoal
+Sydney Basin,151.57,-33.28,midden,SUA-1189,670,80,590,750,U,0,marine shell
+Sydney Basin,150.53,-35.25,burial,ANU-8154B,650,80,570,730,Y,0,charcoal
+Sydney Basin,151.19,-33.84,midden,OFZ-238,1295,35,1260,1330,Y,0,marine shell (Pyrazus ebeninus)
+Sydney Basin,151.19,-33.84,midden,OFZ-237,1300,35,1265,1335,Y,0,marine shell (Pyrazus ebeninus)
+Sydney Basin,151.2,-34.04,midden,SUA-3010,830,210,620,1040,Y,0,charcoal
+Sydney Basin,151.2,-34.04,midden,SUA-3012,1400,110,1290,1510,Y,0,charcoal
+Sydney Basin,151.2,-34.04,midden,SUA-3009,2010,150,1860,2160,Y,0,charcoal
+Sydney Basin,151.2,-34.04,midden,NZA-2323,2402,88,2314,2490,Y,0,charcoal
+Sydney Basin,151.05,-34.01,rockshelter,Beta-5787,2340,100,2240,2440,Y,0,charcoal
+Sydney Basin,151.13,-33.19,rockshelter,SUA-932,3040,85,2955,3125,Y,0,charcoal
+Sydney Basin,151.12,-34.02,midden,ANU-896,470,60,410,530,Y,0,charcoal
+Sydney Basin,151.12,-34.02,midden,ANU-895,1950,100,1850,2050,Y,0,charcoal
+Sydney Basin,151.15,-33.2,rockshelter,Beta-81625,2370,60,2310,2430,U,0,charcoal
+Sydney Basin,149.72,-32.29,rockshelter,ANU-123,730,70,660,800,Y,0,charcoal
+Sydney Basin,149.72,-32.29,rockshelter,ANU-790,4120,175,3945,4295,Y,0,charcoal
+Sydney Basin,149.72,-32.29,rockshelter,ANU-287,5150,170,4980,5320,Y,0,charcoal
+Sydney Basin,149.72,-32.29,rockshelter,ANU-124,7750,120,7630,7870,U,0,charcoal
+Sydney Basin,150.2,-35.11,rockshelter,ANU-8979,900,60,840,960,Y,0,charcoal from hearth
+Sydney Basin,150.2,-35.11,rockshelter,ANU-8428,1780,70,1710,1850,Y,0,scattered charcoal
+Sydney Basin,150.2,-35.11,rockshelter,ANU-8980,1860,180,1680,2040,N,0,scattered charcoal
+Sydney Basin,150.2,-35.11,rockshelter,ANU-8427,2250,70,2180,2320,Y,0,charcoal from hearth
+Sydney Basin,150.2,-35.11,rockshelter,ANU-8429,2860,100,2760,2960,Y,0,charcoal from hearth
+Sydney Basin,150.2,-35.11,rockshelter,ANU-8973,5980,390,5590,6370,U,0,charcoal
+Sydney Basin,150.2,-35.11,rockshelter,ANU-8313,10850,300,10550,11150,Y,0,scattered charcoal
+Sydney Basin,150.59,-34.86,rockshelter,ANU-1020,1410,60,1350,1470,Y,0,charcoal
+Sydney Basin,150.59,-34.86,rockshelter,ANU-1021,1930,60,1870,1990,Y,0,charcoal
+Sydney Basin,151.13,-33.16,rockshelter,SUA-2169,1880,60,1820,1940,U,0,charcoal
+Sydney Basin,151.12,-34.02,midden,SUA-2857,1520,90,1430,1610,Y,0,charcoal
+Sydney Basin,149.85,-32.53,rockshelter,ANU-1572,270,80,190,350,Y,0,charcoal
+Sydney Basin,150.77,-35.11,midden,ANU-2344,550,180,370,730,Y,0,charcoal
+Sydney Basin,150.77,-35.12,midden,ANU-2345,1180,260,920,1440,Y,0,charcoal
+Sydney Basin,151.12,-33.19,rockshelter,SUA-1123,2890,80,2810,2970,U,0,charcoal
+Sydney Basin,150.2,-35.11,rockshelter,ANU-9374,1480,70,1410,1550,U,0,charcoal
+Sydney Basin,150.2,-35.11,rockshelter,ANU-8312,3150,60,3090,3210,Y,0,charcoal from hearth
+Sydney Basin,150.2,-35.11,rockshelter,ANU-8432,3260,170,3090,3430,Y,0,charcoal from hearth
+Sydney Basin,150.2,-35.11,rockshelter,ANU-8433B,12040,630,11410,12670,Y,0,scattered charcoal
+Sydney Basin,150.2,-35.11,rockshelter,ANU-9375,18810,160,18650,18970,U,0,charcoal
+Sydney Basin,150.87,-34.07,rockshelter,Not given,1050,80,970,1130,Y,0,charcoal
+Sydney Basin,150.87,-34.07,rockshelter,SUA-2106,1820,90,1730,1910,Y,0,charcoal
+Sydney Basin,150.42,-35.37,rockshelter,ANU-139,1660,70,1590,1730,Y,0,scattered charcoal
+Sydney Basin,150.42,-35.37,rockshelter,ANU-63,4650,100,4550,4750,U,0,charcoal
+Sydney Basin,150.42,-35.37,rockshelter,ANU-648,4680,100,4580,4780,U,0,charcoal
+Sydney Basin,150.42,-35.37,rockshelter,ANU-335,5320,150,5170,5470,U,0,charcoal
+Sydney Basin,150.42,-35.37,rockshelter,ANU-336,12450,160,12290,12610,U,0,charcoal
+Sydney Basin,150.42,-35.37,rockshelter,ANU-137,20760,800,19960,21560,Y,0,scattered charcoal
+Sydney Basin,150.42,-35.37,rockshelter,ANU-138,20830,810,20020,21640,Y,0,scattered charcoal
+Sydney Basin,150.42,-35.37,rockshelter with midden deposits,ANU-8421,360,60,300,420,Y,0,charcoal from hearth
+Sydney Basin,150.42,-35.37,rockshelter with midden deposits,ANU-8422,3280,70,3210,3350,Y,0,charcoal from hearth
+Sydney Basin,151.22,-33.82,rockshelter,Wk-3221,1860,45,1815,1905,,0,marine shell
+Sydney Basin,151.22,-33.82,rockshelter,Wk-3052,2230,90,2140,2320,Y,0,charcoal
+Sydney Basin,151.22,-33.82,rockshelter,Wk-3220,2440,50,2390,2490,,0,marine shell
+Sydney Basin,151.22,-33.82,rockshelter,Wk-3219,5840,50,5790,5890,U,0,marine shell
+Sydney Basin,151.22,-34.01,midden,ANU-722,360,110,250,470,,0,charcoal
+Sydney Basin,151.22,-34.01,midden,ANU-721,1330,100,1230,1430,,0,charcoal
+Sydney Basin,151.14,-33.13,rockshelter,SUA-2173,1430,60,1370,1490,U,0,charcoal
+Sydney Basin,151.21,-33.78,midden,OZC-899,560,45,515,605,Y,0,marine shell
+Sydney Basin,151.21,-33.78,midden,Beta-117985,1370,60,1310,1430,Y,0,marine shell
+Sydney Basin,151.21,-33.78,midden,OZC-900,1650,40,1610,1690,Y,0,marine shell
+Sydney Basin,151.21,-33.78,midden,OZC-901,1650,40,1610,1690,Y,0,marine shell
+Sydney Basin,150.55,-35.18,midden,SUA-260C,390,70,320,460,U,0,marine shell
+Sydney Basin,150.55,-35.18,midden,SUA-261,550,90,460,640,U,0,charcoal
+Sydney Basin,150.55,-35.18,midden,SUA-260/S2,720,60,660,780,U,0,marine shell
+Sydney Basin,150.55,-35.18,midden,SUA-260/S1,800,60,740,860,U,0,marine shell
+Sydney Basin,150.55,-35.18,midden,SUA-262C,910,60,850,970,Y,0,charcoal
+Sydney Basin,150.55,-35.18,midden,SUA-261/S1,970,75,895,1045,U,0,marine shell
+Sydney Basin,150.55,-35.18,midden,SUA-261/S2,970,75,895,1045,U,0,marine shell
+Sydney Basin,150.55,-35.18,midden,SUA-262,1030,100,930,1130,U,0,charcoal
+Sydney Basin,150.55,-35.18,midden,SUA-262/S3,1125,80,1045,1205,U,0,marine shell
+Sydney Basin,150.55,-35.18,midden,SUA-262/S4,1265,70,1195,1335,U,0,marine shell
+Sydney Basin,150.55,-35.18,midden,SUA-262/S2,1275,80,1195,1355,U,0,marine shell
+Sydney Basin,150.55,-35.18,midden,SUA-262/S1,1285,70,1215,1355,U,0,marine shell
+Sydney Basin,150.93,-33.69,hearth,Wk-4533,700,50,650,750,Y,0,charcoal
+Sydney Basin,150.93,-33.69,hearth,Wk-4534,370,60,310,430,Y,0,charcoal
+Sydney Basin,150.93,-33.69,hearth,Wk-4535,1030,50,980,1080,Y,0,charcoal
+Sydney Basin,150.93,-33.69,hearth,Wk-4536,330,50,280,380,Y,0,charcoal
+Sydney Basin,150.93,-33.69,hearth,Wk-4537,740,50,690,790,Y,0,charcoal
+Sydney Basin,151.03,-33.72,rockshelter,Beta-11896,2200,60,2140,2260,Y,0,charcoal
+Sydney Basin,149.95,-32.49,open site,Beta-137093,930,40,890,970,Y,0,charcoal
+Sydney Basin,150.67,-33.73,open,Beta-5435,30200,1280,28920,31480,N,0,charcoal
+Sydney Basin,150.67,-33.73,open,Beta-6511,37010,1040,35970,38050,N,0,wood
+Sydney Basin,150.67,-33.73,open,ANU-3418,37100,1600,35500,38700,N,0,wood
+Sydney Basin,150.67,-33.73,open,ANU-4015,37750,1375,36500,39250,N,1,charcoal
+Sydney Basin,150.67,-33.73,open,ANU-3908,40200,2100,38100,42300,N,0,wood
+Sydney Basin,150.67,-33.73,open,ANU-4017,40500,1925,38800,42650,N,1,wood
+Sydney Basin,150.67,-33.73,open,ANU-4016,41700,2600,39500,44700,N,1,wood
+Sydney Basin,151.16,-34.03,midden,Wk-8844,2880,60,2820,2940,Y,0,marine shell
+Sydney Basin,151.16,-34.03,midden,Wk-8845,3240,70,3170,3310,Y,0,charcoal
+Sydney Basin,151.21,-33.76,midden,Beta-47633,890,60,830,950,Y,0,marine shell (Saccostrea cucullata)
+Sydney Basin,151.11,-34.15,rockshelter,GaK-894,1430,90,1340,1520,Y,0,charcoal
+Sydney Basin,151.11,-34.15,rockshelter,GaK-481,1580,130,1450,1710,Y,0,scattered charcoal
+Sydney Basin,151.11,-34.15,hearth within rockshelter,GaK-896,2110,90,2020,2200,Y,0,charcoal
+Sydney Basin,151.11,-34.15,rockshelter,I-1135,2150,180,1970,2330,Y,0,wood charcoal
+Sydney Basin,151.11,-34.15,rockshelter,GaK-895,2230,80,2150,2310,Y,0,charcoal
+Sydney Basin,151.11,-34.15,rockshelter,GaK-688,2360,90,2270,2450,Y,0,wood charcoal
+Sydney Basin,151.11,-34.15,rockshelter,GaK-393b,2500,400,2100,2900,Y,0,charcoal
+Sydney Basin,151.11,-34.15,rockshelter,GaK-394b,3000,120,2880,3120,U,0,scattered charcoal
+Sydney Basin,151.11,-34.15,rockshelter,GaK-394a,3880,150,3730,4030,Y,0,charcoal
+Sydney Basin,151.11,-34.15,rockshelter,GaK-482,7450,180,7270,7630,U,0,wood charcoal
+Sydney Basin,151.11,-34.15,rockshelter,GaK-898,1930,80,1850,2010,Y,0,charcoal
+Sydney Basin,151.11,-34.15,rockshelter,ANU-179,1050,100,950,1150,,0,charcoal
+Sydney Basin,150.82,-35.01,rockshelter with midden deposits,NSW-98,1050,100,950,1150,U,0,charcoal
+Sydney Basin,150.82,-35.01,rockshelter with midden deposits,NSW-75,1410,100,1310,1510,U,0,charcoal
+Sydney Basin,150.82,-35.01,rockshelter with midden deposits,NSW-99,1530,100,1430,1630,U,0,charcoal
+Sydney Basin,150.82,-35.01,rockshelter with midden deposits,NSW-94,1680,100,1580,1780,U,0,charcoal
+Sydney Basin,150.82,-35.01,rockshelter with midden deposits,NSW-74,1900,100,1800,2000,U,0,charcoal
+Sydney Basin,150.82,-35.01,rockshelter with midden deposits,ANU-243,1970,80,1890,2050,U,0,charcoal
+Sydney Basin,150.82,-35.01,rockshelter with midden deposits,NSW-96,1990,100,1890,2090,U,0,charcoal
+Sydney Basin,150.82,-35.01,rockshelter with midden deposits,NSW-97,2650,100,2550,2750,U,0,charcoal
+Sydney Basin,150.82,-35.01,rockshelter with midden deposits,NSW-70,3790,100,3690,3890,U,0,charcoal
+Sydney Basin,150.82,-35.01,rockshelter with midden deposits,NSW-77,870,250,620,1120,U,0,charcoal
+Sydney Basin,150.82,-35.01,rockshelter with midden deposits,NSW-76,1520,1000,520,2520,U,0,charcoal
+Sydney Basin,150.82,-35.01,rockshelter with midden deposits,SUA-241/2,1600,70,1530,1670,U,0,marine shell
+Sydney Basin,150.82,-35.01,rockshelter with midden deposits,SUA-241/3,1660,70,1590,1730,U,0,marine shell
+Sydney Basin,150.82,-35.01,rockshelter with midden deposits,SUA-241/1,2040,70,1970,2110,U,0,marine shell
+Sydney Basin,150.82,-35.01,rockshelter with midden deposits,SUA-242/2,3670,90,3580,3760,U,0,marine shell
+Sydney Basin,150.82,-35.01,rockshelter with midden deposits,SUA-242/1,3700,70,3630,3770,U,0,marine shell
+Sydney Basin,150.82,-35.01,rockshelter with midden deposits,ANU-386,3740,100,3640,3840,U,0,charcoal
+Sydney Basin,150.82,-35.01,rockshelter with midden deposits,SUA-224,5990,80,5910,6070,Y,0,marine shell
+Sydney Basin,151.29,-33.6,midden,Wk-23788,1511,30,1481,1541,Y,0,marine shell (Turbo torquatus operculum)
+Sydney Basin,151.36,-33.5,rockshelter with midden deposits,Not given,585,100,485,685,Y,0,marine shell
+Sydney Basin,151.36,-33.5,rockshelter with midden deposits,Not given,685,100,585,785,Y,0,marine shell
+Sydney Basin,151.36,-33.5,rockshelter with midden deposits,Not given,975,100,875,1075,U,0,charcoal
+Sydney Basin,151.36,-33.5,rockshelter with midden deposits,Not given,1425,100,1325,1525,Y,0,marine shell
+Sydney Basin,151.36,-33.5,rockshelter with midden deposits,Not given,800,90,710,890,Y,0,charcoal
+Sydney Basin,151.36,-33.5,rockshelter with midden deposits,SUA-681,5430,105,5325,5535,Y,0,charcoal
+Sydney Basin,150.93,-33.69,hearth,Wk-3606,5900,250,5650,6150,Y,0,charcoal
+Sydney Basin,151.03,-33.76,rockshelter,Wk-2962,1560,50,1510,1610,Y,0,charcoal
+Sydney Basin,151.03,-33.76,rockshelter,Wk-2701,2170,70,2100,2240,Y,0,charcoal
+Sydney Basin,151.03,-33.76,rockshelter,Wk-2961,2230,70,2160,2300,Y,0,charcoal
+Sydney Basin,151.03,-33.76,rockshelter,Wk-2513,2510,70,2440,2580,Y,0,charcoal
+Sydney Basin,151.03,-33.76,rockshelter,Wk-2690,2590,70,2520,2660,Y,0,charcoal
+Sydney Basin,151.03,-33.76,rockshelter,Wk-2963,6740,120,6620,6860,Y,0,charcoal
+Sydney Basin,151.03,-33.76,rockshelter,Wk-2511,10150,130,10020,10280,Y,0,charcoal
+Sydney Basin,151.12,-33.19,rockshelter,Beta-3623,6210,90,6120,6300,U,0,charcoal
+Sydney Basin,151.12,-33.19,rockshelter,SUA-935,4330,95,4235,4425,U,0,charcoal
+Sydney Basin,151.06,-33.76,rockshelter,Beta-76605,1340,50,1290,1390,Y,0,charcoal
+Sydney Basin,151.06,-33.76,rockshelter,Beta-76606,1410,50,1360,1460,Y,0,charcoal
+Sydney Basin,151.21,-34.04,open site,Beta-36920,12190,110,12080,12300,U,0,charcoal
+Sydney Basin,151.11,-33.14,rockshelter,GX-0069,144,125,19,269,Y,0,charcoal
+Sydney Basin,151.11,-33.14,rockshelter,GX-0070,581,120,461,701,Y,0,charcoal
+Sydney Basin,151.19,-33.15,rockshelter,SUA-2166,1840,60,1780,1900,U,0,charcoal
+Sydney Basin,151.08,-32.63,open site,Beta-54011,830,60,770,890,N,0,charcoal
+Sydney Basin,151.08,-32.63,open site,Beta-54012,800,60,740,860,N,0,charcoal
+Sydney Basin,149.26,-33.5,rockshelter,ANU-7462,9770,250,9520,10020,U,0,bone
+Sydney Basin,149.26,-33.5,rockshelter,ANU-7463,10770,270,10500,11040,U,0,bone
+Sydney Basin,149.26,-33.5,rockshelter,ANU-7464,12920,250,12670,13170,U,0,bone
+Sydney Basin,150.32,-35.63,rockshelter,GaK-873,480,80,400,560,Y,0,charcoal
+Sydney Basin,150.32,-35.63,rockshelter,ANU-13,680,160,520,840,Y,0,charcoal
+Sydney Basin,150.86,-33.75,open site,NZA-3112,5957,74,5883,6031,Y,0,charcoal
+Sydney Basin,151.15,-33.21,rockshelter,SUA-2173,1810,80,1730,1890,U,0,charcoal
+Sydney Basin,151.19,-33.2,rockshelter,Wk-14104,219,35,184,254,Y,0,charcoal
+Sydney Basin,151.19,-33.2,rockshelter,Wk-14105,1432,35,1397,1467,Y,0,charcoal
+Sydney Basin,151.19,-33.2,rockshelter,Wk-16547,3241,45,3196,3286,Y,0,charcoal
+Sydney Basin,151.19,-33.2,rockshelter,Wk-14106,3423,35,3388,3458,Y,0,charcoal
+Sydney Basin,151.34,-33.52,burial,Beta-35481,1820,80,1740,1900,Y,0,human bone
+Sydney Basin,149.72,-34.78,open site,SUA-2141,330,100,230,430,Y,0,charcoal
+Sydney Basin,151.16,-32.51,open site,Beta-39208,600,60,540,660,Y,0,charcoal
+Sydney Basin,151.16,-32.51,open site,Beta-39210,660,50,610,710,Y,0,charcoal
+Sydney Basin,151.16,-32.51,open site,Beta-39209,970,50,920,1020,Y,0,charcoal
+Sydney Basin,151.16,-32.51,open site,Beta-29213,1020,70,950,1090,Y,0,charcoal
+Sydney Basin,151.16,-32.51,open site,Beta-29211,2370,60,2310,2430,Y,0,charcoal
+Sydney Basin,151.16,-32.51,open site,Beta-39214,1890,50,1840,1940,Y,0,charcoal
+Sydney Basin,151.16,-32.51,open site,Beta-44524,200,60,140,260,Y,0,charcoal
+Sydney Basin,151.16,-32.51,open site,Beta-39203,260,60,200,320,Y,0,charcoal
+Sydney Basin,151.16,-32.51,open site,Beta-39206,270,60,210,330,Y,0,charcoal
+Sydney Basin,151.16,-32.51,open site,Beta-44525,340,60,280,400,Y,0,charcoal
+Sydney Basin,151.16,-32.51,open site,Beta-44523,450,80,370,530,Y,0,charcoal
+Sydney Basin,151.16,-32.51,open site,Beta-39201,830,50,780,880,Y,0,charcoal
+Sydney Basin,151.16,-32.51,open site,Beta-39307,970,50,920,1020,Y,0,charcoal
+Sydney Basin,151.16,-32.51,open site,Beta-39205,1200,70,1130,1270,Y,0,charcoal
+Sydney Basin,151.16,-32.51,open site,Beta-39200,2210,50,2160,2260,Y,0,charcoal
+Sydney Basin,151.16,-32.51,open site,Beta-39204,2460,50,2410,2510,Y,0,charcoal
+Sydney Basin,151.16,-32.51,open site,Beta-39202,2750,60,2690,2810,Y,0,charcoal
+Sydney Basin,150.4,-35.1,rockshelter,AA-5850,6085,60,6025,6145,Y,0,charcoal
+Sydney Basin,150.4,-35.1,rockshelter,ANU-8425,530,70,460,600,N,0,scattered charcoal
+Sydney Basin,150.4,-35.1,rockshelter,ANU-8426,1740,60,1680,1800,Y,0,scattered charcoal
+Sydney Basin,151.3,-33.59,rockshelter with midden deposits,ANU-6370,220,120,100,340,Y,0,charcoal
+Sydney Basin,151.3,-33.59,rockshelter with midden deposits,ANU-6371,480,90,390,570,Y,0,charcoal
+Sydney Basin,151.3,-33.59,rockshelter with midden deposits,ANU-6372,560,160,400,720,Y,0,charcoal
+Sydney Basin,151.3,-33.59,rockshelter with midden deposits,ANU-6615,3670,150,3520,3820,Y,0,charcoal
+Sydney Basin,151.09,-34.05,rockshelter,NSW-6,1220,55,1165,1275,Y,0,charcoal
+Sydney Basin,149.85,-35.33,open site ,ANU-4702,4190,90,4100,4280,Y,0,charcoal
+Sydney Basin,150.37,-34.45,hearth within open site,SUA-2351,1780,60,1720,1840,Y,0,charcoal
+Sydney Basin,150.37,-34.45,hearth within open site,SUA-2352,1780,60,1720,1840,Y,0,charcoal
+Sydney Basin,151.02,-33.97,rockshelter,SUA-59,870,95,775,965,Y,0,charcoal
+Sydney Basin,151.02,-33.97,rockshelter,SUA-60,5240,100,5140,5340,Y,0,charcoal
+Sydney Basin,150.84,-34.49,midden,SUA-109/1,1440,95,1345,1535,U,0,carbonised wood
+Sydney Basin,150.84,-34.49,midden,SUA-109/2,2735,100,2635,2835,U,0,carbonised wood
+Sydney Basin,150.84,-34.49,midden,SUA-66/1,2920,90,2830,3010,U,0,Anadara sp
+Sydney Basin,150.84,-34.49,midden,SUA-66/3,3240,85,3155,3325,U,0,Anadara sp
+Sydney Basin,150.84,-34.49,midden,SUA-66/2,3480,90,3390,3570,U,0,Anadara sp
+Sydney Basin,150.84,-34.49,midden,SUA-180,3495,85,3410,3580,U,0,Anadara sp
+Sydney Basin,150.84,-34.49,midden,SUA-66/4,3675,85,3590,3760,U,0,Anadara sp
+Sydney Basin,150.84,-34.49,midden,SUA-65/2,5230,85,5145,5315,U,0,marine
+Sydney Basin,150.84,-34.49,midden,SUA-65/3,5570,85,5485,5655,U,0,marine
+Sydney Basin,150.84,-34.49,midden,SUA-65/1,5650,85,5565,5735,U,0,marine
+Sydney Basin,150.46,-33.71,rockshelter,SUA-16,7280,230,7050,7510,Y,0,charcoal
+Sydney Basin,151.27,-33.85,rockshelter,Wk-2510,1630,60,1570,1690,Y,0,marine shell (Nerita shell)
+Sydney Basin,150.65,-33.76,open site,SUA-1232,1590,130,1460,1720,Y,0,scattered charcoal
+Sydney Basin,150.65,-33.76,hearth,SUA-1231,3980,140,3840,4120,Y,0,charcoal
+Sydney Basin,150.65,-33.76,open site,SUA-1233,7010,110,6900,7120,Y,0,charcoal
+Sydney Basin,150.65,-33.76,rockshelter,Wk-2085,5640,80,5560,5720,U,0,charcoal
+Sydney Basin,151.13,-33.16,rockshelter,SUA-2172,6700,150,6550,6850,U,0,charcoal
+Sydney Basin,151.14,-33.16,rockshelter,Wk-14102,2942,35,2907,2977,Y,0,charcoal
+Sydney Basin,151.14,-33.16,rockshelter,Wk-14103,6720,49,6671,6769,Y,0,charcoal
+Sydney Basin,150.28,-35.17,rockshelter,ANU-8436,420,60,360,480,Y,0,scattered charcoal
+Sydney Basin,150.28,-35.17,rockshelter,ANU-8437,430,70,360,500,Y,0,charcoal from hearth
+Sydney Basin,150.28,-35.17,rockshelter,ANU-8438,550,70,480,620,Y,0,charcoal from hearth
+Sydney Basin,150.34,-32.3,rockshelter,SUA-1671,2720,120,2600,2840,Y,0,scattered charcoal
+Sydney Basin,150.35,-32.3,rockshelter,SUA-1672,2169,90,2079,2259,Y,0,charcoal
+Sydney Basin,150.32,-32.38,rockshelter,SUA-1670,810,110,700,920,Y,0,scattered charcoal
+Sydney Basin,150.32,-32.38,rockshelter,SUA-1669,3710,210,3500,3920,Y,0,scattered charcoal
+Sydney Basin,151.16,-33.93,midden,Wk-11291,3901,53,3848,3954,Y,0,marine shell
+Sydney Basin,151.16,-33.93,midden,Wk-11004,4328,50,4278,4378,Y,0,marine shell (Anadara trapezia)
+Sydney Basin,150.66,-33.66,rockshelter,SUA-1393,1240,90,1150,1330,U,0,charcoal
+Sydney Basin,150.66,-33.66,rockshelter,SUA-1307,1580,190,1390,1770,Y,0,charcoal
+Sydney Basin,150.66,-33.66,rockshelter,Beta-1212,1790,115,1675,1905,Y,0,charcoal
+Sydney Basin,150.66,-33.66,rockshelter,Beta-1213,1840,70,1770,1910,Y,0,charcoal
+Sydney Basin,150.66,-33.66,rockshelter,Beta-1210,2235,120,2115,2355,Y,0,charcoal
+Sydney Basin,150.66,-33.66,rockshelter,Beta-1211,4140,180,3960,4320,Y,0,charcoal
+Sydney Basin,150.66,-33.66,rockshelter,SUA-1398,7860,220,7640,8080,Y,0,charcoal
+Sydney Basin,150.66,-33.66,rockshelter,Beta-1209,12980,480,12500,13460,Y,0,charcoal
+Sydney Basin,150.66,-33.66,rockshelter,Beta-12423,14700,250,14450,14950,U,0,charcoal
+Sydney Basin,150.37,-33.73,rockshelter,SUA-155,980,70,910,1050,Y,0,charcoal
+Sydney Basin,150.37,-33.73,rockshelter,SUA-157,1060,115,945,1175,y,0,charcoal
+Sydney Basin,150.37,-33.73,rockshelter,SUA-229,1100,80,1020,1180,Y,0,charcoal
+Sydney Basin,150.37,-33.73,rockshelter,SUA-194,14534,300,14234,14834,Y,0,charcoal
+Sydney Basin,150.37,-33.73,rockshelter,SUA-158,22240,100,22140,22340,U,0,charcoal
+Sydney Basin,150.64,-33.75,rockshelter,ANU-11,2300,100,2200,2400,Y,0,charcoal
+Sydney Basin,150.64,-33.75,rockshelter,ANU-10,3650,100,3550,3750,Y,0,charcoal
+Sydney Basin,150.32,-33.72,hearth,GaK-1849,17050,600,16450,17650,Y,0,charcoal
+Sydney Basin,150.25,-30.98,open site,SUA-915,19300,500,18800,19800,U,0,charcoal
+Sydney Basin,151.12,-33.19,rockshelter,SUA-1124,780,80,700,860,Y,0,charcoal
+Sydney Basin,151.12,-33.19,rockshelter,SUA-2165,2480,60,2420,2540,U,0,charcoal
+Sydney Basin,151.12,-33.19,rockshelter,SUA-2412,7950,80,7870,8030,U,0,charcoal
+Sydney Basin,151.12,-33.19,rockshelter,SUA-1125,8885,120,8765,9005,U,0,charcoal
+Sydney Basin,151.12,-33.19,rockshelter,SUA-1206,9755,115,9640,9870,Y,0,charcoal
+Sydney Basin,151.12,-33.19,rockshelter,SUA-931,11050,125,10925,11175,Y,0,charcoal
+Sydney Basin,150.33,-33.73,rockshelter,SUA-15,12550,145,12405,12695,Y,0,charcoal
+Sydney Basin,150.33,-33.73,rockshelter,Not given,530,80,450,610,Y,0,charcoal
+Sydney Basin,151.07,-32.78,rockshelter,ANU-121,630,60,570,690,U,0,charcoal
+Sydney Basin,151.07,-32.78,rockshelter,ANU-122,1410,90,1320,1500,Y,0,charcoal
+Sydney Basin,150.92,-34.32,midden,Beta-59943,510,50,460,560,Y,0,marine shell (Dicatgaus orbita)
+Sydney Basin,150.92,-34.32,midden,Beta-56983,810,50,760,860,Y,0,charcoal
+Sydney Basin,150.92,-34.32,midden,Beta-59944,1950,60,1890,2010,Y,0,marine shell (Dicatgaus orbita)
+Sydney Basin,150.92,-34.32,midden,SUA-2872,1970,60,1910,2030,Y,0,marine shell (Anadara trapezia)
+Sydney Basin,150.92,-34.32,midden,Beta-56984,1980,100,1880,2080,Y,0,charcoal
+Sydney Basin,151.22,-34.01,midden,Beta-165767,200,50,150,250,Y,0,charcoal
+Sydney Basin,151.22,-34.01,midden,Beta-165769,760,40,720,800,Y,0,charcoal
+Sydney Basin,151.22,-34.01,midden,Beta-165770,770,40,730,810,Y,0,charcoal
+Sydney Basin,151.22,-34.01,midden,Beta-165772,930,40,890,970,Y,0,charcoal
+Sydney Basin,151.22,-34.01,midden,Beta-165768,1670,40,1630,1710,Y,0,charcoal
+Sydney Basin,151.22,-34.01,midden,Beta-165771,1840,40,1800,1880,Y,0,charcoal
+Sydney Basin,150.97,-34.05,rockshelter,SUA-2255,480,70,410,550,Y,0,charcoal
+Sydney Basin,150.97,-34.05,rockshelter,SUA-2258,980,50,930,1030,Y,0,charcoal
+Sydney Basin,150.97,-34.05,rockshelter,SUA-2256,1520,70,1450,1590,Y,0,charcoal
+Sydney Basin,150.97,-34.05,rockshelter,SUA-2257,2220,70,2150,2290,Y,0,charcoal
+Sydney Basin,150.97,-34.05,rockshelter,SUA-2259,2690,50,2640,2740,Y,0,charcoal
+Sydney Basin,150.97,-34.05,open site,Beta-27197,2160,80,2080,2240,Y,0,charcoal
+Sydney Basin,151.07,-33.17,rockshelter,SUA-1841,800,130,670,930,U,0,charcoal
+Sydney Basin,151.07,-33.17,rockshelter,SUA-1840,2340,110,2230,2450,U,0,charcoal
+Sydney Basin,151.27,-33.86,rockshelter,Wk-2481,660,60,600,720,Y,0,marine shell
+Sydney Basin,151.27,-33.86,rockshelter,Wk-2083,1170,60,1110,1230,Y,0,charcoal
+Sydney Basin,151.27,-33.86,rockshelter,Wk-2082,1730,50,1680,1780,Y,0,marine shell
+Sydney Basin,150.4,-35.53,midden,NSW-83,720,100,620,820,U,0,charcoal
+Sydney Basin,150.4,-35.53,midden,NSW-71,3500,150,3350,3650,Y,0,charcoal
+Sydney Basin,151.12,-33.19,rockshelter,SUA-1504,1150,90,1060,1240,U,0,charcoal
+Sydney Basin,151.12,-33.19,rockshelter,SUA-1503,2230,80,2150,2310,Y,0,charcoal
+Sydney Basin,151.12,-33.19,rockshelter,SUA-1505,3150,100,3050,3250,U,0,charcoal
+Sydney Basin,151.12,-33.19,rockshelter,SUA-2411,5370,60,5310,5430,U,0,charcoal
+Sydney Basin,151.12,-33.19,rockshelter,SUA-1506,8460,120,8340,8580,U,0,charcoal
+Sydney Basin,151.12,-33.19,rockshelter,SUA-2410,8730,70,8660,8800,Y,0,charcoal
+Sydney Basin,151.02,-32.47,open site (hearth),Beta-48519,260,60,200,320,Y,0,charcoal
+Sydney Basin,151.02,-32.47,open site (hearth),Beta-48521,680,50,630,730,Y,0,charcoal
+Sydney Basin,151.02,-32.47,open site (hearth),Beta-48520,700,60,640,760,Y,0,charcoal
+Sydney Basin,151.3,-33.71,burial,CAMS-120202,3480,30,3450,3510,Y,0,human bone
+Sydney Basin,151.57,-33.28,midden,SUA-1167,1040,115,925,1155,U,0,charcoal
+Sydney Basin,151.57,-33.28,midden,SUA-1167,1250,120,1130,1370,U,0,marine shell
+Sydney Basin,151.57,-33.28,midden,SUA-1166,1520,120,1400,1640,U,0,marine shell
+Sydney Basin,151.57,-33.28,midden,SUA-1166,1860,205,1655,2065,U,0,charcoal
+Sydney Basin,150.27,-35.72,midden,ANU-3712a,380,65,315,445,Y,0,marine shell (Nerita shell)
+Sydney Basin,150.27,-35.72,midden,ANU-3712b,470,65,405,535,Y,0,marine shell (Nerita shell)
+Sydney Basin,150.27,-35.72,midden,ANU-3711,520,90,430,610,Y,0,charcoal
+Sydney Basin,150.27,-35.72,midden,ANU-3713,600,100,500,700,Y,0,charcoal
+Sydney Basin,150.27,-35.72,midden,ANU-3714,640,75,565,715,Y,0,marine shell (Nerita shell)
+Sydney Basin,150.27,-35.72,midden,ANU-3715,900,75,825,975,Y,0,charcoal
+Sydney Basin,150.27,-35.72,midden,ANU-3716,1320,70,1250,1390,Y,0,marine shell (Nerita shell)
+Sydney Basin,150.27,-35.72,midden,ANU-3717,1400,70,1330,1470,Y,0,marine shell (Turban sp.)
+Sydney Basin,150.41,-35.52,midden,Beta-2758,150,106,43.69854187,256.3014581,Y,0,marine shell
+Sydney Basin,150.41,-35.52,midden,SUA-1699,650,114,535.9824575,764.0175425,Y,0,marine shell
+Sydney Basin,150.41,-35.52,midden,SUA-1700,1610,122,1487.934444,1732.065556,Y,0,marine shell
+Sydney Basin,151.33,-32.82,hearth,Wk-27731,1145,57,1088,1202,Y,0,charcoal
+Sydney Basin,151.13,-33.2,rockshelter,Beta-81626,350,40,310,390,U,0,charcoal
+Sydney Basin,150.93,-33.69,open site,Beta-66450,4060,90,3970,4150,Y,0,charcoal
+Sydney Basin,151.76,-32.92,open,Wk-26882,2055,30,2025,2085,Y,0,charcoal
+Sydney Basin,151.76,-32.92,open,Wk-26883,5812,31,5781,5843,Y,0,charcoal
+Sydney Basin,151.1,-32.86,hearth,Beta-39465,1890,60,1830,1950,Y,0,charcoal
+Sydney Basin,151.64,-33.11,burial,Beta-36138,1200,60,1140,1260,Y,0,marine shell
+Sydney Basin,150.14,-35.7,open site,ANU-9377,1590,170,1420,1760,U,0,charcoal
+Sydney Basin,150.14,-35.7,open site,ANU-9378,2140,210,1930,2350,U,0,charcoal
+Sydney Basin,150.14,-35.7,open site,ANU-9762,4000,80,3920,4080,Y,0,scattered charcoal
+Sydney Basin,150.93,-33.69,open site,Beta-66451,1070,60,1010,1130,Y,0,charcoal
+Sydney Basin,151.3,-32.77,open site,Beta-32614,2820,50,2770,2870,Y,0,charcoal
+Sydney Basin,151.21,-34.04,open site,Not given,5670,70,5600,5740,N,0,Peat
+Sydney Basin,151.25,-33.98,hearth,Beta-87211,7860,50,7810,7910,Y,0,charcoal
+Sydney Basin,150.3,-35.1,open site,ANU-8435,1050,80,970,1130,U,0,organic swamp deposit
+Sydney Basin,150.3,-35.1,open site,ANU-8977,1310,170,1140,1480,U,0,charcoal
+Sydney Basin,151.18,-34.03,midden,Not given,3680,110,3570,3790,Y,0,charcoal
+Sydney Basin,151.12,-33.19,rockshelter,SUA-933,1365,80,1285,1445,U,0,charcoal
+Sydney Basin,150.36,-34.26,rockshelter,Beta-65747,230,50,180,280,Y,0,charcoal
+Sydney Basin,150.36,-34.26,rockshelter,Beta-65748,1790,60,1730,1850,Y,0,charcoal
+Sydney Basin,150.36,-34.26,rockshelter,Beta-65749,2230,80,2150,2310,Y,0,charcoal
+Sydney Basin,150.36,-34.26,rockshelter,Beta-65750,7550,120,7430,7670,Y,0,charcoal
+Sydney Basin,150.93,-33.69,open site,Beta-66452,4690,80,4610,4770,Y,0,charcoal
+Sydney Basin,150.93,-33.69,open site,Wk-16226,337,37,300,374,Y,0,charcoal
+Sydney Basin,150.93,-33.69,open site,Wk-16228,347,44,303,391,Y,0,charcoal
+Sydney Basin,150.93,-33.69,open site,Wk-16230,592,38,554,630,Y,0,charcoal
+Sydney Basin,150.93,-33.69,open site,Wk-16229,3010,39,2971,3049,Y,0,charcoal
+Sydney Basin,150.93,-33.69,open site,Wk-16227,3351,40,3311,3391,Y,0,charcoal
+Sydney Basin,150.93,-33.69,open site,Wk-16231,8536,53,8483,8589,N,0,charcoal
+Sydney Basin,150.28,-35.17,rockshelter,ANU-8423,690,70,620,760,Y,0,charcoal from hearth
+Sydney Basin,150.28,-35.17,rockshelter,ANU-8981,1530,70,1460,1600,Y,0,scattered charcoal
+Sydney Basin,150.28,-35.17,rockshelter,ANU-9376,2140,80,2060,2220,U,0,charcoal
+Sydney Basin,151.27,-33.87,open site,Wk-27466,1265,30,1235,1295,Y,0,charcoal
+Sydney Basin,151.01,-33.82,open site,Wk-17436,3270,35,3235,3305,Y,0,charcoal
+Sydney Basin,151.01,-33.82,open site,Wk-17432,4433,35,4398,4468,Y,0,charcoal
+Sydney Basin,151.01,-33.82,open site,Wk-17434,6078,54,6024,6132,Y,0,charcoal
+Sydney Basin,151.01,-33.82,open site,Wk-17433,8206,51,8155,8257,Y,0,charcoal
+Sydney Basin,151.01,-33.82,open site,Wk-17435,30735,407,30328,31142,U,0,charcoal
+Sydney Basin,151.12,-33.19,rockshelter,SUA-934,2030,90,1940,2120,U,0,charcoal
+Sydney Basin,150.21,-35.12,rockshelter,ANU-741,1695,90,1605,1785,Y,0,charcoal
+Sydney Basin,150.21,-35.12,rockshelter,ANU-742,3090,95,2995,3185,Y,0,charcoal
+Sydney Basin,150.21,-35.12,rockshelter,ANU-743,3770,150,3620,3920,Y,0,charcoal
+Sydney Basin,150.21,-35.12,rockshelter,ANU-744,2780,115,2665,2895,Y,0,charcoal
+Sydney Basin,150.88,-33.72,open site,SUA-2239,650,100,550,750,Y,0,charcoal
+Sydney Basin,151.24,-32.36,open site,Beta-17271,13020,360,12660,13380,Y,0,charcoal
+Sydney Basin,151.24,-32.36,open site,Beta-17009,34590,650,33940,35240,Y,0,charcoal
+Sydney Basin,150.56,-32.33,rockshelter,ANU-125,530,80,450,610,Y,0,charcoal
+Sydney Basin,150.56,-32.33,rockshelter,ANU-12,1300,100,1200,1400,Y,0,charcoal
+Sydney Basin,151.18,-33.92,open site,Wk-8616,5520,70,5450,5590,Y,0,marine (Dugong bone)
+Sydney Basin,150.87,-34.59,midden,GaK-337,140,100,40,240,Y,0,charcoal
+Sydney Basin,151.3,-33.66,midden,Wk-15701,598,42,556,640,Y,0,scattered Anadara sp
+Sydney Basin,151.3,-33.66,midden,Wk-15698,3545,40,3505,3585,Y,0,scattered Anadara sp
+Sydney Basin,151.3,-33.66,midden,Wk-15700,4396,41,4355,4437,Y,0,scattered Anadara sp
+Sydney Basin,151.3,-33.66,midden,Wk-15699,4404,42,4362,4446,Y,0,scattered Anadara sp
+Sydney Basin,150.58,-33.67,rockshelter,SUA-204,615,80,535,695,Y,0,charcoal
+Sydney Basin,150.58,-33.67,rockshelter,SUA-17,2930,165,2765,3095,Y,0,charcoal
+Sydney Basin,150.58,-33.67,rockshelter,SUA-18,6050,170,5880,6220,Y,0,charcoal
+Sydney Basin,150.58,-33.67,rockshelter,SUA-205,7420,140,7280,7560,U,0,charcoal
+Sydney Basin,150.58,-33.67,rockshelter,SUA-206,7440,140,7300,7580,U,0,charcoal
+Sydney Basin,150.58,-33.67,rockshelter,SUA-285,8730,330,8400,9060,U,0,charcoal
+Sydney Basin,150.6,-35.1,midden,ANU-1985,710,70,640,780,Y,0,charcoal
+Sydney Basin,151.56,-33.03,artefact scatter,Wk-26008,433,35,398,468,N,0,wood
+Sydney Basin,151.14,-33.81,rockshelter,Wk-3742,4040,80,3960,4120,Y,0,marine shell (mud oyster)
+Sydney Basin,151.14,-33.81,rockshelter,Wk-3741,4120,70,4050,4190,Y,0,marine shell (rock oyster)
+Sydney Basin,151.14,-33.81,rockshelter,Wk-4196,4170,40,4130,4210,Y,0,marine shell (rock oyster)
+Sydney Basin,151.19,-33.2,rockshelter,SUA-2171,3560,80,3480,3640,U,0,charcoal
+Sydney Basin,151.66,-33.09,midden,SUA-514,1235,95,1140,1330,Y,0,charcoal
+Sydney Basin,151.66,-33.09,midden,SUA-238/C,1965,90,1875,2055,Y,0,charcoal
+Sydney Basin,151.66,-33.09,burial in midden,SUA-322,2080,100,1980,2180,Y,0,charcoal
+Sydney Basin,151.66,-33.09,midden,SUA-238/S2,2480,90,2390,2570,Y,0,marine (Anadara sp.)
+Sydney Basin,151.66,-33.09,midden,SUA-238/S1,2690,90,2600,2780,U,0,marine (oyster shell)
+Sydney Basin,151.66,-33.09,midden,SUA-1720,2720,90,2630,2810,Y,0,charcoal
+Sydney Basin,151.66,-33.09,midden,SUA-421,7530,140,7390,7670,Y,0,charcoal
+Sydney Basin,151.66,-33.09,midden,SUA-150,7870,115,7755,7985,Y,0,charcoal
+Sydney Basin,151.15,-33.93,midden,Beta-222748,430,40,390,470,Y,0,marine shell (Anadara trapezia)
+Sydney Basin,151.15,-33.93,midden,Beta-222746,3390,50,3340,3440,Y,0,marine shell (Anadara trapezia)
+Sydney Basin,151.15,-33.93,midden,Beta-222750,3510,60,3450,3570,Y,0,marine shell (Anadara trapezia)
+Sydney Basin,151.15,-33.93,midden,Beta-222749,4180,60,4120,4240,Y,0,marine shell (Anadara trapezia)
+Sydney Basin,151.15,-33.93,hearth,Wk-16167,9376,61,9315,9437,Y,0,charcoal
+Sydney Basin,151.14,-33.13,rockshelter,Beta-81627,490,50,440,540,U,0,charcoal
+Sydney Basin,151.18,-33.15,rockshelter,Wk-14266,2026,46,1980,2072,Y,0,charcoal
+Sydney Basin,151.18,-33.14,rockshelter,SUA-2174,8430,130,8300,8560,U,0,charcoal
+Sydney Basin,151.18,-33.37,rockshelter,ANU-8134,1220,120,1100,1340,Y,0,charcoal
+Sydney Basin,151.18,-33.37,rockshelter,ANU-8133,1540,60,1480,1600,Y,0,charcoal
+Sydney Basin,151.18,-33.37,rockshelter,ANU-8135,1860,70,1790,1930,Y,0,charcoal
+Sydney Basin,151.18,-33.37,rockshelter,ANU-8132,4030,140,3890,4170,Y,0,charcoal
+Sydney Basin,151.14,-33.16,rockshelter,Beta-81628,560,50,510,610,U,0,charcoal
+Sydney Basin,150.31,-33.64,rockshelter,Not given,3360,100,3260,3460,Y,0,charcoal
+Sydney Basin,150.31,-33.64,rockshelter,GaK-3448,12200,350,11850,12550,U,0,charcoal
+Sydney Basin,151.05,-32.6,open site,Beta-255804,200,40,160,240,U,0,charcoal
+Sydney Basin,151.05,-32.6,open site,Beta-255806,760,40,720,800,U,0,charcoal
+Sydney Basin,151.05,-32.6,open site,Beta-255808,850,40,810,890,U,0,charcoal
+Sydney Basin,151.05,-32.6,open site,Beta-255807,870,40,830,910,U,0,charcoal
+Sydney Basin,151.05,-32.6,open site,Beta-255805,1130,40,1090,1170,U,0,charcoal
+Sydney Basin,151.05,-32.6,open site,Beta-255810,2430,40,2390,2470,U,0,charcoal
+Sydney Basin,151.05,-32.6,open site,Beta-255809,2450,40,2410,2490,U,0,charcoal
+Sydney Basin,151.12,-34.14,midden,ANU-176,560,130,430,690,U,0,charcoal
+Sydney Basin,151.12,-34.14,midden,ANU-177,840,160,680,1000,Y,0,charcoal
+Sydney Basin,151.12,-34.14,midden,ANU-178,1800,100,1700,1900,U,0,charcoal
+Sydney Basin,150.86,-32.32,hearth,Wk-14625,949,35,914,984,U,0,charcoal
+Sydney Basin,150.86,-32.32,hearth,WK-14624,743,38,705,781,Y,0,charcoal
+Sydney Basin,150.86,-32.32,hearth,Wk-14618,1116,39,1077,1155,Y,0,charcoal
+Sydney Basin,150.86,-32.32,hearth,Wk-14623,199,37,162,236,Y,0,charcoal
+Sydney Basin,150.86,-32.32,hearth,Wk-14619,1109,39,1070,1148,Y,0,charcoal
+Sydney Basin,150.86,-32.32,hearth,Wk-14617,1248,36,1212,1284,Y,0,charcoal
+Sydney Basin,150.86,-32.32,hearth,Wk-14622,1256,37,1219,1293,Y,0,charcoal
+Sydney Basin,150.86,-32.32,hearth,Wk-14621,1391,43,1348,1434,Y,0,charcoal
+Sydney Basin,150.86,-32.32,hearth,Wk-14620,265,41,224,306,Y,0,charcoal
+Sydney Basin,150.86,-32.32,hearth,Wk-14626,852,36,816,888,Y,0,charcoal
+Sydney Basin,151.14,-33.22,rockshelter,SUA-2167,5230,70,5160,5300,U,0,charcoal
+Sydney Basin,150.52,-34.57,open site,Wk-13332,1611,49,1562,1660,Y,0,charcoal
+Sydney Basin,150.52,-34.57,open site,Wk-13333,1652,40,1612,1692,Y,0,charcoal
+Sydney Basin,150.52,-34.57,open site,Wk-13331,1685,33,1652,1718,Y,0,charcoal
+Sydney Basin,150.52,-34.57,open site,Wk-13294,233,39,194,272,Y,0,charcoal
+Sydney Basin,150.52,-34.57,open site,Wk-13291,266,35,231,301,Y,0,charred wood
+Sydney Basin,150.52,-34.57,open site,Wk-13293,337,41,296,378,Y,0,charcoal
+Sydney Basin,150.52,-34.57,open site,Wk-13292,2143,43,2100,2186,Y,0,charcoal
+Sydney Basin,150.52,-34.57,open site,Wk-13295,2757,44,2713,2801,Y,0,charcoal
+Sydney Basin,150.81,-34.53,midden,ANU-5914,370,239,131,609,Y,0,charcoal
+Sydney Basin,150.81,-34.53,midden,ANU-5913,3360,90,3270,3450,Y,0,charcoal
+Sydney Basin,151.13,-33.19,rockshelter,SUA-2168,400,60,340,460,U,0,charcoal
+Sydney Basin,151.63,-32.83,open site,Beta-119475,2130,70,2060,2200,Y,0,charcoal
+Sydney Basin,150.9,-32.98,rockshelter,ANU-6058,540,180,360,720,Y,0,charcoal
+Sydney Basin,150.9,-32.98,rockshelter,ANU-6216,1530,110,1420,1640,Y,0,charcoal
+Sydney Basin,150.9,-32.98,rockshelter,ANU-6054,1950,400,1550,2350,Y,0,charcoal
+Sydney Basin,150.9,-32.98,rockshelter,ANU-6215,2750,400,2350,3150,Y,0,charcoal
+Sydney Basin,150.9,-32.98,rockshelter,ANU-6056,2840,240,2600,3080,Y,0,charcoal
+Sydney Basin,150.9,-32.98,rockshelter,ANU-6055,4590,300,4290,4890,Y,0,charcoal
+Sydney Basin,150.9,-32.98,rockshelter,ANU-6059,5980,290,5690,6270,Y,0,charcoal
+Sydney Basin,151.1,-34.05,rockshelter with midden deposits,ANU-308,2230,70,2160,2300,U,0,charcoal
+Sydney Basin,151.1,-34.05,rockshelter with midden deposits,ANU-307,2500,85,2415,2585,U,0,charcoal
+Sydney Basin,151.1,-34.05,rockshelter with midden deposits,ANU-175,2670,85,2585,2755,Y,0,charcoal
+Sydney Basin ,151.151,-34.084,midden,Wk-22761,3643,32,3611,3675,Y,0,charcoal
+Sydney Basin ,151.151,-34.084,midden,Wk-22762,3662,53,3609,3715,Y,0,charcoal
+Sydney Basin ,151.151,-34.084,midden,Wk-22764,4151,32,4119,4183,Y,0,charcoal
+Sydney Basin ,151.151,-34.084,midden,Wk-22763,4563,33,4530,4596,Y,0,charcoal
+Sydney Basin ,151.05,-32.89,rockshelter,SUA-756,2495,105,2390,2600,Y,0,charcoal
+Sydney Basin ,151.151,-34.084,midden,Wk-15437,1034,35,999,1069,Y,0,marine shell (Anadara trapezia)
+Sydney Basin ,151.151,-34.084,midden,Wk-15436,2024,36,1988,2060,Y,0,marine shell (Anadara trapezia)
+Sydney Basin ,150.97,-33.36,rockshelter,SUA-387,2370,100,2270,2470,Y,0,charcoal
+Sydney Basin ,150.97,-33.36,rockshelter,SUA-676,3650,130,3520,3780,Y,0,scattered charcoal
+Sydney Basin ,150.97,-33.36,rockshelter,SUA-564,5820,110,5710,5930,Y,0,charcoal
+Sydney Basin ,151.14,-32.95,rockshelter,ANU-648,2350,85,2265,2435,Y,0,charcoal
+Tasmanian Central Highlands,146.08,-41.7,rockshelter,Beta-52811,780,50,730,830,Y,0,charcoal
+Tasmanian Central Highlands,146.08,-41.7,rockshelter,Beta-52812,3310,50,3260,3360,Y,0,charcoal
+Tasmanian Central Highlands,146.08,-41.7,rockshelter,Beta-52808,10370,120,10250,10490,Y,0,charcoal
+Tasmanian Central Highlands,146.08,-41.7,rockshelter,Beta-52813,10380,120,10260,10500,Y,0,charcoal
+Tasmanian Central Highlands,146.08,-41.7,rockshelter,Beta-53222,12930,150,12780,13080,Y,0,charcoal
+Tasmanian Central Highlands,146.08,-41.7,rockshelter,Beta-53221,13970,150,13820,14120,Y,0,charcoal
+Tasmanian Central Highlands,146.08,-41.7,rockshelter,Beta-53220,14250,220,14030,14470,Y,0,charcoal
+Tasmanian Central Highlands,146.08,-41.7,rockshelter,Beta-52810,18610,360,18250,18970,Y,0,charcoal
+Tasmanian Central Highlands,146.08,-41.7,rockshelter,Beta-51435,21940,620,21320,22560,Y,0,charcoal
+Tasmanian Central Highlands,146.08,-41.7,rockshelter,Beta-61608/CAMS-6050,27780,230,27550,28010,Y,0,charcoal
+Tasmanian Central Highlands,146.08,-41.7,rockshelter,Beta-68159/CAMS-10271,33260,420,32840,33680,U,0,charcoal
+Tasmanian Central Highlands,146.08,-41.7,rockshelter,Beta-68158/CAMS-10270,33850,450,33400,34300,U,0,charcoal
+Tasmanian Central Highlands,146.08,-41.7,rockshelter,Beta-68160/CAMS-10272,39970,950,39020,40920,N,0,charcoal
+Tasmanian Central Highlands,146.11,-41.85,rockshelter,Beta-4758,3380,100,3280,3480,Y,0,charcoal
+Tasmanian Central Highlands,146.11,-41.85,rockshelter,Beta-52438,3480,90,3390,3570,,0,charcoal
+Tasmanian Central Highlands,146.11,-41.85,rockshelter,Beta-4757,9760,720,9040,10480,Y,0,charcoal
+Tasmanian Central Highlands,146.11,-41.85,rockshelter,Beta-8466,10600,450,10150,11050,,0,charcoal
+Tasmanian Central Highlands,146.11,-41.85,rockshelter,Beta-52439,10910,110,10800,11020,,0,charcoal
+Tasmanian Northern Slopes,145.51,-40.86,rockshelter with midden deposits,V-87,450,105,345,555,U,0,charcoal
+Tasmanian Northern Slopes,145.51,-40.86,rockshelter with midden deposits,V-52,2420,60,2360,2480,U,0,charcoal
+Tasmanian Northern Slopes,145.51,-40.86,rockshelter with midden deposits,V-88,3430,95,3335,3525,U,0,charcoal
+Tasmanian Northern Slopes,145.51,-40.86,rockshelter with midden deposits,V-89,5425,135,5290,5560,Y,0,charcoal
+Tasmanian Northern Slopes,145.51,-40.86,rockshelter with midden deposits,V-83,3795,100,3695,3895,Y,0,charcoal
+Tasmanian Northern Slopes,145.51,-40.86,rockshelter with midden deposits,V-84,5075,250,4825,5325,U,0,charcoal
+Tasmanian Northern Slopes,145.51,-40.86,rockshelter with midden deposits,V-85,6145,200,5945,6345,U,0,charcoal
+Tasmanian Northern Slopes,145.51,-40.86,rockshelter with midden deposits,V-51,6445,80,6365,6525,U,0,charcoal
+Tasmanian Northern Slopes,145.51,-40.86,rockshelter with midden deposits,V-97,6745,145,6600,6890,Y,0,charcoal
+Tasmanian Northern Slopes,145.51,-40.86,rockshelter with midden deposits,V-86,7465,150,7315,7615,Y,0,charcoal
+Tasmanian Northern Slopes,145.51,-40.86,rockshelter with midden deposits,GXO-266,8120,165,7955,8285,Y,0,wood charcoal
+Tasmanian South East,147.33,-42.98,midden,SUA-599,3875,160,3715,4035,Y,0,charcoal
+Tasmanian South East,147.3,-43.15,midden,ANU-6940,7550,90,7460,7640,Y,0,marine shell
+Tasmanian South East,147.65,-42.88,midden,Beta-2854,5760,130,5630,5890,Y,0,charcoal
+Tasmanian South East,147.65,-42.88,midden,Beta-2855,7560,70,7490,7630,Y,0,charcoal
+Tasmanian South East,147.35,-43.12,midden,ANU-6945,880,60,820,940,Y,0,marine shell
+Tasmanian South East,147.25,-43.44,midden,ANU-6946,1100,60,1040,1160,Y,0,charcoal
+Tasmanian South East,147.27,-43.05,burial,SUA-1018B,445,80,365,525,Y,0,bone (collagen)
+Tasmanian South East,147.27,-43.05,burial,SUA-1018A,515,135,380,650,Y,0,bone (apatite)
+Tasmanian South East,147.27,-43.05,burial,SUA-626,840,95,745,935,Y,0,charcoal
+Tasmanian South East,147.27,-43.05,midden,ANU-6939,1090,90,1000,1180,Y,0,charcoal
+Tasmanian South East,147.35,-43.12,midden,ANU-6937,5410,70,5340,5480,Y,0,marine shell
+Tasmanian South East,147.35,-43.12,midden,ANU-6943,5420,80,5340,5500,Y,0,marine shell
+Tasmanian South East,147.26,-42.77,midden,SUA-308,1960,105,1855,2065,Y,0,charcoal
+Tasmanian South East,147.26,-42.77,midden,SUA-306,5800,130,5670,5930,Y,0,charcoal
+Tasmanian South East,147.26,-42.77,midden,SUA-307,6010,90,5920,6100,Y,0,marine
+Tasmanian South East,147.32,-42.87,midden,ANU-6938,5410,220,5190,5630,Y,0,charcoal
+Tasmanian South East,147.33,-42.87,midden,Beta-5099,5210,110,5100,5320,Y,0,charcoal
+Tasmanian South East,147.41,-43,midden,Not given,2080,100,1980,2180,Y,0,charcoal
+Tasmanian South East,147.33,-43.36,midden,ANU-6941,3980,70,3910,4050,Y,0,marine shell
+Tasmanian South East,147.18,-43.35,midden,ANU-6947,2530,60,2470,2590,Y,0,marine shell
+Tasmanian South East,147.18,-43.35,rockshelter with midden deposits,ANU-6944,230,77,153,307,Y,0,charcoal
+Tasmanian South East ,147.65,-42.88,midden,I-323,8700,200,8500,8900,Y,0,wood charcoal
+Tasmanian South East ,147.98,-42.32,open site,ANU-279,4170,80,4090,4250,Y,0,charcoal
+Tasmanian South East ,147.98,-42.32,open site,ANU-278,4860,96,4764,4956,Y,0,charcoal
+Tasmanian South East ,147.34,-43.1,midden,R1250/2,5220,200,5020,5420,Y,0,charcoal
+Tasmanian South East ,147.34,-43.1,midden,GXO-419,5235,280,4955,5515,Y,0,wood charcoal
+Tasmanian South East ,147.34,-43.1,midden,R1250/3,5270,90,5180,5360,Y,0,charcoal
+Tasmanian South East ,147.29,-42.87,midden,I-324,5220,110,5110,5330,Y,0,wood charcoal
+Tasmanian South East ,147.36,-42.85,midden,ANU-1090A,5420,85,5335,5505,U,0,charcoal
+Tasmanian South East ,147.36,-42.85,midden,ANU-1090B,5890,90,5800,5980,Y,0,charcoal
+Tasmanian South East ,147.09,-43.29,midden,GXO-265,1860,110,1750,1970,Y,0,wood charcoal
+Tasmanian South East ,147.27,-42.71,midden,SUA-1112,900,80,820,980,Y,0,charcoal
+Tasmanian South East ,147.27,-42.71,midden,SUA-1113,3965,260,3705,4225,Y,0,charcoal
+Tasmanian South East ,147.36,-43.05,midden,I-316,6050,350,5700,6400,Y,0,wood charcoal
+Tasmanian South East ,147.98,-42.32,midden,ANU-356,4490,120,4370,4610,Y,0,charcoal
+Tasmanian South East ,147.31,-42.81,midden,SUA-1313,5205,85,5120,5290,U,0,charcoal
+Tasmanian South East ,147.33,-42.84,rockshelter with midden deposits,Gak-5424,4720,110,4610,4830,Y,0,charcoal
+Tasmanian South East ,147.33,-42.84,rockshelter with midden deposits,Gak-5425,5300,120,5180,5420,Y,0,charcoal
+Tasmanian Southern Ranges,146.46,-42.55,rockshelter,R5001/3,14450,250,14200,14700,N,0,organic carbon (from animal bone)
+Tasmanian Southern Ranges,146.46,-42.55,rockshelter,R5001/4,12600,200,12400,12800,Y,0,charcoal
+Tasmanian Southern Ranges,146.46,-42.55,rockshelter,GaK-7081,20650,1790,18860,22440,Y,0,charcoal
+Tasmanian Southern Ranges,146.84,-42.27,rockshelter,Beta-25877,11630,200,11430,11830,Y,0,charcoal
+Tasmanian Southern Ranges,146.84,-42.27,rockshelter,Beta-25381,13100,110,12990,13210,Y,0,charcoal and soi
+Tasmanian Southern Ranges,146.84,-42.27,rockshelter,Beta-25878,13830,220,13610,14050,Y,0,charcoal
+Tasmanian Southern Ranges,146.84,-42.27,rockshelter,Beta-30951,14250,260,13990,14510,Y,0,charcoal
+Tasmanian Southern Ranges,146.84,-42.27,rockshelter,Beta-30952,15200,200,15000,15400,Y,0,charcoal
+Tasmanian Southern Ranges,146.84,-42.27,rockshelter,Beta-27075,16120,180,15940,16300,Y,0,charcoal
+Tasmanian Southern Ranges,146.84,-42.27,rockshelter,Beta-27076,21410,240,21170,21650,Y,0,charcoal
+Tasmanian Southern Ranges,146.84,-42.27,rockshelter,Beta-25879,24190,410,23780,24600,Y,0,charcoal
+Tasmanian Southern Ranges,146.84,-42.27,rockshelter,Beta-30953,27370,1690,25680,29060,Y,0,charcoal
+Tasmanian Southern Ranges,146.84,-42.27,rockshelter,Beta-25880,27770,420,27350,28190,Y,0,charcoal
+Tasmanian Southern Ranges,146.84,-42.27,rockshelter,Beta-28323,28000,720,27280,28720,Y,0,charcoal
+Tasmanian Southern Ranges,146.84,-42.27,rockshelter,Beta-25881,30420,690,29730,31110,Y,0,charcoal
+Tasmanian Southern Ranges,146.84,-42.27,rockshelter,Beta-28324,30750,1340,29410,32090,Y,0,charcoal
+Tasmanian Southern Ranges,146.44,-42.85,rockshelter,Beta-26509,13700,860,12840,14560,Y,0,charcoal
+Tasmanian Southern Ranges,146.44,-42.85,rockshelter,Beta-26510,14510,140,14370,14650,Y,0,charcoal
+Tasmanian Southern Ranges,146.44,-42.85,rockshelter,Beta-40346,14510,90,14420,14600,Y,0,charcoal
+Tasmanian Southern Ranges,146.44,-42.85,rockshelter,Beta-37548,14960,160,14800,15120,Y,0,charcoal
+Tasmanian Southern Ranges,146.44,-42.85,rockshelter,Beta-26511,15290,140,15150,15430,Y,0,charcoal
+Tasmanian Southern Ranges,146.44,-42.85,rockshelter,Beta-37553,15290,190,15100,15480,Y,0,charcoal
+Tasmanian Southern Ranges,146.44,-42.85,rockshelter,Beta-37546,15440,260,15180,15700,Y,0,charcoal
+Tasmanian Southern Ranges,146.44,-42.85,rockshelter,Beta-37552,15450,220,15230,15670,Y,0,charcoal
+Tasmanian Southern Ranges,146.44,-42.85,rockshelter,Beta-37545/ETH-6734,15840,170,15670,16010,Y,0,charcoal
+Tasmanian Southern Ranges,146.44,-42.85,rockshelter,Beta-40347,15870,270,15600,16140,U,0,charcoal
+Tasmanian Southern Ranges,146.44,-42.85,rockshelter,SUA-2104,16200,1150,15100,17400,Y,1,charcoal
+Tasmanian Southern Ranges,146.44,-42.85,rockshelter,Beta-26512,16820,110,16710,16930,Y,0,charcoal
+Tasmanian Southern Ranges,146.44,-42.85,rockshelter,Beta-40349,22730,180,22550,22910,Y,0,charcoal
+Tasmanian Southern Ranges,146.44,-42.85,rockshelter,Beta-40348,22980,560,22420,23540,Y,0,charcoal
+Tasmanian Southern Ranges,146.44,-42.85,rockshelter,Beta-29986,23130,460,22670,23590,Y,0,charcoal
+Tasmanian Southern Ranges,146.44,-42.85,rockshelter,Beta-48329,23220,190,23030,23410,Y,0,charcoal
+Tasmanian Southern Ranges,146.44,-42.85,rockshelter,Beta-37551,23220,270,22950,23490,Y,0,charcoal
+Tasmanian Southern Ranges,146.44,-42.85,rockshelter,Beta-29988,23270,170,23100,23440,Y,0,charcoal
+Tasmanian Southern Ranges,146.44,-42.85,rockshelter,Beta-48330,23420,340,23080,23760,Y,0,charcoal
+Tasmanian Southern Ranges,146.44,-42.85,rockshelter,Beta-40331,23790,200,23590,23990,Y,0,charcoal
+Tasmanian Southern Ranges,146.44,-42.85,rockshelter,Beta-40332,24040,230,23810,24270,Y,0,charcoal
+Tasmanian Southern Ranges,146.44,-42.85,rockshelter,Beta-29989,26190,180,26010,26370,Y,0,charcoal
+Tasmanian Southern Ranges,146.44,-42.85,rockshelter,Beta-37547,28330,720,27610,29050,U,0,charcoal
+Tasmanian Southern Ranges,146.44,-42.85,rockshelter,Beta-37554,28330,630,27700,28960,Y,0,scattered charcoal
+Tasmanian Southern Ranges,146.44,-42.85,rockshelter,Beta-29987,29000,520,28480,29520,Y,0,charcoal
+Tasmanian Southern Ranges,146.84,-41.56,rockshelter,Beta-27078,2450,70,2380,2520,Y,0,charcoal
+Tasmanian Southern Ranges,146.84,-41.56,rockshelter,Beta-27079,10440,160,10280,10600,Y,0,charcoal
+Tasmanian Southern Ranges,146.84,-41.56,rockshelter,Beta-25620,17660,250,17410,17910,Y,0,charcoal
+Tasmanian Southern Ranges,146.84,-41.56,rockshelter,Beta-27077,18840,200,18640,19040,Y,0,charcoal
+Tasmanian Southern Ranges,146.84,-41.56,rockshelter,Beta-27080,19080,280,18800,19360,Y,0,charcoal
+Tasmanian Southern Ranges,146.84,-41.56,rockshelter (hearth),Beta-23404/ETH-3724,30840,480,30360,31320,Y,0,charcoal
+Tasmanian Southern Ranges,146.54,-43.52,rockshelter,ANU-7193,2070,70,2000,2140,Y,0,charcoal
+Tasmanian Southern Ranges,146.44,-42.85,rockshelter,Beta-74543/CAMS-14912,16670,70,16600,16740,Y,0,charcoal
+Tasmanian Southern Ranges,146.46,-42.55,rockshelter,GaK-6874,1140,90,1050,1230,Y,0,charcoal
+Tasmanian Southern Ranges,146.46,-42.55,rockshelter,GaK-6875,14310,2565,12150,17280,U,1,charcoal
+Tasmanian West,146.42,-42.61,rockshelter,R11769/5 NZA-565,14410,190,14220,14600,Y,0,charcoal
+Tasmanian West,145.17,-42.2,midden,V-20,1120,70,1050,1190,Y,0,charcoal
+Tasmanian West,146.42,-42.61,rockshelter,R11769/4 NZA-564,13840,160,13680,14000,Y,0,charcoal
+Tasmanian West,146.42,-42.61,rockshelter,R11746 NZA-313,17540,220,17320,17760,Y,0,charcoal
+Tasmanian West,145.74,-42.41,open site,ANU-3562,17100,1350,15750,18450,Y,0,charcoal
+Tasmanian West,145.76,-42.54,rockshelter,ANU-2781,14840,930,13910,15770,Y,0,charcoal
+Tasmanian West,145.76,-42.54,rockshelter,ANU-2783,15760,530,15230,16290,Y,0,charcoal
+Tasmanian West,145.76,-42.54,rockshelter,ANU-2782,17020,310,16710,17330,Y,0,charcoal
+Tasmanian West,145.76,-42.54,rockshelter,ANU-2785,19770,850,18920,20620,Y,0,charcoal
+Tasmanian West,146,-43,rock art,RIDDL-1269,9240,820,8420,10060,N,0,human blood protein
+Tasmanian West,146,-43,rock art,RIDDL-1268,10730,810,9920,11540,N,0,human blood protein
+Tasmanian West,145.73,-41.93,open site,Beta-46486,460,60,400,520,U,0,charcoal
+Tasmanian West,146.37,-43.52,rockshelter with midden deposits,GaK-5989,1250,100,1150,1350,Y,0,charcoal
+Tasmanian West,146.37,-43.52,rockshelter with midden deposits,GaK-5990,870,90,780,960,Y,0,charcoal
+Tasmanian West,146.37,-43.52,midden,ANU-1771,2970,200,2770,3170,U,0,charcoal
+Tasmanian West,146.37,-43.52,midden,SUA-1063B,2580,100,2480,2680,Y,0,bone organic fraction
+Tasmanian West,146.37,-43.52,midden,SUA-1063A,2830,155,2675,2985,Y,0,bone apatite
+Tasmanian West,146.37,-43.52,midden,GaK-6599,630,90,540,720,Y,0,charcoal
+Tasmanian West,146.37,-43.52,midden,GaK-5988,400,90,310,490,Y,0,charcoal
+Tasmanian West,146.37,-43.52,midden,GaK-5987,570,100,470,670,Y,0,charcoal
+Tasmanian West,145.7,-41.69,rockshelter,Beta-46302,4910,160,4750,5070,N,0,charcoal
+Tasmanian West,145.7,-41.69,rockshelter,Beta-54738,10440,170,10270,10610,Y,0,charcoal
+Tasmanian West,145.7,-41.69,rockshelter,Beta-54737,12000,200,11800,12200,Y,0,charcoal
+Tasmanian West,145.7,-41.69,rockshelter,Beta-46303,14820,140,14680,14960,N,0,charcoal
+Tasmanian West,145.7,-41.69,rockshelter,Beta-46304,14950,200,14750,15150,Y,0,charcoal
+Tasmanian West,145.7,-41.69,rockshelter,Beta-54739,15040,280,14760,15320,Y,0,charcoal
+Tasmanian West,145.7,-41.69,rockshelter,Beta-46305,15160,210,14950,15370,N,0,charcoal
+Tasmanian West,145.7,-41.69,rockshelter,Beta-45813,15560,200,15360,15760,N,0,charcoal
+Tasmanian West,145.7,-41.69,rockshelter,Beta-45805,15570,180,15390,15750,N,0,charcoal
+Tasmanian West,145.7,-41.69,rockshelter,Beta-45807,15620,190,15430,15810,N,0,charcoal
+Tasmanian West,145.7,-41.69,rockshelter,Beta-45814,15720,200,15520,15920,N,0,charcoal
+Tasmanian West,145.7,-41.69,rockshelter,Beta-45815,15730,170,15560,15900,Y,0,charcoal
+Tasmanian West,145.7,-41.69,rockshelter,Beta-46306,16010,300,15710,16310,Y,0,charcoal
+Tasmanian West,145.7,-41.69,rockshelter,Beta-54736,16200,120,16080,16320,Y,0,charcoal
+Tasmanian West,145.7,-41.69,rockshelter,Beta-45812,16500,190,16310,16690,Y,0,charcoal
+Tasmanian West,145.7,-41.69,rockshelter,Beta-45808,17030,430,16600,17460,Y,0,charcoal
+Tasmanian West,145.7,-41.69,rockshelter,Beta-54740,20880,390,20490,21270,Y,0,charcoal
+Tasmanian West,145.69,-42.12,rockshelter,Wk-2086,10250,420,9830,10670,Y,0,charcoal
+Tasmanian West,145.73,-41.93,open site,Wk-2090,1580,130,1450,1710,U,0,charcoal
+Tasmanian West,146.14,-42.84,open site,ANU-2787,300,150,150,450,U,0,charcoal
+Tasmanian West,145.69,-42.12,rockshelter,Wk-2089,330,105,225,435,Y,0,charcoal
+Tasmanian West,145.69,-42.12,rockshelter,Wk-2088,340,105,235,445,Y,0,charcoal
+Tasmanian West,145.83,-42.44,rockshelter,ANU-3982,13410,330,13080,13740,Y,0,charcoal
+Tasmanian West,145.83,-42.44,rockshelter,Beta-44077,14920,130,14790,15050,Y,0,charcoal
+Tasmanian West,145.83,-42.44,rockshelter,ANU-3983,15390,380,15010,15770,Y,0,charcoal
+Tasmanian West,145.83,-42.44,rockshelter,ANU-3984,15490,360,15130,15850,Y,0,charcoal
+Tasmanian West,145.83,-42.44,rockshelter,Beta-44076,15980,140,15840,16120,U,0,charcoal
+Tasmanian West,145.83,-42.44,rockshelter,Beta-44078,16420,90,16330,16510,Y,0,charcoal
+Tasmanian West,145.83,-42.44,rockshelter,Beta-66283,17110,150,16960,17260,Y,0,charcoal
+Tasmanian West,145.83,-42.44,rockshelter,Beta-44075,17530,430,17100,17960,Y,0,charcoal
+Tasmanian West,145.83,-42.44,rockshelter,Beta-44079,18060,170,17890,18230,Y,0,charcoal
+Tasmanian West,145.83,-42.44,rockshelter,Beta-62284,22240,530,21710,22770,Y,0,charcoal
+Tasmanian West,145.83,-42.44,rockshelter,Beta-44080,25510,450,25060,25960,Y,0,charcoal
+Tasmanian West,145.83,-42.44,rockshelter,Beta-62285,27250,530,26720,27780,Y,0,charcoal
+Tasmanian West,145.83,-42.44,rockshelter,Beta-44081,29800,720,29080,30520,Y,0,charcoal
+Tasmanian West,145.3,-42.6,rockshelter with midden deposits,Beta-53120,1690,70,1620,1760,Y,0,marine shell (Haliotis rubra)
+Tasmanian West,145.3,-42.6,rockshelter with midden deposits,Beta-47757,1720,100,1620,1820,Y,0,scattered charcoal
+Tasmanian West,145.3,-42.6,rockshelter with midden deposits,Beta-53121,4920,50,4870,4970,Y,0,marine shell (Turbo undulatus)
+Tasmanian West,145.3,-42.6,rockshelter with midden deposits,Beta-53936,5380,70,5310,5450,Y,0,marine shell (Turbo undulatus and Haliotis rubra)
+Tasmanian West,146.37,-43.52,midden,GaK-5991,250,80,170,330,Y,0,charcoal
+Tasmanian West,144.76,-41.34,midden,ANU-2491,900,250,650,1150,y,0,charcoal
+Tasmanian West,145.94,-42.49,rockshelter,Beta-42993,15960,310,15650,16270,Y,0,charcoal
+Tasmanian West,145.94,-42.49,rockshelter,Beta-42994,17570,220,17350,17790,Y,0,charcoal
+Tasmanian West,145.94,-42.49,rockshelter,Beta-42066/ETH-7663,17880,135,17745,18015,Y,0,charcoal
+Tasmanian West,145.94,-42.49,rockshelter,Beta-26961,18290,290,18000,18580,Y,0,charcoal
+Tasmanian West,145.94,-42.49,rockshelter,Beta-26958,19460,210,19250,19670,Y,0,charcoal
+Tasmanian West,145.94,-42.49,rockshelter,Beta-26959,19670,340,19330,20010,Y,0,charcoal
+Tasmanian West,145.94,-42.49,rockshelter,Beta-26960,21980,310,21670,22290,Y,0,charcoal
+Tasmanian West,145.94,-42.49,rockshelter,Beta-26962,22370,470,21900,22840,Y,0,charcoal
+Tasmanian West,145.94,-42.49,rockshelter,Beta-42995,22650,200,22450,22850,Y,0,charcoal
+Tasmanian West,145.94,-42.49,rockshelter,Beta-42996,24210,730,23480,24940,Y,0,charcoal
+Tasmanian West,145.94,-42.49,rockshelter,Beta-42065,26710,210,26500,26920,Y,0,charcoal
+Tasmanian West,145.94,-42.49,rockshelter,Beta-42997,26830,1240,25590,28070,Y,0,charcoal
+Tasmanian West,145.94,-42.49,rockshelter,Beta-46872/ETH-8508,27160,250,26910,27410,Y,0,charcoal
+Tasmanian West,145.94,-42.49,rockshelter,Beta-42059/ETH-8501,30210,300,29910,30510,Y,0,charcoal
+Tasmanian West,145.94,-42.49,rockshelter,OZF-416,30610,350,30260,30960,U,0,bone (Vombatus ursinus)
+Tasmanian West,145.94,-42.49,rockshelter,Beta-46873/ETH-8509,31610,370,31240,31980,Y,0,charcoal
+Tasmanian West,145.94,-42.49,rockshelter,OZF-415,31660,250,31410,31910,U,0,bone (Macropus rufogriseus)
+Tasmanian West,145.94,-42.49,rockshelter,ANUA-11710/143B,33170,670,32500,33840,Y,0,charcoal
+Tasmanian West,145.94,-42.49,rockshelter,Beta-42122B/ETH-7665B,34790,510,34280,35300,Y,0,charcoal
+Victoria Midlands,142.67,-37.3,rockshelter,Beta-98026,520,50,470,570,U,0,charcoal
+Victoria Midlands,142.67,-37.3,rockshelter,Beta-93344,870,60,810,930,U,0,charcoal
+Victoria Midlands,142.67,-37.3,rockshelter,Beta-98022,1050,60,990,1110,U,0,charcoal
+Victoria Midlands,142.67,-37.3,rockshelter,Beta-98027,2040,90,1950,2130,U,0,charcoal
+Victoria Midlands,142.67,-37.3,rockshelter,Beta-93345,2330,60,2270,2390,U,0,charcoal
+Victoria Midlands,142.67,-37.3,rockshelter,Beta-98023,2460,80,2380,2540,U,0,charcoal
+Victoria Midlands,142.67,-37.3,rockshelter,Beta-98028,3380,80,3300,3460,U,0,charcoal
+Victoria Midlands,142.67,-37.3,rockshelter,Beta-98025,3680,70,3610,3750,U,0,charcoal
+Victoria Midlands,142.67,-37.3,rockshelter,Beta-93346,3760,80,3680,3840,U,0,charcoal
+Victoria Midlands,142.67,-37.3,rockshelter,Beta-98024,3800,60,3740,3860,U,0,charcoal
+Victoria Midlands,142.67,-37.3,rockshelter,Beta-93347,4140,70,4070,4210,U,0,charcoal
+Victoria Midlands,142.67,-37.3,rockshelter,Beta-93349,5870,70,5800,5940,U,0,charcoal
+Victoria Midlands,142.67,-37.3,rockshelter,Beta-93348,6490,70,6420,6560,U,0,charcoal
+Victoria Midlands,142.67,-37.3,rockshelter,Beta-98021,8940,80,8860,9020,U,0,charcoal
+Victoria Midlands,142.1,-37.07,rockshelter,SUA-777,780,110,670,890,U,0,charcoal
+Victoria Midlands,142.1,-37.07,rockshelter,SUA-584,3330,100,3230,3430,Y,0,charcoal
+Victoria Midlands,142.42,-36.08,burial,Beta-25762,490,70,420,560,N,0,bark
+Victoria Midlands,144.83,-37.73,hearth,Wk-23580,11843,340,11503,12183,Y,0,charcoal
+Victoria Midlands,144.83,-37.73,hearth,Wk-23579,12422,128,12294,12550,Y,0,charcoal
+Victoria Midlands,144.83,-37.73,open site,Wk-9533,12879,59,12820,12938,Y,0,charcoal
+Victoria Midlands,144.83,-37.73,open site,NZA-8538,8926,60,8866,8986,Y,0,charcoal
+Victoria Midlands,144.83,-37.73,open site,NZA-8537,9024,63,8961,9087,Y,0,charcoal
+Victoria Midlands,142.28,-37.19,rockshelter,Beta-18891,600,60,540,660,U,0,charcoal
+Victoria Midlands,142.67,-37.3,rockshelter,Beta-28833,580,60,520,640,U,0,charcoal
+Victoria Midlands,142.67,-37.3,rockshelter,Beta-18890,730,70,660,800,U,0,charcoal
+Victoria Midlands,142.67,-37.3,rockshelter,Beta-88519,1720,60,1660,1780,Y,0,charcoal
+Victoria Midlands,142.67,-37.3,rockshelter,SUA-535,1870,100,1770,1970,Y,0,charcoal
+Victoria Midlands,142.67,-37.3,rockshelter,Beta-88520,2220,60,2160,2280,Y,0,charcoal
+Victoria Midlands,142.67,-37.3,rockshelter,Beta-88521,7090,80,7010,7170,Y,0,charcoal
+Victoria Midlands,142.67,-37.3,rockshelter,Beta-93350,7500,50,7450,7550,Y,0,charcoal
+Victoria Midlands,142.67,-37.3,rockshelter,Beta-88522,15840,120,15720,15960,Y,0,charcoal
+Victoria Midlands,142.67,-37.3,rockshelter,Beta-88523,22140,160,21980,22300,Y,0,charcoal
+Victoria Midlands,142.67,-37.3,rockshelter,Beta-98020,22160,150,22010,22310,Y,0,charcoal
+Victoria Midlands,142.67,-37.3,rockshelter,Beta-28836,520,40,480,560,U,0,charcoal
+Victoria Midlands,142.67,-37.3,rockshelter,Beta-28835,1450,70,1380,1520,U,0,charcoal
+Victoria Midlands,142.67,-37.3,rockshelter,SUA-534,820,95,725,915,U,0,charcoal
+Victoria Midlands,142.67,-37.3,rockshelter,SUA-533,1620,100,1520,1720,Y,0,charcoal
+Victoria Midlands,142.67,-37.3,rockshelter,Beta-28834,2940,80,2860,3020,U,0,charcoal
+Victoria Midlands,144.83,-37.73,burial,NZ-676,6460,190,6270,6650,Y,0,charcoal
+Victoria Midlands,144.83,-37.73,burial,V-65,8155,130,8025,8285,N,0,charcoal
+Victoria Midlands,144.83,-37.73,burial,V-63,8155,130,8025,8285,N,0,charcoal
+Victoria Midlands,144.83,-37.73,burial,V-64,8990,150,8840,9140,N,0,charcoal
+Victoria Midlands,144.83,-37.73,hearth,V-79,14940,500,14440,15440,U,0,charcoal
+Victoria Midlands,142.31,-37.22,rockshelter,Beta-93957,1400,50,1350,1450,U,0,charcoal
+Victoria Midlands,142.45,-37.1,hearth,Beta-135851,3930,50,3880,3980,Y,0,charcoal
+Victoria Midlands,142.45,-37.1,hearth,Beta-135852,4040,50,3990,4090,Y,0,charcoal
+Victoria Midlands,144.44,-37.16,open site,SUA-425B,1735,120,1615,1855,U,0,soil organic matter
+Victoria Midlands,144.44,-37.16,open site,SUA-425A,1915,110,1805,2025,U,0,soil organic matter
+Victoria Midlands,144.44,-37.16,open site,GX-4118C,3100,210,2890,3310,Y,0,bone (free carbonate)
+Victoria Midlands,144.44,-37.16,open site,GX-4118R,8775,260,8515,9035,Y,0,bone (insoluble residue)
+Victoria Midlands,144.44,-37.16,open site,SUA-407R,12550,650,11900,13200,Y,0,bone (insoluble residue)
+Victoria Midlands,144.44,-37.16,open site,Wk-2565,14950,1240,13710,16190,N,0,charcoal
+Victoria Midlands,144.44,-37.16,open site,SUA-407A,16070,315,15755,16385,Y,0,bone (apatite)
+Victoria Midlands,144.44,-37.16,open site,GX-4118A,19800,450,19350,20250,Y,0,bone (apatite)
+Victoria Midlands,144.44,-37.16,open site,NZA-4185,24320,210,24110,24530,N,0,bone (apatite)
+Victoria Midlands,144.44,-37.16,open site,SUA-685,25200,800,24400,26000,Y,0,charcoal
+Victoria Midlands,144.44,-37.16,open site,NZA-4186,26020,250,25770,26270,N,0,bone (apatite)
+Victoria Midlands,144.44,-37.16,open site,NZA-4192,26316,254,26062,26570,N,0,bone (apatite)
+Victoria Midlands,144.44,-37.16,open site,SUA-538,26600,650,25950,27250,Y,0,charcoal
+Victoria Midlands,144.44,-37.16,open site,NZA-4424,27210,210,27000,27420,N,0,bone (apatite)
+Victoria Midlands,144.44,-37.16,open site,NZA-4191,27250,300,26950,27550,N,0,bone (apatite)
+Victoria Midlands,142.15,-36.99,rockshelter,Beta-18887,3690,90,3600,3780,Y,0,charcoal
+Victoria Midlands,142.15,-36.99,rockshelter,Beta-18886,3800,80,3720,3880,Y,0,charcoal
+Victoria Midlands,142.15,-36.99,rockshelter,Beta-18889,3900,80,3820,3980,Y,0,charcoal
+Victoria Midlands,142.15,-36.99,rockshelter,Beta-18888,5170,80,5090,5250,Y,0,charcoal
+Victoria Midlands,142.05,-37.13,rockshelter,Beta-89596,100,60,40,160,U,0,charcoal
+Victoria Midlands,142.05,-37.13,rockshelter,Beta-89595,170,50,120,220,U,0,charcoal
+Victoria Midlands,142.05,-37.13,rockshelter,Beta-89597,620,60,560,680,U,0,charcoal
+Victoria Midlands,142.05,-37.13,rockshelter,Beta-89598,4530,70,4460,4600,U,0,charcoal
+Victoria Midlands,142.39,-36.93,rockshelter,Wk-11186,996,56,940,1052,Y,0,charcoal
+Victoria Midlands,142.39,-36.93,rockshelter,Beta-65752,1350,60,1290,1410,U,0,charcoal
+Victoria Midlands,142.39,-36.93,rockshelter,Wk-11187,2176,79,2097,2255,Y,0,charcoal
+Victoria Midlands,142.39,-36.93,rockshelter,Wk-11188,2283,47,2236,2330,Y,0,charcoal
+Victoria Midlands,142.39,-36.93,rockshelter,Wk-11185,3860,50,3810,3910,Y,0,charcoal
+Victoria Midlands,144.22,-36.89,earth mound,Beta-69644,140,50,90,190,Y,0,charcoal
+Victoria Midlands,144.22,-36.89,earth mound,Beta-69643,410,50,360,460,Y,0,charcoal
+Victoria Midlands,144.22,-36.89,earth mound,Beta-69646,650,80,570,730,Y,0,charcoal
+Victoria Midlands,144.22,-36.89,earth mound,NZA-3941,1195,72,1123,1267,U,0,charcoal
+Victoria Midlands,144.22,-36.89,earth mound,Beta-69642,1390,60,1330,1450,Y,0,charcoal
+Victoria Midlands,144.22,-36.89,earth mound,NZA-3909,1570,90,1480,1660,Y,0,charcoal
+Victoria Midlands,144.22,-36.89,earth mound,Beta-69645,270,50,220,320,Y,0,charcoal
+Victoria Midlands,142.36,-37.33,rockshelter,Beta-65751,2050,60,1990,2110,U,0,charcoal
+Victoria Midlands,144.44,-37.16,burial,SUA-1495,330,70,260,400,Y,0,cordarge (wood fibres from Acacia sp.)
+Victoria Volcanic Plain,142.71,-37.72,open site,SUA-575,1090,95,995,1185,Y,0,charcoal
+Victoria Volcanic Plain,142.14,-38.38,midden,SUA-87,1350,80,1270,1430,Y,0,marine shell
+Victoria Volcanic Plain,142.14,-38.38,midden,SUA-630,2380,100,2280,2480,Y,0,marine shell
+Victoria Volcanic Plain,142.14,-38.38,midden,SUA-89,2650,85,2565,2735,Y,0,marine shell
+Victoria Volcanic Plain,142.65,-37.86,earth mound,SUA-1924,340,60,280,400,Y,0,charcoal
+Victoria Volcanic Plain,142.65,-37.86,earth mound,SUA-572,640,95,545,735,Y,0,charcoal
+Victoria Volcanic Plain,142.65,-37.86,earth mound,SUA-778,778,95,683,873,Y,0,charcoal
+Victoria Volcanic Plain,142.65,-37.86,earth mound,SUA-1925,2080,70,2010,2150,Y,0,charcoal
+Victoria Volcanic Plain,143.16,-38.17,burial,R-4824,3600,60,3540,3660,Y,0,
+Victoria Volcanic Plain,142.75,-37.81,earth mound,SUA-571,1320,100,1220,1420,Y,0,charcoal
+Victoria Volcanic Plain,142.75,-37.81,earth mound,SUA-537,1840,100,1740,1940,Y,0,charcoal
+Victoria Volcanic Plain,142.85,-37.76,earth mound,SUA-574,2350,110,2240,2460,Y,0,charcoal
+Victoria Volcanic Plain,142.85,-37.76,earth mound,SUA-779,2370,150,2220,2520,Y,0,charcoal
+Victoria Volcanic Plain,145.87,-38.75,hearth,Beta-45593,1460,50,1410,1510,Y,0,charcoal
+Victoria Volcanic Plain,145.87,-38.75,hearth,Beta-61795,2160,70,2090,2230,Y,0,charcoal
+Victoria Volcanic Plain,146.23,-39.09,midden,ANU-2424,270,80,190,350,Y,0,charcoal
+Victoria Volcanic Plain,146.23,-39.09,midden,ANU-2425,320,170,150,490,Y,0,charcoal
+Victoria Volcanic Plain,146.23,-39.09,midden,ANU-2422,390,75,315,465,Y,0,charcoal
+Victoria Volcanic Plain,146.23,-39.09,midden,ANU-2423,750,80,670,830,U,0,marine shell (Cellana sp.)
+Victoria Volcanic Plain,146.23,-39.09,midden,ANU-2426,880,80,800,960,U,0,marine shell (Cellana sp.)
+Victoria Volcanic Plain,146.23,-39.09,midden,ANU-2427,1070,90,980,1160,Y,0,charcoal
+Victoria Volcanic Plain,146.23,-39.09,midden,ANU-2296,1440,100,1340,1540,Y,0,marine shell (Cellana solida)
+Victoria Volcanic Plain,146.23,-39.09,midden,ANU-2429,1480,120,1360,1600,Y,0,charcoal
+Victoria Volcanic Plain,146.23,-39.09,midden,ANU-2428,1580,80,1500,1660,U,0,marine shell (Cellana sp.)
+Victoria Volcanic Plain,146.23,-39.09,midden,ANU-3831,1660,80,1580,1740,U,0,marine shell (Cellana sp.)
+Victoria Volcanic Plain,146.23,-39.09,midden,ANU-3832,1850,120,1730,1970,Y,0,charcoal
+Victoria Volcanic Plain,146.23,-39.09,midden,ANU-2430,2330,80,2250,2410,U,0,marine shell (Cellana sp.)
+Victoria Volcanic Plain,146.23,-39.09,midden,ANU-2431,1350,80,1270,1430,U,0,marine shell (Cellana solida)
+Victoria Volcanic Plain,144.83,-37.73,hearth,W-125,3010,160,2850,3170,Y,0,charcoal
+Victoria Volcanic Plain,144.83,-37.73,open site,NZ-1320,5196,208,4988,5404,Y,0,carbonate
+Victoria Volcanic Plain,144.83,-37.73,midden,ANU-694,5570,90,5480,5660,U,0,charcoal and burnt earth
+Victoria Volcanic Plain,144.83,-37.73,open site,NZ-1222,6186,171,6015,6357,Y,0,carbonate
+Victoria Volcanic Plain,144.83,-37.73,midden,ANU-695,6660,110,6550,6770,U,0,charcoal and burnt earth
+Victoria Volcanic Plain,144.83,-37.73,open site,NZ-1321,6759,102,6657,6861,Y,0,carbonate
+Victoria Volcanic Plain,144.83,-37.73,open site,NZ-1326,6772,51,6721,6823,Y,0,bone carbonate
+Victoria Volcanic Plain,144.83,-37.73,midden,ANU-652,6810,460,6350,7270,U,0,charcoal and burnt earth
+Victoria Volcanic Plain,144.83,-37.73,burial,R-1742,7360,105,7255,7465,Y,0,carbonate
+Victoria Volcanic Plain,144.83,-37.73,open site,NZ-1221,7716,72,7644,7788,Y,0,carbonate
+Victoria Volcanic Plain,144.83,-37.73,hearth,W-169,8500,250,8250,8750,Y,0,charcoal
+Victoria Volcanic Plain,144.83,-37.73,burial,NZ-1327,12000,100,11900,12100,Y,0,human bone collagen
+Victoria Volcanic Plain,144.83,-37.73,hearth,SUA-2215,13300,950,12400,14300,Y,1,charcoal
+Victoria Volcanic Plain,144.83,-37.73,open site,ANU-735A,17400,1300,16100,18700,U,0,charcoal
+Victoria Volcanic Plain,144.83,-37.73,hearth,NZ-207,18000,500,17500,18500,Y,0,charcoal
+Victoria Volcanic Plain,144.83,-37.73,open site,ANU-734B,22860,1300,21560,24160,U,0,charcoal
+Victoria Volcanic Plain,144.83,-37.73,open site,ANU-735C,22860,1300,21560,24160,U,0,charcoal
+Victoria Volcanic Plain,144.83,-37.73,midden,ANU-81,24000,4500,18300,27300,Y,1,scattered charcoal
+Victoria Volcanic Plain,144.83,-37.73,hearth,ANU-697,26030,1295,24840,27430,Y,1,charcoal
+Victoria Volcanic Plain,144.83,-37.73,open site,ANU-734A,27450,1605,26000,29210,U,1,charcoal
+Victoria Volcanic Plain,144.83,-37.73,midden,ANU-65,31600,1200,30300,32700,N,1,charcoal
+Victoria Volcanic Plain,142.69,-37.78,earth mound,SUA-1921,1190,60,1130,1250,Y,0,charcoal
+Victoria Volcanic Plain,142.69,-37.78,earth mound,SUA-672,1420,100,1320,1520,Y,0,charcoal
+Victoria Volcanic Plain,142.69,-37.78,earth mound,SUA-1922,2040,70,1970,2110,Y,0,charcoal
+Victoria Volcanic Plain,142.69,-37.78,earth mound,SUA-536,7440,145,7295,7585,U,0,charcoal
+Victoria Volcanic Plain,142.69,-37.78,earth mound,Beta-118837,8600,80,8520,8680,U,0,charcoal
+Victoria Volcanic Plain,142.88,-37.71,open site,SUA-1335,12480,560,11920,13040,Y,0,charcoal
+Victoria Volcanic Plain,142.88,-37.71,open site,SUA-1456,580,70,510,650,Y,0,charcoal
+Victoria Volcanic Plain,143.62,-38.28,open site,Beta-93554,2070,60,2010,2130,N,0,charcoal
+Victoria Volcanic Plain,143.62,-38.28,open site (possible hearth),Beta-93555,6120,90,6030,6210,Y,0,charcoal
+Victoria Volcanic Plain,143.17,-38.17,burial,NZ-3163,3615,307,3308,3922,Y,0,bone (extracted organic material)
+Victoria Volcanic Plain,142.52,-38.39,midden,GaK-2857,2960,110,2850,3070,Y,0,marine shell
+Victoria Volcanic Plain,143.98,-38.54,midden,SUA-1692,870,80,790,950,U,0,marine shell (Subinella undulata)
+Victoria Volcanic Plain,144.83,-37.73,hearth,Gak-966,7700,140,7560,7840,Y,0,charcoal
+Victoria Volcanic Plain,144.83,-37.73,hearth,Gak-985,7710,150,7560,7860,Y,0,charcoal
+Victoria Volcanic Plain,142.86,-37.44,burial,GaK-1059,1190,90,1100,1280,Y,0,human bone collagen
+Victoria Volcanic Plain,143.26,-38.76,midden,GaK-9007,180,90,90,270,Y,0,charcoal
+Victoria Volcanic Plain,143.26,-38.76,midden,GaK-9008,590,110,480,700,Y,0,charcoal
+Victoria Volcanic Plain,143.26,-38.76,midden,GaK-9010,850,110,740,960,Y,0,charcoal
+Victoria Volcanic Plain,143.26,-38.76,midden,Beta-1690,960,65,895,1025,Y,0,charcoal
+Victoria Volcanic Plain,143.26,-38.76,midden,Gak-9011,1030,120,910,1150,Y,0,charcoal
+Victoria Volcanic Plain,141.82,-38.07,fish trap,OZL-604,205,35,170,240,Y,0,carbonised Eucalypt sp. 
+Victoria Volcanic Plain,141.82,-38.07,fish trap,OZL-605,260,30,230,290,Y,0,carbonised Eucalypt sp. 
+Victoria Volcanic Plain,141.82,-38.07,fish trap,OZL-758,300,40,260,340,Y,0,carbonised plant material
+Victoria Volcanic Plain,141.82,-38.07,fish trap,Wk-29098,397,30,367,427,Y,0,carbonised wood
+Victoria Volcanic Plain,141.82,-38.07,fish trap,Wk-28881,624,31,593,655,Y,0,carbonised wood
+Victoria Volcanic Plain,141.82,-38.07,fish trap,Wk-28882,665,31,634,696,Y,0,carbonised wood
+Victoria Volcanic Plain,141.82,-38.07,fish trap,Wk-28885,687,30,657,717,Y,0,carbonised wood
+Victoria Volcanic Plain,141.82,-38.07,fish trap,Wk-29096,752,30,722,782,Y,0,carbonised wood
+Victoria Volcanic Plain,141.82,-38.07,fish trap,Wk-28880,889,31,858,920,Y,0,carbonised wood
+Victoria Volcanic Plain,141.82,-38.07,fish trap,Wk-28888,919,30,889,949,Y,0,carbonised wood
+Victoria Volcanic Plain,141.82,-38.07,fish trap,Wk-29097,1543,30,1513,1573,Y,0,carbonised wood
+Victoria Volcanic Plain,141.82,-38.07,fish trap,Wk-28883,4715,43,4672,4758,Y,0,carbonised wood
+Victoria Volcanic Plain,141.82,-38.07,fish trap,OZL-759,5095,50,5045,5145,Y,0,carbonised plant material
+Victoria Volcanic Plain,141.82,-38.07,fish trap,OZL-608,5820,40,5780,5860,Y,0,carbonised wood
+Victoria Volcanic Plain,141.82,-38.07,fish trap,OZL-760,5870,50,5820,5920,Y,0,carbonised wood
+Victoria Volcanic Plain,141.82,-38.07,fish trap,OZL-609,8070,60,8010,8130,Y,0,carbonised wood
+Victoria Volcanic Plain,145.11,-38.52,midden,Beta-7063,1470,60,1410,1530,Y,0,charcoal
+Victoria Volcanic Plain,145.11,-38.52,midden,Beta-7064,1900,60,1840,1960,Y,0,charcoal
+Victoria Volcanic Plain,142.52,-38.39,midden,SUA-1615,1000,200,800,1200,Y,0,marine shell
+Victoria Volcanic Plain,142.52,-38.39,midden,SUA-2016,3900,50,3850,3950,Y,0,marine shell
+Victoria Volcanic Plain,143.55,-38.85,midden,Beta-11891,270,60,210,330,U,0,charcoal
+Victoria Volcanic Plain,143.55,-38.85,midden,Beta-11892,270,50,220,320,U,0,charcoal
+Victoria Volcanic Plain,143.55,-38.85,midden,Beta-11893,500,70,430,570,U,0,charcoal
+Victoria Volcanic Plain,143.55,-38.85,midden,Beta-11894,500,50,450,550,U,0,charcoal
+Victoria Volcanic Plain,143.55,-38.85,midden,SUA-552,1420,130,1290,1550,Y,0,charcoal
+Victoria Volcanic Plain,142.52,-38.39,midden,SUA-2018,3620,60,3560,3680,Y,0,charcoal
+Victoria Volcanic Plain,142.52,-38.39,midden,SUA-675,4130,200,3930,4330,Y,0,charcoal
+Victoria Volcanic Plain,142.52,-38.39,midden,SUA-674,840,98,742,938,Y,0,charcoal
+Victoria Volcanic Plain,142.52,-38.39,midden,GaK-2856,7300,150,7150,7450,Y,0,marine shell
+Victoria Volcanic Plain,144.66,-37.9,burial,SUA-1085,7290,145,7145,7435,Y,0,charcoal
+Victorian Midlands,142.14,-36.94,earth mound,SUA-583,820,95,725,915,Y,0,charcoal
+Victorian Midlands,142.86,-37.33,earth mound,ANU-4322,300,60,240,360,Y,0,charcoal
+Victorian Midlands,142.86,-37.33,open site,ANU-4519,3020,310,2710,3330,U,0,charcoal
+Victorian Midlands,142.86,-37.33,open site,ANU-3883,4990,260,4730,5250,U,0,charcoal
+Warren,115.08,-34.19,open site,SUA-455,9220,135,9085,9355,Y,0,scattered charcoal
+Warren,115.08,-34.19,open site,SUA-2445,11060,70,10990,11130,y,0,scattered charcoal
+Warren,115.08,-34.19,open site,SUA-456,18400,540,17860,18940,Y,0,scattered charcoal
+Warren,115,-34.04,midden,ARL-134,4310,110,4200,4420,Y,0,marine shell (Nerita shell)
+Warren,116.78,-35.01,midden,SUA-1811,580,80,500,660,Y,0,marine shell (Patella laticostata)
+Warren,115.07,-34.15,rockshelter,SUA-342,325,85,240,410,U,0,charcoal
+Warren,115.07,-34.15,rockshelter,SUA-364,6490,145,6345,6635,Y,0,charcoal
+Warren,115.07,-34.15,rockshelter,O-654,8500,160,8340,8660,Y,0,charcoal
+Warren,115.07,-34.15,rockshelter,SUA-102,11960,140,11820,12100,Y,0,charcoal
+Warren,115.07,-34.15,rockshelter,O-658,12175,275,11900,12450,Y,0,charcoal
+Warren,115.07,-34.15,rockshelter,SUA-539,27700,700,27000,28400,Y,0,charcoal
+Warren,115.07,-34.15,rockshelter,GX-7255,30590,1820,29170,32810,Y,1,charcoal
+Warren,115.07,-34.15,rockshelter,SUA-457,31400,1500,29900,32900,Y,0,charcoal
+Warren,115.07,-34.15,rockshelter,SUA-546,31800,1400,30400,33200,N,0,charcoal
+Warren,115.07,-34.15,rockshelter,SUA-585,32480,1250,31230,33730,Y,0,charcoal
+Warren,115.07,-34.15,rockshelter,SUA-586,35160,1800,33360,36960,Y,0,charcoal
+Warren,115.07,-34.15,rockshelter,SUA-698,37750,2500,35250,40250,N,0,charcoal
+Warren,115.07,-34.15,rockshelter,SUA-103,12050,140,11910,12190,Y,0,charcoal
+Warren,115.07,-34.15,rockshelter,OZD-320,12500,100,12400,12600,y,0,charcoal
+Warren,115.07,-34.15,rockshelter,OZD-323,12950,110,12840,13060,y,0,charcoal
+Warren,115.07,-34.15,rockshelter,OZD-321,13050,90,12960,13140,y,0,charcoal
+Warren,115.07,-34.15,rockshelter,OZD-322,13300,120,13180,13420,Y,0,charcoal
+Warren,115.07,-34.15,rockshelter,AA-19695,13580,110,13470,13690,Y,0,emu eggshell
+Warren,115.07,-34.15,rockshelter,GX-7249,13975,450,13525,14425,U,0,charcoal
+Warren,115.07,-34.15,rockshelter,AA-19691,19840,75,19765,19915,y,0,emu eggshell
+Warren,115.07,-34.15,rockshelter,SUA-977,21820,480,21340,22300,U,0,charcoal
+Warren,115.07,-34.15,rockshelter,OZD-325,21850,210,21640,22060,,0,charcoal
+Warren,115.07,-34.15,rockshelter,OZD-324,23050,250,22800,23300,,0,charcoal
+Warren,115.07,-34.15,rockshelter,AA-19690,24930,335,24595,25265,y,0,emu eggshell
+Warren,115.07,-34.15,rockshelter,AA-19689,25500,275,25225,25775,y,0,emu eggshell
+Warren,115.07,-34.15,rockshelter,OZD-326,25900,300,25600,26200,,0,charcoal
+Warren,115.07,-34.15,rockshelter,ANUA-10002,26590,360,26240,26960,Y,1,charcoal
+Warren,115.07,-34.15,rockshelter,OZD-327,38800,1750,37050,40550,,0,charcoal
+Warren,115.07,-34.15,rockshelter,OZD-331,40400,1900,38500,42300,N,0,charcoal
+Warren,115.07,-34.15,rockshelter,OZD-330,40500,1750,38750,42250,,0,charcoal
+Warren,115.07,-34.15,rockshelter,ANUA-11709,41460,1295,40270,42860,Y,1,charcoal
+Warren,115.07,-34.15,rockshelter,OZD-329,41500,2000,39500,43500,,0,charcoal
+Warren,115.07,-34.15,rockshelter,ANUA-11502,45570,1315,44360,46990,Y,1,charcoal
+Warren,115.07,-34.15,rockshelter,ANUA-11512,46730,1955,45010,48920,Y,1,charcoal
+Warren,115.07,-34.15,rockshelter,ANUA-11511,48130,2275,46170,50720,N,1,charcoal
+Warren,115.07,-34.15,rockshelter,SUA-31,24600,800,23800,25400,Y,0,charcoal
+Warren,115.07,-34.15,rockshelter,SUA-32,20400,1000,19400,21400,U,0,charcoal
+Warren,115.07,-34.15,rockshelter,SUA-33,19250,900,18350,20150,Y,0,charcoal
+Warren,115.07,-34.15,rockshelter,SUA-34,17400,350,17050,17750,U,0,charcoal
+Warren,115.07,-34.15,rockshelter,SUA-101,19000,250,18750,19250,Y,0,charcoal
+Warren,114.98,-33.95,midden,SUA-1621,550,80,470,630,Y,0,marine shell (Patella laticostata)
+Warren,114.98,-33.95,midden,Wk-1881,4250,70,4180,4320,U,0,marine
+Warren,117.93,-35.03,midden,SUA-1812,1010,80,930,1090,Y,0,marine shell (Nucella orbita)
+Warren,117.33,-35.02,rockshelter,ARL-158,1580,160,1420,1740,U,0,charcoal
+Warren,117.33,-35.02,rockshelter,Beta-21756,1890,60,1830,1950,U,0,charcoal
+Warren,117.33,-35.02,rockshelter,Wait-96,2310,180,2130,2490,U,0,charcoal
+Warren,115.68,-34.41,open site,SUA-2816,3820,60,3760,3880,N,0,wood (Melaleuca sp.)
+Warren,115.68,-34.41,open site,SUA-2777,3740,60,3680,3800,N,0,wood (Casuarina sp.)
+Warren,115.68,-34.41,open site,Beta-30158,4020,70,3950,4090,N,0,wood (Melaleuca sp.)
+Warren,115.68,-34.41,open site,SUA-2931,3700,60,3640,3760,N,0,wood (unknown species)
+Warren,115.68,-34.41,open site,Beta-38420,3810,60,3750,3870,N,0,wood (unknown species)
+Warren,117.33,-35.03,midden,SUA-1809,500,80,420,580,Y,0,marine shell (Patella laticostata)
+Warren,115.87,-34.64,midden,SUA-1622,330,80,250,410,Y,0,marine shell (Nerita atramentosa)
+Warren,116.05,-34.58,quarry,ANU-1131,3080,75,3005,3155,Y,0,charcoal
+Warren,116.05,-34.58,quarry,Wk-4657,3180,50,3130,3230,Y,0,charcoal
+Warren,114.99,-33.75,open site,SUA-686,10600,800,9800,11400,Y,0,charcoal
+Warren,114.99,-33.75,open site,SUA-688,10800,300,10500,11100,Y,0,charcoal
+Warren,114.99,-33.75,open site,SUA-687,18500,1700,16800,20200,Y,0,charcoal
+Warren,115,-33.98,rockshelter,Wk-1875,340,45,295,385,U,0,marine
+Warren,115,-33.98,rockshelter,Wk-1876,790,50,740,840,U,0,marine
+Warren,115,-33.98,rockshelter,Wk-1877,830,45,785,875,U,0,marine
+Warren,115.06,-34.17,rockshelter,SUA-227,2900,80,2820,2980,U,0,charcoal
+Warren,115.06,-34.17,rockshelter,SUA-228,7875,100,7775,7975,U,0,charcoal
+Warren,115.02,-34.02,rockshelter,Wk-3626,1370,40,1330,1410,Y,0,charcoal
+Warren,115.02,-34.02,rockshelter,Wk-4516,4280,60,4220,4340,U,0,charcoal
+Warren,115.02,-34.02,rockshelter,Wk-3625,8270,80,8190,8350,U,0,charcoal
+Warren,115.02,-34.02,rockshelter,Wk-3389,12400,240,12160,12640,Y,0,charcoal
+Warren,115.02,-34.02,rockshelter,Wk-3030,12590,180,12410,12770,Y,0,charcoal
+Warren,115.02,-34.02,rockshelter,Wk-4517,12840,90,12750,12930,U,0,charcoal
+Warren,115.02,-34.02,rockshelter,Wk-3390,16080,90,15990,16170,Y,0,charcoal
+Warren,115.02,-34.02,rockshelter,Wk-3391,16850,110,16740,16960,Y,0,charcoal
+Warren,115.02,-34.02,rockshelter,Wk-2934,17010,260,16750,17270,Y,0,charcoal
+Warren,115.02,-34.02,rockshelter,Wk-2933,17110,250,16860,17360,Y,0,charcoal
+Warren,115.02,-34.02,rockshelter,Wk-3392,19300,650,18650,19950,Y,0,charcoal
+Warren,115.02,-34.02,rockshelter,Wk-3031,19670,470,19200,20140,Y,0,charcoal
+Warren,115.02,-34.02,rockshelter,Wk-3393,21110,220,20890,21330,Y,0,charcoal
+Warren,115.02,-34.02,rockshelter,Wk-3394,22410,850,21560,23260,Y,0,charcoal
+Warren,115.01,-34.01,rockshelter,Wk-3954,400,50,350,450,Y,0,charcoal
+Warren,115.01,-34.01,rockshelter,Wk-3955,680,90,590,770,Y,0,charcoal
