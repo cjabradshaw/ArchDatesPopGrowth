@@ -10,7 +10,7 @@ This code accompanies the main analysis from <a href="https://github.com/cjabrad
 
 ## General approach
 
-1. calibrate raw radiocarbon dates to calendar year using the <code>rcarbon</code> package (using the <a href="https://c14.arch.ox.ac.uk/oxcalhelp/hlp_curves.html"><em>shcal20</em></a> calibration curve for non-marine dates, and the <a href="https://c14.arch.ox.ac.uk/oxcalhelp/hlp_curves.html"><em>marine20</em></a> calibration curve for marine dates (e.g., marine shells)
+1. calibrate raw radiocarbon dates to calendar year using the <code>rcarbon</code> package (based on the <a href="https://c14.arch.ox.ac.uk/oxcalhelp/hlp_curves.html"><em>shcal20</em></a> calibration curve for non-marine dates, and the <a href="https://c14.arch.ox.ac.uk/oxcalhelp/hlp_curves.html"><em>marine20</em></a> calibration curve for marine dates [e.g., marine shells])
 2. bin calibrated dates into 200-year interval bins (iteratively, sampling from calibrated range per date)
 3. apply smoothing spline (df = 25) to number of dates per bin (iteratively)
 4. apply taphonomic correction (i.e., number of dates necessarily declines with age because of taphonomic loss - mean correction data from: Williams, A.N., 2012. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0305440311002482">The use of summed radiocarbon probability distributions in archaeology: a review of methods</a>. <em>J. Archaeol. Sci.</em> 39, 578-589)
